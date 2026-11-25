@@ -24,7 +24,7 @@ for pid in sample:
         "product": rec["product"],
         "E": f"E{rec['legacy']['E']}",
         "S": f"S{rec['legacy']['score']}",
-        "p_status": rec["v5"]["p_status"],
+        "p_status": ("还没评" if rec["v5"]["p_status"] in (None, "未完成实用评估") else rec["v5"]["p_status"]),
         "d_tier": rec["v5"]["d_tier"] or "尚无差异证据或待评",
     }
     for k, v in checks.items():

@@ -250,3 +250,18 @@ footer p { margin: 0 0 0.4rem; }
   .field { grid-template-columns: 1fr; gap: 0.1rem; }
   .card { padding: 0.8rem; }
 }
+
+.price {
+  margin: 0.35rem 0 0;
+  font-weight: 600;
+  color: var(--ink);
+  font-size: 0.95rem;
+}
+.buys .tag {
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.05rem 0.45rem;
+  margin-left: 0.4rem;
+}

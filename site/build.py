@@ -49,9 +49,9 @@ def e_band(e):
     if e is None:
         return "未知"
     if e >= 6:
-        return "证据较硬"
+        return "证据比较硬"
     if e >= 3:
-        return "证据中等"
+        return "证据一般"
     return "证据偏少"
 
 
@@ -66,7 +66,9 @@ P_ORDER = {
 
 
 def p_label(rec):
-    status = rec["v5"].get("p_status") or "未完成实用评估"
+    status = rec["v5"].get("p_status")
+    if not status or status == "未完成实用评估":
+        return "还没评"
     return status
 
 
@@ -111,33 +113,33 @@ def build_index(products, config):
 <body data-page="index">
 <header class="topbar">
   <a class="brand" href="index.html">{h(name)}</a>
-  <span class="topbar-link">共 {total} 条 · 先选用途再看条目</span>
+  <span class="topbar-link">共 {total} 条</span>
 </header>
 <main>
   <section class="hero">
     <h1>{h(name)}</h1>
     <p class="tagline">{h(config['siteTagline'])}</p>
-    <p class="lede" id="lede">先选用途，再选品类，然后看单个条目。不做跨品类总分排名。</p>
+    <p class="lede" id="lede">挑个用途，再挑品类，一条条看。</p>
     <ul class="stats">
-      <li><strong>{total}</strong><span>条目</span></li>
-      <li><strong>{daily}</strong><span>日常</span></li>
-      <li><strong>{rx}</strong><span>治疗／创面</span></li>
-      <li><strong>{p_done}</strong><span>P 已评</span></li>
-      <li><strong>{d_done}</strong><span>D 案例</span></li>
+      <li><strong>{total}</strong><span>全部条目</span></li>
+      <li><strong>{daily}</strong><span>日常护理</span></li>
+      <li><strong>{rx}</strong><span>医用／创面</span></li>
+      <li><strong>{p_done}</strong><span>已评值不值</span></li>
+      <li><strong>{d_done}</strong><span>有看点</span></li>
     </ul>
   </section>
 
   <section class="howto" aria-labelledby="howto-title">
-    <h2 id="howto-title">三个数字，各看一件事</h2>
+    <h2 id="howto-title">三个评分，各管一件事</h2>
     <dl>
-      <dt><span class="chip chip-e">E · 证据有多硬</span></dt>
-      <dd>公开研究里，能核对到的人体证据有多确定。数字高说明研究做得实、能查到出处；但证据硬不等于效果更大。</dd>
-      <dt><span class="chip chip-p">P · 日常值不值得选</span></dt>
-      <dd>日常买得值不值。看已核对的配方线索、用途是否对得上、风险和使用限制。目前只评了一部分；没评的写「未完成实用评估」，这不是差评。</dd>
-      <dt><span class="chip chip-d">D · 有没有新信号</span></dt>
-      <dd>有没有别人没有的研究点，比如特定人群、特殊剂型或新机制线索。有小研究也不代表比基础款更好。</dd>
+      <dt><span class="chip chip-e">E · 证据硬不硬</span></dt>
+      <dd>公开研究里能查到多少人体证据。分高说明真有人做过像样的试验、出处可查。注意：证据硬不等于效果猛——很多便宜货证据反而最硬。</dd>
+      <dt><span class="chip chip-p">P · 值不值得买</span></dt>
+      <dd>日常买来用到底值不值，看配方、用途对不对得上、有没有坑。目前只评完一小部分，写「还没评」的不是差评，是真没轮到。</dd>
+      <dt><span class="chip chip-d">D · 有没有新东西</span></dt>
+      <dd>有没有独门看点：新机制、特殊剂型、特定人群。有看点不代表更好用，只是值得关注。</dd>
     </dl>
-    <p class="note">页面只整理公开证据与购买线索，供你核对；不下单、不代付款，也不替代医生诊断。</p>
+    <p class="note">这里只负责查证据、找渠道，买不买你自己定。皮肤出了问题，先看医生。</p>
   </section>
 
   <div id="app" aria-live="polite">
@@ -146,7 +148,7 @@ def build_index(products, config):
 </main>
 <footer>
   <p>{h(config['footerNote'])}</p>
-  <p class="small">数据来自讨论包 2026-11-24（r44 快照，476 条）+ 贵价小众研究批（research-v1，{total - 476} 条）。购买链接「{h(config['purchaseLabel'])}」，下单前请再核对包装、店铺身份与实时价。</p>
+  <p class="small">数据基于 2026-11-24 讨论包（476 条）+ 贵价小众研究批（{total - 476} 条），共 {total} 条。购买链接只是指路，下单前记得自己核对店铺和实时价。</p>
 </footer>
 <script src="assets/app.js" defer></script>
 </body>
@@ -156,7 +158,7 @@ def build_index(products, config):
 
 
 def field_row(label, value, cls=""):
-    text = value if (isinstance(value, str) and value.strip()) else "未知／待核"
+    text = value if (isinstance(value, str) and value.strip()) else "还没查到"
     return f'<div class="field {cls}"><dt>{h(label)}</dt><dd>{h(text)}</dd></div>'
 
 
@@ -172,28 +174,28 @@ def build_detail(rec, config):
         )
         buy_html = f'<ul class="buylist">{buy_html}</ul>'
     else:
-        buy_html = '<p class="unknown">购买线索：未知／待核（本轮未核到可用链接）</p>'
+        buy_html = '<p class="unknown">这条还没查到可用的购买链接。</p>'
 
     buy_note = buy.get("buyNote")
     note_html = f'<p class="note">{h(buy_note)}</p>' if buy_note else ""
 
     legacy = rec.get("legacy") or {}
     rows = "".join([
-        field_row("品名", rec.get("product")),
-        field_row("条目 id", rec.get("id"), "mono"),
+        field_row("产品", rec.get("product")),
+        field_row("编号", rec.get("id"), "mono"),
         field_row("品类", rec.get("cat_label")),
         field_row("用途", rec.get("board_label")),
         field_row("价位带", rec.get("band_label")),
-        field_row("参考价", rec.get("price")),
-        field_row("主打作用", rec.get("role")),
-        field_row("缺点与限制", rec.get("drawback")),
-        field_row("活性／配方线索", rec.get("actives")),
-        field_row("主终点与测法", rec.get("endpoint")),
-        field_row("证据出处", rec.get("cites")),
-        field_row("合规／备案线索", rec.get("official")),
-        field_row("渠道", rec.get("channel")),
-        field_row("使用注意", rec.get("caution")),
-        field_row("适用情景", rec.get("suit")),
+        field_row("查到的价格", rec.get("price")),
+        field_row("干嘛用的", rec.get("role")),
+        field_row("缺点和限制", rec.get("drawback")),
+        field_row("靠什么起效", rec.get("actives")),
+        field_row("效果怎么验证", rec.get("endpoint")),
+        field_row("证据从哪来", rec.get("cites")),
+        field_row("备案和资质", rec.get("official")),
+        field_row("在哪买得到", rec.get("channel")),
+        field_row("用的时候注意", rec.get("caution")),
+        field_row("适合谁", rec.get("suit")),
     ])
 
     e = legacy.get("E")
@@ -218,29 +220,30 @@ def build_detail(rec, config):
 
   <div class="scores">
     <div class="chip chip-e"><span class="num">E{h(e if e is not None else '?')}</span><span class="sub">{h(e_band(e))}</span></div>
-    <div class="chip chip-s"><span class="num">S{h(s if s is not None else '?')}</span><span class="sub">旧门总分</span></div>
-    <div class="chip chip-p"><span class="num">{h(p_label(rec))}</span><span class="sub">P 选购档</span></div>
-    <div class="chip chip-d"><span class="num">{h(d_label(rec))}</span><span class="sub">D 差异层</span></div>
+    <div class="chip chip-s"><span class="num">S{h(s if s is not None else '?')}</span><span class="sub">老算法总分</span></div>
+    <div class="chip chip-p"><span class="num">{h(p_label(rec))}</span><span class="sub">值不值得买</span></div>
+    <div class="chip chip-d"><span class="num">{h(d_label(rec))}</span><span class="sub">有没有新东西</span></div>
   </div>
-  <p class="note">E 说明证据有多确定，S 是 v4.2 旧评分（满分 13），P 说明日常值不值得选，D 说明有没有独特研究点。三者互不等价。</p>
+  <p class="note">E 是证据硬度，S 是老版本综合分（满分 13），P 是值不值得买，D 是有没有独门看点。四个数各管各的，别混着看。</p>
 
   <section class="panel">
-    <h2>旧门判定</h2>
-    <p>{h(legacy.get('verdict_label') or '未知／待核')} · parts: <span class="mono">{h(legacy.get('parts') or '未知')}</span></p>
-    <p class="note">{h(legacy.get('grade') or '评分说明：未知／待核')}</p>
-    <p class="note">旧门标签只说明证据确定性，不等于更值得买。</p>
+    <h2>证据判定</h2>
+    <p>{h(legacy.get('verdict_label') or '还没评')} <span class="mono subtle">{h(legacy.get('parts') or '')}</span></p>
+    <p class="note">{h(legacy.get('grade') or '评分说明还没写')}</p>
+    <p class="note">这个判定只说证据硬不硬，跟值不值得买是两回事。</p>
   </section>
 
   <section class="panel">
-    <h2>字段明细</h2>
-    <dl class="fields">{rows}</dl>
-  </section>
-
-  <section class="panel">
-    <h2>购买线索（{h(config['purchaseLabel'])}）</h2>
+    <h2>在哪买（指路非推荐）</h2>
     {buy_html}
     {note_html}
   </section>
+
+  <section class="panel">
+    <h2>逐条明细</h2>
+    <dl class="fields">{rows}</dl>
+  </section>
+
 </main>
 <footer><p>{h(config['footerNote'])}</p></footer>
 </body>

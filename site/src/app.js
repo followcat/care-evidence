@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var BOARD_LABEL = { daily: "日常", rx: "治疗／创面" };
+  var BOARD_LABEL = { daily: "日常护理", rx: "皮肤出问题（医用）" };
   var P_ORDER = {
     "基础用途优选": 0,
     "条件适用": 1,
@@ -9,9 +9,10 @@
     "对照·条件适用": 3,
     "待核": 4
   };
+  var BAND_ORDER = { le100: 0, b300: 1, b500: 2, b1000: 3, b2000: 4, b3000: 5 };
   var CAT_ORDER = [
     "sunscreen", "serum", "basics", "barrier", "cream", "bodylotion",
-    "bodywash", "shampoo", "conditioner", "toothpaste"
+    "bodywash", "shampoo", "conditioner", "toothpaste", "mask", "oral"
   ];
 
   var state = {
@@ -33,7 +34,9 @@
   }
 
   function pStatus(rec) {
-    return (rec.v5 && rec.v5.p_status) || "未完成实用评估";
+    var v = rec.v5 && rec.v5.p_status;
+    if (!v || v === "未完成实用评估") return "还没评";
+    return v;
   }
 
   function pBand(rec) {
@@ -41,7 +44,7 @@
   }
 
   function dTier(rec) {
-    return (rec.v5 && rec.v5.d_tier) || "尚无差异证据或待评";
+    return (rec.v5 && rec.v5.d_tier) || "暂无看点";
   }
 
   function num(v) {
@@ -96,6 +99,14 @@
     } else if (state.sort === "s") {
       var sa = num(a.legacy && a.legacy.score), sb = num(b.legacy && b.legacy.score);
       if (sa !== sb) return (sb || 0) - (sa || 0);
+    } else if (state.sort === "price") {
+      var ba = BAND_ORDER[a.band] != null ? BAND_ORDER[a.band] : 9;
+      var bb = BAND_ORDER[b.band] != null ? BAND_ORDER[b.band] : 9;
+      if (ba !== bb) return ba - bb;
+    } else if (state.sort === "pricedesc") {
+      var ba2 = BAND_ORDER[a.band] != null ? BAND_ORDER[a.band] : -1;
+      var bb2 = BAND_ORDER[b.band] != null ? BAND_ORDER[b.band] : -1;
+      if (ba2 !== bb2) return bb2 - ba2;
     } else if (state.sort === "name") {
       var c = String(a.product).localeCompare(String(b.product), "zh-Hans-CN");
       if (c !== 0) return c;
@@ -113,6 +124,21 @@
     return String(a.id).localeCompare(String(b.id));
   }
 
+  function hasText(v) {
+    return typeof v === "string" && v.trim().length > 0;
+  }
+
+  function shortPrice(v) {
+    if (!hasText(v)) return "";
+    var s = v.replace(/\s*[·;；]\s*20\d\d-\d\d-\d\d.*$/, "").trim();
+    var cut = s.indexOf("；");
+    if (cut > 0) s = s.slice(0, cut);
+    cut = s.indexOf("; ");
+    if (cut > 0) s = s.slice(0, cut);
+    if (s.length > 42) s = s.slice(0, 42) + "…";
+    return s;
+  }
+
   function cardHtml(rec) {
     var e = rec.legacy && rec.legacy.E;
     var s = rec.legacy && rec.legacy.score;
@@ -120,26 +146,30 @@
     var d = dTier(rec);
     var links = buyLinks(rec);
     var buyHtml = links.length
-      ? '<div class="buys"><span class="tag">仅供核验</span>' + links.map(function (l) {
+      ? '<div class="buys">' + links.map(function (l) {
           return '<a class="buy-link" href="' + esc(l.href) +
             '" target="_blank" rel="noopener noreferrer nofollow">' + esc(l.label) + "</a>";
-        }).join("") + "</div>"
-      : '<div class="buys"><span class="unknown">购买线索：未知／待核</span></div>';
+        }).join("") + '<span class="tag">指路非推荐</span></div>'
+      : '<div class="buys"><span class="unknown">还没查到靠谱链接</span></div>';
+
+    var lines = "";
+    var sp = shortPrice(rec.price);
+    if (sp) lines += '<p class="price">' + esc(sp) + "</p>";
+    if (hasText(rec.role)) lines += '<p class="role">' + esc(rec.role) + "</p>";
+    if (hasText(rec.drawback)) lines += '<p class="drawback">缺点：' + esc(rec.drawback) + "</p>";
 
     return '<li class="card">' +
       '<div class="card-head">' +
         '<a class="pname" href="p/' + esc(rec.id) + '/index.html">' + esc(rec.product) + "</a>" +
-        '<span class="meta">' + esc(rec.cat_label) + " · " + esc(rec.board_label) + "</span>" +
+        '<span class="meta">' + esc(rec.cat_label) + " · " + esc(rec.band_label || "") + "</span>" +
       "</div>" +
       '<div class="badges">' +
-        '<span class="chip chip-e">E' + esc(e == null ? "?" : e) + "</span>" +
-        '<span class="chip chip-s">S' + esc(s == null ? "?" : s) + "</span>" +
-        '<span class="chip chip-p">' + esc(p) + "</span>" +
-        '<span class="chip chip-d">D · ' + esc(d) + "</span>" +
+        '<span class="chip chip-e" title="证据硬不硬">E' + esc(e == null ? "?" : e) + "</span>" +
+        '<span class="chip chip-s" title="老算法总分">S' + esc(s == null ? "?" : s) + "</span>" +
+        '<span class="chip chip-p" title="值不值得买">' + esc(p) + "</span>" +
+        '<span class="chip chip-d" title="有没有新东西">D · ' + esc(d) + "</span>" +
       "</div>" +
-      '<p class="role">' + esc(rec.role || "主打作用：未知／待核") + "</p>" +
-      '<p class="drawback">缺点：' + esc(rec.drawback || "未知／待核") + "</p>" +
-      '<p class="cites">证据出处：' + esc(rec.cites || "未知／待核") + "</p>" +
+      lines +
       buyHtml +
     "</li>";
   }
@@ -170,36 +200,38 @@
         (state.cat === "__all__") + '">全部品类<small>' + (counts[state.board] || 0) + " 条</small></button>"
       : "";
 
-    return '<section class="step"><h2>1 · 先选用途</h2><div class="choices">' +
+    return '<section class="step"><h2>先看用途</h2><div class="choices">' +
       boardHtml + '</div></section>' +
       (state.board
-        ? '<section class="step"><h2>2 · 再选品类</h2><div class="choices">' +
+        ? '<section class="step"><h2>再看品类</h2><div class="choices">' +
           catHtml + catAll + "</div></section>"
-        : '<p class="note">选好用途后出现品类。</p>');
+        : '<p class="note">点了用途，品类就出来了。</p>');
   }
 
   function renderToolbar() {
     var verdictOpts = [
-      ["", "全部证据档"],
-      ["rec", "证据充分（旧门）"],
-      ["consider", "证据中等（旧门）"],
-      ["weak", "证据有限（旧门）"],
-      ["skip", "证据不足（旧门）"]
+      ["", "证据：全部"],
+      ["rec", "证据够硬"],
+      ["consider", "证据还行"],
+      ["weak", "证据偏弱"],
+      ["skip", "没啥证据"]
     ];
     var pOpts = [
-      ["", "全部 P 档"],
+      ["", "值不值：全部"],
       ["基础用途优选", "基础用途优选"],
       ["条件适用", "条件适用"],
       ["对照·选购成立", "对照·选购成立"],
       ["对照·条件适用", "对照·条件适用"],
       ["待核", "待核"],
-      ["__none__", "未完成实用评估"]
+      ["__none__", "还没评的"]
     ];
     var sortOpts = [
-      ["default", "默认：P 档 → E 档"],
-      ["e", "E 证据档"],
-      ["s", "S 旧评分"],
-      ["name", "品名"]
+      ["default", "默认排序"],
+      ["e", "证据最硬在前"],
+      ["price", "价格从低到高"],
+      ["pricedesc", "价格从高到低"],
+      ["s", "老总分高的在前"],
+      ["name", "按名字"]
     ];
     function opts(list, val) {
       return list.map(function (o) {
@@ -208,12 +240,12 @@
       }).join("");
     }
     return '<div class="toolbar">' +
-      '<label class="grow">搜索<input id="q" type="search" placeholder="品名 / id / 品牌关键词" value="' +
+      '<label class="grow">搜一下<input id="q" type="search" placeholder="品名 / 成分 / 品牌关键词" value="' +
         esc(state.q) + '"></label>' +
-      '<label>证据档<select id="verdict">' + opts(verdictOpts, state.verdict) + "</select></label>" +
-      '<label>P 档<select id="pband">' + opts(pOpts, state.pband) + "</select></label>" +
-      '<label>排序<select id="sort">' + opts(sortOpts, state.sort) + "</select></label>" +
-      '<button class="reset" type="button" id="reset">清空筛选</button>' +
+      '<label><select id="verdict" aria-label="证据">' + opts(verdictOpts, state.verdict) + "</select></label>" +
+      '<label><select id="pband" aria-label="值不值">' + opts(pOpts, state.pband) + "</select></label>" +
+      '<label><select id="sort" aria-label="排序">' + opts(sortOpts, state.sort) + "</select></label>" +
+      '<button class="reset" type="button" id="reset">清空</button>' +
     "</div>";
   }
 
@@ -224,8 +256,8 @@
     if (!state.cat || state.cat === "__all__") {
       var groups = {};
       filtered.forEach(function (r) { (groups[r.cat] = groups[r.cat] || []).push(r); });
-      if (!filtered.length) return head + '</p><p class="empty">没有符合条件的条目，试试清空筛选。</p>';
-      var html = head + "（按品类分组，品类之间不排名）</p>";
+      if (!filtered.length) return head + '</p><p class="empty">这个筛法啥也没剩，清一清筛选再试。</p>';
+      var html = head + "（按品类分了组，组跟组之间不比高下）</p>";
       CAT_ORDER.forEach(function (c) {
         var list = groups[c];
         if (!list || !list.length) return;
@@ -235,20 +267,52 @@
       });
       return html;
     }
-    if (!filtered.length) return head + '</p><p class="empty">没有符合条件的条目，试试清空筛选。</p>';
+    if (!filtered.length) return head + '</p><p class="empty">这个筛法啥也没剩，清一清筛选再试。</p>';
     return head + "</p><ul class=\"list\">" + filtered.map(cardHtml).join("") + "</ul>";
   }
 
   function render() {
     if (!state.board) {
-      lede.textContent = "先选用途，再选品类，然后看单个条目。不做跨品类总分排名。";
+      lede.textContent = "挑个用途，再挑品类，一条条看。";
       app.innerHTML = renderChoices();
+      syncHash();
       return;
     }
-    lede.textContent = "当前：" + BOARD_LABEL[state.board] +
+    lede.textContent = "现在看的是：" + BOARD_LABEL[state.board] +
       (state.cat && state.cat !== "__all__" ? " · " + (products.find(function (r) { return r.cat === state.cat; }) || {}).cat_label : " · 全部品类");
     app.innerHTML = renderChoices() +
       (state.cat ? renderToolbar() + '<div id="list">' + renderList() + "</div>" : "");
+    syncHash();
+  }
+
+  function syncHash() {
+    var parts = [];
+    if (state.board) parts.push("board=" + state.board);
+    if (state.cat && state.cat !== "__all__") parts.push("cat=" + state.cat);
+    else if (state.cat === "__all__") parts.push("cat=__all__");
+    if (state.q) parts.push("q=" + encodeURIComponent(state.q));
+    if (state.verdict) parts.push("verdict=" + state.verdict);
+    if (state.pband) parts.push("pband=" + encodeURIComponent(state.pband));
+    if (state.sort && state.sort !== "default") parts.push("sort=" + state.sort);
+    var hash = parts.length ? "#" + parts.join("&") : "#";
+    if (location.hash !== hash) {
+      history.replaceState(null, "", hash === "#" ? location.pathname + location.search : hash);
+    }
+  }
+
+  function loadHash() {
+    if (!location.hash || location.hash.length < 2) return;
+    var params = {};
+    location.hash.slice(1).split("&").forEach(function (kv) {
+      var i = kv.indexOf("=");
+      if (i > 0) params[kv.slice(0, i)] = decodeURIComponent(kv.slice(i + 1));
+    });
+    if (params.board === "daily" || params.board === "rx") state.board = params.board;
+    if (params.cat) state.cat = params.cat;
+    if (params.q) state.q = params.q;
+    if (params.verdict) state.verdict = params.verdict;
+    if (params.pband) state.pband = params.pband;
+    if (params.sort) state.sort = params.sort;
   }
 
   function bind() {
@@ -295,6 +359,7 @@
     var list = document.getElementById("list");
     if (!list) return;
     list.innerHTML = renderList();
+    syncHash();
   }
 
   fetch("data/products.json", { cache: "no-cache" })
@@ -305,11 +370,12 @@
     .then(function (data) {
       if (!Array.isArray(data) || !data.length) throw new Error("数据为空");
       products = data;
+      loadHash();
       render();
       bind();
     })
     .catch(function (err) {
-      app.innerHTML = '<p class="empty">数据载入失败（' + esc(err.message) +
-        "）。请通过本地服务器打开：python3 -m http.server -d site/dist 8000</p>";
+      app.innerHTML = '<p class="empty">数据没加载出来（' + esc(err.message) +
+        "）。别双击 HTML 文件，起个本地服务再看：python3 -m http.server -d site/dist 8000</p>";
     });
 })();
