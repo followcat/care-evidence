@@ -1,0 +1,397 @@
+{
+  "tools": [
+    {
+      "name": "image_search",
+      "description": "Get Image Search By Pic\n\n图搜商品: 根据图片搜索商品\n\n### Responses:\n\n**200**: Successful Response (Success Response)\nContent-Type: application/json\n\n**Example Response:**\n```json\n{\n  \"error_code\": 1,\n  \"error_msg\": \"Error Msg\"\n}\n```",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "img_url": {
+            "type": "string",
+            "title": "img_url",
+            "description": "图片url"
+          },
+          "is_auto_first_cate_name": {
+            "type": "integer",
+            "title": "is_auto_first_cate_name",
+            "description": "是否开启识别分类,0-不开启，1-开启"
+          }
+        },
+        "title": "image_searchArguments",
+        "required": [
+          "img_url",
+          "is_auto_first_cate_name"
+        ]
+      }
+    },
+    {
+      "name": "universal_content_search",
+      "description": "Get Universal Content Search\n\n内容搜索Pro：执行互联网内容搜索，获取最新内容、网页、图片、新闻等信息\n\n### Responses:\n\n**200**: Successful Response (Success Response)\nContent-Type: application/json\n\n**Example Response:**\n```json\n{\n  \"error_code\": 1,\n  \"error_msg\": \"Error Msg\"\n}\n```",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "maxLength": 100,
+            "minLength": 1,
+            "title": "query",
+            "description": "用户的搜索问题，支持长度范围1~100个字符"
+          },
+          "time_range": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "OneDay",
+                  "OneWeek",
+                  "OneMonth",
+                  "OneYear",
+                  "TwoYear",
+                  "NoLimit"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "time_range",
+            "description": "检索内容的时间范围。OneDay：1天内，OneWeek：1周内，OneMonth：1月内，OneYear：1年内，TwoYear：2年内，NoLimit：无限制",
+            "default": "TwoYear",
+            "type": "string"
+          },
+          "recall_num": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "maximum": 50.0,
+                "minimum": 1.0
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "recall_num",
+            "description": "查询结果要返回的文章数，取值范围1~50，默认15",
+            "default": 15,
+            "type": "integer"
+          },
+          "ranker_advanced": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "ranker_advanced",
+            "description": "是否需要检索增强版的排序，默认开启",
+            "default": true,
+            "type": "boolean"
+          },
+          "rewrite": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "rewrite",
+            "description": "用户问题是否需要改写，默认关闭",
+            "default": false,
+            "type": "boolean"
+          },
+          "search_type": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "web",
+                  "image",
+                  "video"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "search_type",
+            "description": "检索内容的资源类型。web：网页，image：图像（暂未上线），video：视频（暂未上线）",
+            "default": "web",
+            "type": "string"
+          }
+        },
+        "title": "universal_content_searchArguments",
+        "required": [
+          "query"
+        ]
+      }
+    },
+    {
+      "name": "product_search_pro",
+      "description": "Get Product Pro Search\n\n商品搜索Pro：执行互联网商品搜索，获取最新商品信息\n\n### Responses:\n\n**200**: Successful Response (Success Response)\nContent-Type: application/json\n\n**Example Response:**\n```json\n{\n  \"error_code\": 1,\n  \"error_msg\": \"Error Msg\"\n}\n```",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "request_from": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "request_from",
+            "description": "请求来源",
+            "default": "mcp",
+            "type": "string"
+          },
+          "question_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "question_id",
+            "description": "问题ID",
+            "default": "",
+            "type": "string"
+          },
+          "product_query": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "product_query",
+            "description": "商品查询",
+            "default": "",
+            "type": "string"
+          },
+          "query_process": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "query_process",
+            "description": "查询处理",
+            "default": 1,
+            "type": "integer"
+          },
+          "size": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "size",
+            "description": "返回数量",
+            "default": 20,
+            "type": "integer"
+          },
+          "mall_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "mall_id",
+            "description": "商城ID",
+            "default": "",
+            "type": "string"
+          },
+          "brand_name": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "brand_name",
+            "description": "品牌名称",
+            "default": "",
+            "type": "string"
+          },
+          "category_name": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "category_name",
+            "description": "分类名称",
+            "default": "",
+            "type": "string"
+          },
+          "min_price": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "min_price",
+            "description": "最低价格",
+            "type": "number"
+          },
+          "max_price": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "max_price",
+            "description": "最高价格",
+            "type": "number"
+          },
+          "sort": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "sort",
+            "description": "排序",
+            "default": "",
+            "type": "string"
+          },
+          "fields": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "fields",
+            "description": "字段",
+            "default": "",
+            "type": "string"
+          }
+        },
+        "title": "product_search_proArguments"
+      }
+    },
+    {
+      "name": "discount_search",
+      "description": "Get Discount Search\n\n好价折扣搜索：根据商品查询获取好价折扣商品信息,好价搜索pro\n\n### Responses:\n\n**200**: Successful Response (Success Response)\nContent-Type: application/json\n\n**Example Response:**\n```json\n{\n  \"error_code\": 1,\n  \"error_msg\": \"Error Msg\"\n}\n```",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "request_from": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "request_from",
+            "description": "请求来源",
+            "type": "string"
+          },
+          "question_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "question_id",
+            "description": "问题ID",
+            "type": "string"
+          },
+          "product_query": {
+            "type": "string",
+            "title": "product_query",
+            "description": "商品查询字符串"
+          },
+          "query_process": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "query_process",
+            "description": "查询处理方式",
+            "default": 1,
+            "type": "integer"
+          },
+          "size": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "size",
+            "description": "返回数量",
+            "default": 20,
+            "type": "integer"
+          },
+          "fields": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "fields",
+            "description": "返回字段",
+            "default": "",
+            "type": "string"
+          }
+        },
+        "title": "discount_searchArguments",
+        "required": [
+          "request_from",
+          "question_id",
+          "product_query"
+        ]
+      }
+    }
+  ]
+}

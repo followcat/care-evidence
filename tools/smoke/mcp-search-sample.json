@@ -1,0 +1,667 @@
+{
+  "generated_at": "2026-11-25T11:12:46+00:00",
+  "endpoint_host": "haina-mcp (host redacted in report)",
+  "calls": [
+    {
+      "tool": "product_search_pro",
+      "arguments": {
+        "product_query": "适乐肤 CeraVe 保湿洁面乳",
+        "size": 5,
+        "brand_name": "CeraVe/适乐肤"
+      },
+      "result": {
+        "error_code": 0,
+        "error_msg": "Success",
+        "data": [
+          {
+            "product_query": "适乐肤 CeraVe 保湿洁面乳",
+            "title": "欧洲直邮Cerave适乐肤无泡温和洁面乳236ml保湿补水深层清洁正品",
+            "url": "https://uland.taobao.com/item/edetail?id=MAdXpm7cKtXejQQWQXHJgU7CA-pokK6WTRxojmnrjSA&skuId=4818722699164",
+            "main_picture": "http://whole-product-image.smzdm.com/whole_product_picture/gw.alicdn.com_imgextra_O1CN016rK4R46Zh5L1chua_!!4066234693-0-tmg_sticker.jpg",
+            "pictures": [
+              "https://gw.alicdn.com/imgextra/O1CN018atpyuS9OZB1chua_!!4066234693-0-tmg_sticker.jpg",
+              "https://img.alicdn.com/i2/2201196294013/O1CN016Vn84U1fW0Y5LbyLt_!!2201196294013.jpg",
+              "https://img.alicdn.com/i2/2201196294013/O1CN016Vn84U1fW0Y5LbyLt_!!2201196294013.jpg",
+              "https://img.alicdn.com/i2/2201196294013/O1CN01urdoOf1fW0Y5sxbJI_!!2201196294013.jpg",
+              "https://img.alicdn.com/i2/2201196294013/O1CN01wwuheO1fW0Y65UQTj_!!2201196294013.jpg"
+            ],
+            "cate1_name": "个护化妆",
+            "cate2_name": "面部护理",
+            "cate3_name": "洁面产品",
+            "page_price": 266.0,
+            "price": "¥108.16",
+            "promotional_info": "折扣: 满1件打4.28折,满1件打9.50折",
+            "good_comments_share": "0.0",
+            "mall_id": "6753",
+            "mall_name": "其他商城",
+            "brand_id": "5455",
+            "brand_name": "CeraVe/适乐肤",
+            "price_tags": [
+              {
+                "title": "常卖价",
+                "price": "¥108.92"
+              },
+              {
+                "title": "历史最低",
+                "price": "¥108.84"
+              },
+              {
+                "title": "30天最低",
+                "price": "¥108.84"
+              }
+            ],
+            "shop_name": "天猫国际全球探物",
+            "shop_type": "自营",
+            "standard_month_sale_qty": "None",
+            "score": "0.950612"
+          },
+          {
+            "product_query": "适乐肤 CeraVe 保湿洁面乳",
+            "title": "CeraVe适乐肤氨基酸洗面奶洁面乳油性温和清洁",
+            "url": "https://s.click.taobao.com/t?e=m%3D2%26s%3DyKuF2m%2FfPilw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMTNydwDCtifR8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rFOmPb74Ltqy1BNzLRiWj5OemaFM5tHHYxZyjQcbVDheesoYp3R6EYZ%2Fidqvpu3nJTwd%2FFKpaFZSSNXhLNkW%2FzC%2BcWABLIQPYOa2uZckD7UTCyRQyJEdaRA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdMItckQxxPrOKmi5NQnSxJsC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795604482@213ce421_1425_1a2125e09d1_bae4@01",
+            "main_picture": "http://whole-product-image.smzdm.com/whole_product_picture/gw.alicdn.com_imgextra_O1CN01bCA3Oq2LtYl3xTmB2_!!4207869750.jpg",
+            "pictures": [
+              "https://gw.alicdn.com/imgextra/O1CN01A4Wez8gq1OB2R3rs_!!4207869750.jpg",
+              "https://img.alicdn.com/i4/4207869750/O1CN01TTsQ2mSC4FL2R3rs_!!4207869750.jpg",
+              "https://img.alicdn.com/i2/4207869750/O1CN01LQwLRDHQNFJ1chua_!!4207869750.jpg",
+              "https://img.alicdn.com/i3/4207869750/O1CN01HT6Hhv2LtYkv7KMPB_!!4207869750.jpg"
+            ],
+            "cate1_name": "个护化妆",
+            "cate2_name": "面部护理",
+            "cate3_name": "洁面产品",
+            "page_price": 125.0,
+            "price": "¥99",
+            "promotional_info": "领券: 满118.0元减10.0元,直降: 单品立减16.0",
+            "good_comments_share": "0.0",
+            "mall_id": "247",
+            "mall_name": "天猫精选",
+            "brand_id": "5455",
+            "brand_name": "CeraVe/适乐肤",
+            "price_tags": [
+              {
+                "title": "常卖价",
+                "price": "¥88.00"
+              },
+              {
+                "title": "历史最低",
+                "price": "¥60.19"
+              },
+              {
+                "title": "30天最低",
+                "price": "¥60.19"
+              },
+              {
+                "title": "双十一价",
+                "price": "¥60.44"
+              },
+              {
+                "title": "618价",
+                "price": "¥70.65"
+              },
+              {
+                "title": "大促价",
+                "price": "¥60.44"
+              }
+            ],
+            "shop_name": "CeraVe适乐肤官方旗舰店",
+            "shop_type": "旗舰店",
+            "standard_month_sale_qty": "None",
+            "score": "0.950256",
+            "union_spec": "{\"SpecParams\": {\"化妆品备案编号/注册证号\": \"苏G妆网备字2021504433\", \"品牌\": \"CeraVe/适乐肤\", \"洁面单品\": \"舒缓净颜泡沫洁面啫喱\", \"功效\": \"舒缓\", \"产地\": \"中国\", \"净含量\": \"多规格，236ml，473ml，472ml，946ml\", \"规格类型\": \"正常规格\", \"保质期\": \"3年\", \"包装种类\": \"基础包装\", \"是否为特殊用途化妆品\": \"否\", \"限期使用日期范围\": \"2028-04-01至2029-03-31\", \"生产厂家名称\": \"苏州尚美国际化妆品有限公司\"}}",
+            "WhiteImage": "http://whole-product-image.smzdm.com/whole_product_white_picture/img.alicdn.com_bao_uploaded_O1CN01bG3PeO22JrCN9oLBn_!!6000000007100-0-yinhe.jpg"
+          },
+          {
+            "product_query": "适乐肤 CeraVe 保湿洁面乳",
+            "title": "CeraVe适乐肤洗面奶100g积雪草舒缓保湿敏感肌氨基酸洁面乳",
+            "url": "https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=665462932055&pid=240005_63649475&display_mod=101&goods_sign=E9f2OJrgfMNHtvaxwfjBZFOxp_e9QYU1bQ_JQW5TJW8Nm&customParameters=%7B%22uid%22%3A%2251175c02784c3830%22%7D&cpsSign=CC_261125_240005_63649475_fc034f9984ff2037c23d9565e135a6d0&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2&launch_pdd=1&campaign=ddjb&cid=launch_dl_force_",
+            "main_picture": "http://whole-product-image.smzdm.com/whole_product_picture/img.pddpic.com_mms-material-img_2025-06-07_31031ed3-393c-4b40-876a-89147256e558.jpeg.a.jpeg",
+            "pictures": [
+              "https://img.pddpic.com/mms-material-img/2025-06-07/31031ed3-393c-4b40-876a-89147256e558.jpeg.a.jpeg",
+              "https://img.pddpic.com/mms-material-img/2024-08-16/d18cf571-fb6b-4889-8a28-0559a6a21a80.jpeg",
+              "https://img.pddpic.com/mms-material-img/2024-08-16/acb384a8-945a-4727-b6bc-2b33170fbaad.jpeg",
+              "https://img.pddpic.com/mms-material-img/2024-08-16/0fe862a5-d16d-4794-945c-23dfbc15495d.jpeg"
+            ],
+            "cate1_name": "个护化妆",
+            "cate2_name": "面部护理",
+            "cate3_name": "洁面产品",
+            "page_price": 88.9,
+            "price": "¥59.9",
+            "sales_cnt": "607",
+            "good_comments_share": "0.0",
+            "mall_id": "8645",
+            "mall_name": "拼多多",
+            "brand_id": "5455",
+            "brand_name": "CeraVe/适乐肤",
+            "price_tags": [
+              {
+                "title": "常卖价",
+                "price": "¥59.90"
+              },
+              {
+                "title": "历史最低",
+                "price": "¥59.90"
+              },
+              {
+                "title": "30天最低",
+                "price": "¥59.90"
+              },
+              {
+                "title": "双十一价",
+                "price": "¥59.90"
+              },
+              {
+                "title": "618价",
+                "price": "¥59.90"
+              },
+              {
+                "title": "大促价",
+                "price": "¥59.90"
+              }
+            ],
+            "shop_name": "适乐肤佳庭佰专卖店",
+            "shop_type": "其他第三方",
+            "standard_month_sale_qty": "None",
+            "score": "0.949828"
+          },
+          {
+            "product_query": "适乐肤 CeraVe 保湿洁面乳",
+            "title": "CeraVe适乐肤温和保湿洁面乳473ml国内版干皮适用清洁水润不紧绷",
+            "url": "https://s.click.taobao.com/t?e=m%3D2%26s%3D5t6BlN1DOXVw4vFB6t2Z2ueEDrYVVa64XoO8tOebS%2BdRAdhuF14FMTNydwDCtifR8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X4dI%2Bz15VaTTOemaFM5tHHZ4CTHdso7N%2B96uf%2BrFHWySNa1Qu%2BNOWUkKHsEogGaj2rLyNl222d66P6PfzCUvavYanXWOcPb5SR1P%2Be9GQs9v9OmVMHwJWBQmvFw3zpxG3xncHs5o0t38qVLIbwMbuXjPuQiguBCZlCGFCzYOOqAQ&union_lens=lensId:TAPI@1795604482@0b8040fa_147a_1a2125e09c8_6160@01&skuId=5557604224392",
+            "main_picture": "http://whole-product-image.smzdm.com/whole_product_picture/gw.alicdn.com_imgextra_O1CN018hirUF1Jaes9k31aC_!!2911041045.jpg",
+            "pictures": [
+              "https://gw.alicdn.com/imgextra/O1CN018hirUF1Jaes9k31aC_!!2911041045.jpg",
+              "https://img.alicdn.com/i2/2911041045/O1CN01dF9BQx1Jaes6iXfY1_!!2911041045.jpg",
+              "https://img.alicdn.com/i2/2911041045/O1CN01jQuCaG1JaesBBIFwj_!!2911041045.jpg",
+              "https://img.alicdn.com/i1/2911041045/O1CN01C84GWX1Jaes90WUN6_!!2911041045.jpg",
+              "https://img.alicdn.com/i1/2911041045/O1CN01JdNveq1JaesBBLsUF_!!2911041045.jpg"
+            ],
+            "cate1_name": "个护化妆",
+            "cate2_name": "面部护理",
+            "cate3_name": "洁面产品",
+            "page_price": 73.9,
+            "price": "¥63.9",
+            "promotional_info": "领券: 满12.0元减10.0元",
+            "good_comments_share": "0.0",
+            "mall_id": "243",
+            "mall_name": "淘宝精选",
+            "brand_id": "5455",
+            "brand_name": "CeraVe/适乐肤",
+            "price_tags": [
+              {
+                "title": "常卖价",
+                "price": "¥65.00"
+              },
+              {
+                "title": "历史最低",
+                "price": "¥60.90"
+              },
+              {
+                "title": "30天最低",
+                "price": "¥63.00"
+              },
+              {
+                "title": "双十一价",
+                "price": "¥71.40"
+              },
+              {
+                "title": "618价",
+                "price": "¥61.33"
+              },
+              {
+                "title": "大促价",
+                "price": "¥61.33"
+              }
+            ],
+            "shop_name": "格格吉祥美妆",
+            "shop_type": "其他第三方",
+            "standard_month_sale_qty": "None",
+            "score": "0.943933"
+          },
+          {
+            "product_query": "适乐肤 CeraVe 保湿洁面乳",
+            "title": "【樊振东推荐】CeraVe适乐肤氨基酸敏感肌洗面奶洁面乳236ml*2",
+            "url": "https://uland.taobao.com/item/edetail?id=o3rbRPxhrtK9ewVvArcMesKCN-9bQ7yKCOM6mObAahY&skuId=5936736735869",
+            "main_picture": "http://whole-product-image.smzdm.com/whole_product_picture/gw.alicdn.com_imgextra_O1CN016CVJMc1ekpizxK9gj_!!6000000003910-0-sm.jpg",
+            "pictures": [
+              "https://gw.alicdn.com/imgextra/O1CN013yG2w8tMtTD1chua_!!6000000002889-0-sm.jpg",
+              "https://img.alicdn.com/i3/6000000000858/O1CN015Hyvba1ID0wIZ4Efb_!!6000000000858-0-at.jpg",
+              "https://img.alicdn.com/i2/6000000002921/O1CN015dNlFs1XRs1TWPC95_!!6000000002921-0-at.jpg",
+              "https://img.alicdn.com/i2/6000000003477/O1CN01IeC9SB1bYWEZ6ytz8_!!6000000003477-0-at.jpg",
+              "https://img.alicdn.com/i1/6000000002764/O1CN01tgTxHr1WHxqAikwup_!!6000000002764-0-at.jpg"
+            ],
+            "cate1_name": "个护化妆",
+            "cate2_name": "面部护理",
+            "cate3_name": "洁面产品",
+            "page_price": 207.0,
+            "price": "¥152.95",
+            "promotional_info": "直降: 直降46.0,折扣: 满1件打9.50折",
+            "good_comments_share": "0.0",
+            "mall_id": "2537",
+            "mall_name": "其他商城",
+            "brand_id": "5455",
+            "brand_name": "CeraVe/适乐肤",
+            "price_tags": [
+              {
+                "title": "常卖价",
+                "price": "¥143.45"
+              },
+              {
+                "title": "历史最低",
+                "price": "¥109.74"
+              },
+              {
+                "title": "30天最低",
+                "price": "¥116.43"
+              },
+              {
+                "title": "双十一价",
+                "price": "¥120.51"
+              },
+              {
+                "title": "618价",
+                "price": "¥132.76"
+              },
+              {
+                "title": "大促价",
+                "price": "¥120.51"
+              }
+            ],
+            "shop_name": "天猫超市",
+            "shop_type": "自营",
+            "standard_month_sale_qty": "None",
+            "score": "0.938772"
+          }
+        ]
+      }
+    },
+    {
+      "tool": "discount_search",
+      "arguments": {
+        "product_query": "防晒霜",
+        "size": 5
+      },
+      "result": {
+        "error_code": 0,
+        "error_msg": "Success",
+        "data": {
+          "more_url": "https://search.m.smzdm.com/?s=防晒霜&zfrom=Ailab",
+          "more_dplink": "smzdm://common/0000?json=%7B%27channel_name%27%3A%27common%27%2C%27url%27%3A%27http%3A//search.m.smzdm.com/%3Fs%3D%E9%98%B2%E6%99%92%E9%9C%9C%26zfrom%3DAilab%27%2C%27linkVal%27%3A%27http%3A//search.m.smzdm.com/%3Fs%3D%E9%98%B2%E6%99%92%E9%9C%9C%26zfrom%3DAilab%27%2C%27frompage%27%3A%27Ailab%27%2C%27targetpage%27%3A%27Ailab%27%7D",
+          "rows": [
+            {
+              "title": "移动端、88VIP：蜜丝婷 水感哑光清盈防护面部防晒霜 泰版",
+              "url": "https://www.smzdm.com/p/186430657",
+              "direct_link": "https://detail.tmall.com/item.htm?id=564842070490",
+              "focus_pic_url": "https://y.zdmimg.com/202611/19/6aff0e06baf3b5533.jpg_a640.jpg",
+              "content": "天猫国际该商品正在促销，领取88VIP 95折优惠券，买2件，实付61.37元，最终到手价30.68元/件，喜欢可入。使用淘金币再省6.58元起，根据账号情况可能抵更多，建议亲测。",
+              "price": "30.68",
+              "digital_price": "30.68",
+              "page_price": "82.2",
+              "mall_id": 2897,
+              "mall_name": "天猫国际",
+              "brand_id": 26187,
+              "brand_name": "Mistine/蜜丝婷",
+              "cate1_name": "个护化妆",
+              "cate2_name": "面部护理",
+              "cate3_name": "防晒隔离",
+              "haojia_dplink": "smzdm://common/0000?json=%7B%22channelName%22%3A%22common%22%2C%22url%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186430657%2F%3Fzfrom%3DDP_yoyo%22%2C%22linkVal%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186430657%2F%3Fzfrom%3DDP_yoyo%22%2C%22frompage%22%3A%22DP_yoyo%22%2C%22targetpage%22%3A%22DP_yoyo%22%7D",
+              "publish_date": "2026-11-19 22:58:02",
+              "cate4_name": "面部防晒",
+              "b2c_list": [],
+              "product_query": "防晒霜",
+              "article_id": "186430657",
+              "pubdate": "2026-11-19 22:58:02"
+            },
+            {
+              "title": "花西子 小黛伞2.0防晒霜SPF50+妆前隔离遮瑕三合一保湿提亮素颜霜",
+              "url": "https://www.smzdm.com/p/186454164",
+              "direct_link": "https://detail.tmall.com/item.htm?id=1078303573350",
+              "focus_pic_url": "https://y.zdmimg.com/202611/20/6affa38bcb95b9261.jpg_a640.jpg",
+              "content": "天猫超市此款目前活动售价199元，下单领取满170减50元优惠券，参与立减30元，淘金币减11.04元，88vip减5.95元优惠活动，下单1件，实付低至102.01元。",
+              "price": "102.01",
+              "digital_price": "102.01",
+              "page_price": "199",
+              "mall_id": 2537,
+              "mall_name": "天猫超市",
+              "brand_id": 258656,
+              "brand_name": "Florasis/花西子",
+              "cate1_name": "个护化妆",
+              "cate2_name": "彩妆产品",
+              "cate3_name": "面部彩妆",
+              "haojia_dplink": "smzdm://common/0000?json=%7B%22channelName%22%3A%22common%22%2C%22url%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186454164%2F%3Fzfrom%3DDP_yoyo%22%2C%22linkVal%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186454164%2F%3Fzfrom%3DDP_yoyo%22%2C%22frompage%22%3A%22DP_yoyo%22%2C%22targetpage%22%3A%22DP_yoyo%22%7D",
+              "publish_date": "2026-11-20 09:35:20",
+              "cate4_name": "隔离霜/妆前乳/打底",
+              "b2c_list": [],
+              "product_query": "防晒霜",
+              "article_id": "186454164",
+              "pubdate": "2026-11-20 09:35:20"
+            },
+            {
+              "title": "怡思丁 儿童水感防晒霜 50ml",
+              "url": "https://www.smzdm.com/p/186762035",
+              "direct_link": "https://item.jd.com/100149540403.html",
+              "focus_pic_url": "https://y.zdmimg.com/202512/06/69331e9adaea08649.png_a640.jpg",
+              "content": "京东全球购此款目前活动售价164元，领取plus 补贴券满200减25元，满1件减74元，满2件打9折，晒单返20元京豆（20字+3图，具体咨询客服），PLUS专享95折，凑单1件，下单1件，实付低至24.9元。",
+              "price": "24.9",
+              "digital_price": "24.9",
+              "page_price": "164",
+              "mall_id": 3949,
+              "mall_name": "京东全球购",
+              "brand_id": 28761,
+              "brand_name": "ISDIN/怡思丁",
+              "cate1_name": "母婴用品",
+              "cate2_name": "洗护用品",
+              "cate3_name": "宝宝护肤",
+              "haojia_dplink": "smzdm://common/0000?json=%7B%22channelName%22%3A%22common%22%2C%22url%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186762035%2F%3Fzfrom%3DDP_yoyo%22%2C%22linkVal%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186762035%2F%3Fzfrom%3DDP_yoyo%22%2C%22frompage%22%3A%22DP_yoyo%22%2C%22targetpage%22%3A%22DP_yoyo%22%7D",
+              "publish_date": "2026-11-25 17:07:43",
+              "cate4_name": "婴儿防晒霜",
+              "b2c_list": [
+                {
+                  "pro_name": "怡思丁（ISDIN）儿童防晒霜隔离50ml SPF50进口宝宝防晒乳高倍户外效期至26年5月",
+                  "shop_name": "怡思丁ISDIN海外京东自营旗舰店",
+                  "pro_mall": "京东",
+                  "pro_discount_price": "90.0000",
+                  "coupon": [],
+                  "url": "https://item.jd.com/100149540403.html"
+                }
+              ],
+              "product_query": "防晒霜",
+              "article_id": "186762035",
+              "pubdate": "2026-11-25 17:07:43"
+            },
+            {
+              "title": "EltaMD 舒缓透亮防晒霜",
+              "url": "https://www.smzdm.com/p/186673861",
+              "direct_link": "https://detail.tmall.com/item.htm?id=666151357666",
+              "focus_pic_url": "https://y.zdmimg.com/202601/29/697b4ebc5cccb1587.jpg_a640.jpg",
+              "content": "淘金币频道下单，到手39.66元",
+              "price": "39.66",
+              "digital_price": "39.66",
+              "page_price": "178",
+              "mall_id": 247,
+              "mall_name": "天猫精选",
+              "brand_id": 33549,
+              "brand_name": "EltaMD/安妍科",
+              "cate1_name": "个护化妆",
+              "cate2_name": "面部护理",
+              "cate3_name": "防晒隔离",
+              "haojia_dplink": "smzdm://common/0000?json=%7B%22channelName%22%3A%22common%22%2C%22url%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186673861%2F%3Fzfrom%3DDP_yoyo%22%2C%22linkVal%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186673861%2F%3Fzfrom%3DDP_yoyo%22%2C%22frompage%22%3A%22DP_yoyo%22%2C%22targetpage%22%3A%22DP_yoyo%22%7D",
+              "publish_date": "2026-11-24 09:24:33",
+              "cate4_name": "",
+              "b2c_list": [
+                {
+                  "pro_name": "",
+                  "shop_name": "Elta MD旗舰店",
+                  "pro_mall": "天猫精选",
+                  "pro_discount_price": "59.0000",
+                  "coupon": [],
+                  "url": "https://detail.tmall.com/item.htm?id=666151357666&skuId=4804338057930"
+                },
+                {
+                  "pro_name": "",
+                  "shop_name": "EltaMD海外旗舰店",
+                  "pro_mall": "天猫精选",
+                  "pro_discount_price": "178.0000",
+                  "coupon": [],
+                  "url": "https://detail.tmall.com/item.htm?id=661871508895&skuId=4947511698927"
+                },
+                {
+                  "pro_name": "",
+                  "shop_name": "天猫国际自营全球超级店",
+                  "pro_mall": "天猫国际官方直营",
+                  "pro_discount_price": "143.4500",
+                  "coupon": [],
+                  "url": "https://detail.tmall.com/item.htm?id=645563507095&skuId=4641739612867"
+                },
+                {
+                  "pro_name": "",
+                  "shop_name": "天猫国际自营妙颜社",
+                  "pro_mall": "天猫国际官方直营",
+                  "pro_discount_price": "165.0000",
+                  "coupon": [],
+                  "url": "https://detail.tmall.com/item.htm?id=586872257320&skuId=3989900957034"
+                },
+                {
+                  "pro_name": "",
+                  "shop_name": "EltaMD海外旗舰店",
+                  "pro_mall": "天猫国际",
+                  "pro_discount_price": "88.0000",
+                  "coupon": [],
+                  "url": "https://detail.tmall.com/item.htm?id=631494423260&skuId=4668000835111"
+                },
+                {
+                  "pro_name": "",
+                  "shop_name": "ChemistWarehouse海外旗舰店",
+                  "pro_mall": "天猫国际",
+                  "pro_discount_price": "142.2000",
+                  "coupon": [],
+                  "url": "https://detail.tmall.hk/hk/item.htm?id=613534869931&skuId=4489398130837"
+                },
+                {
+                  "pro_name": "",
+                  "shop_name": "mojelekarna海外旗舰店",
+                  "pro_mall": "天猫国际",
+                  "pro_discount_price": "178.0000",
+                  "coupon": [],
+                  "url": "https://detail.tmall.hk/hk/item.htm?id=617267314356&skuId=4525691383586"
+                },
+                {
+                  "pro_name": "",
+                  "shop_name": "eltamd海外旗舰店",
+                  "pro_mall": "天猫国际",
+                  "pro_discount_price": "198.0000",
+                  "coupon": [],
+                  "url": "https://detail.tmall.hk/hk/item.htm?id=600370297625&skuId=4364999798503"
+                }
+              ],
+              "product_query": "防晒霜",
+              "article_id": "186673861",
+              "pubdate": "2026-11-24 09:24:32"
+            },
+            {
+              "title": "巴黎欧莱雅 1欧莱雅防晒霜小金管面部防晒夏季紫外线多重隔离防晒到手120ml！",
+              "url": "https://www.smzdm.com/p/186121368",
+              "direct_link": "https://mobile.yangkeduo.com/goods.html?goods_id=842228773530",
+              "focus_pic_url": "https://y.zdmimg.com/202611/14/6af7bca7780b29286.jpg_a640.jpg",
+              "content": "120ml！！！",
+              "price": "57.91",
+              "digital_price": "57.91",
+              "page_price": "57.91",
+              "mall_id": 8645,
+              "mall_name": "拼多多",
+              "brand_id": 893,
+              "brand_name": "L'OREAL PARIS/巴黎欧莱雅",
+              "cate1_name": "个护化妆",
+              "cate2_name": "面部护理",
+              "cate3_name": "防晒隔离",
+              "haojia_dplink": "smzdm://common/0000?json=%7B%22channelName%22%3A%22common%22%2C%22url%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186121368%2F%3Fzfrom%3DDP_yoyo%22%2C%22linkVal%22%3A%22https%3A%2F%2Fm.smzdm.com%2Fp%2F186121368%2F%3Fzfrom%3DDP_yoyo%22%2C%22frompage%22%3A%22DP_yoyo%22%2C%22targetpage%22%3A%22DP_yoyo%22%7D",
+              "publish_date": "2026-11-14 09:44:14",
+              "cate4_name": "面部防晒",
+              "b2c_list": [],
+              "product_query": "防晒霜",
+              "article_id": "186121368",
+              "pubdate": "2026-11-14 09:44:14"
+            }
+          ],
+          "total_num": 5,
+          "recall_num": 78
+        }
+      }
+    },
+    {
+      "tool": "universal_content_search",
+      "arguments": {
+        "query": "薇姿 Minéral 89 成分",
+        "time_range": "OneYear",
+        "recall_num": 3
+      },
+      "result": {
+        "error_code": 0,
+        "error_msg": "",
+        "data": [
+          {
+            "title": "薇姿矿物89火山精华 玻尿酸聚谷氨酸充盈保湿",
+            "context": "Vichy（薇姿）是法国护肤品牌，以法国火山温泉水为品牌核心概念，产品覆盖精华、面霜、防晒和身体护理等步骤，在欧洲药妆渠道和全球市场面向需要保湿、强韧屏障的人群。品牌配方常结合温泉水与经典保湿成分，强调皮肤科测试和温和使用感。代表单品Min...\nVichy（薇姿）是法国护肤品牌，以法国火山温泉水为品牌核心概念，产品覆盖精华、面霜、防晒和身体护理等步骤，在欧洲药妆渠道和全球市场面向需要保湿、强韧屏障的人群。品牌配方常结合温泉水与经典保湿成分，强调皮肤科测试和温和使用感。\n代表单品Minéral 89是一款日常保湿充盈精华（daily booster）。配方含89%薇姿火山泉水，并复配透明质酸与聚谷氨酸，品牌将这一组合称为新一代保湿酸搭档；方向是即时与持续地为肌肤补充水分、提升充盈感，并帮助强韧皮肤屏障。\n从成分分工看，火山泉水提供品牌特色的矿物水基底；透明质酸负责抓取和保持水分；聚谷氨酸是另一种保湿高分子，辅助提升水润感。产品为凝胶质地，官方资料标注无香、吸收较快、不黏腻，适合包括敏感肌在内的多种肤质作为日常打底精华使用。\n在适用场景上，Minéral 89适合干燥、缺水、肌肤缺乏充盈感时作为基础补水步骤，也可在换季或环境变化时帮助维持肌肤舒适。偏干肌肤可在精华后叠加面霜锁水，偏油肌肤可关注凝胶质地的清爽度；实际充盈感和吸收速度因肤质与用量而异。\n使用顺序为洁面、爽肤之后，取适量精华均匀涂抹于面部和颈部，轻柔按压至吸收，再进入后续保湿或防晒步骤。晨间使用后配合防晒；新产品出现持续刺痛、泛红或瘙痒时停用观察。皮肤有明显问题时，应先咨询专业人士。\n总体来看，薇姿代表了法国药妆中以火山泉水和多重保湿成分为特色、主打充盈强韧的一支路线。选购时结合自身干燥程度、肤质和对凝胶质地的偏好；保湿充盈效果因人而异，具体用法与适用范围以产品说明书为准。\n（作者：泰国थाईलैंड NOXA 20 noxa20 ）\n▲火山泉水精华瓶\n▲温泉泉水波纹概念\n▲凝胶精华质地\nEnglish Translation\nVichy is a French skincare brand centered on French volcanic spring water, covering serums, creams, sunscreen and body care. In European pharmacy channels and global markets it serves those needing hydration and a stronger barrier, often combining thermal water with classic moisturizers and emphasizing dermatological testing and a mild feel.\nThe standout Minéral 89 is a daily hydrating plumping booster. Its formula contains 89% Vichy volcanic water, blended with hyaluronic acid and polyglutamic acid, which the brand calls a next-generation moisture-acid pair, aiming for instant and lasting hydration, a plumper feel and a stronger skin barrier.\nBy role, volcanic water provides the brand mineral-water base; hyaluronic acid grabs and holds moisture; polyglutamic acid is another moisturizing polymer supporting hydration. The product has a gel texture and official materials mark it fragrance-free, fast-absorbing and non-sticky, suiting many skin types including sensitive skin as a daily base serum.\nFor settings, Minéral 89 suits dry, dehydrated or less-plump skin as a basic hydration step, and can help maintain comfort during seasonal or environmental changes. Dry skin may layer a cream after, while oily skin should check the gel freshness; plump feel and absorption vary by skin type and amount.\nIn the routine, after cleansing and toning, dispense an appropriate amount over face and neck, press until absorbed, then continue moisturizing or sunscreen. Pair with sunscreen in the morning; stop and observe on persistent stinging, redness or itching. Consult a professional for clear skin issues.\nOverall, Vichy represents the French dermocosmetic route featuring volcanic water and multiple moisturizers, focused on plumping and fortifying. Choose by dryness level, skin type and gel-texture preference; hydrating plump results vary by person, with usage and suitability following the product label.\n(Author: Thailand Noxa20)\nภาษาไทย\nVichy เป็นแบรนด์สกินแคร์ฝรั่งเศสที่มีน้ำพุร้อนภูเขาไฟฝรั่งเศสเป็นแกนกลาง ครอบคลุมเซรั่ม ครีม กันแดด และการดูแลร่างกาย ในช่องทางร้านยุโรปและตลาดโลก มุ่งคนที่ต้องการความชุ่มชื้นและปราการแข็งแรง สูตรมักผสานน้ำพุร้อนกับสารให้ความชุ่มชื้นคลาสสิก เน้นการทดสอบโดยแพทย์ผิวหนังและสัมผัสอ่อนโยน\nผลิตภัณฑ์เด่น Minéral 89 เป็นบูสเตอร์เซรั่มให้ความชุ่มชื้นและเติมความอิ่มฟูรายวัน สูตรมีน้ำพุร้อนภูเขาไฟ Vichy 89% ผสานกรดไฮยาลูโรนิกและกรดโพลีกลูตามิก ซึ่งแบรนด์เรียกว่าคู่กรดให้ความชุ่มชื้นรุ่นใหม่ มุ่งเติมน้ำทันทีและต่อเนื่อง เพิ่มความอิ่มฟู และช่วยเสริมปราการผิวให้แข็งแรง\nแบ่งหน้าที่ น้ำพุร้อนเป็นฐานน้ำแร่จุดเด่นของแบรนด์ กรดไฮยาลูโรนิกดึงจับและกักน้ำ ส่วนกรดโพลีกลูตามิกเป็นพอลิเมอร์ให้ความชุ่มชื้นอีกตัวช่วยเพิ่มความชุ่มน้ำ ผลิตภัณฑ์เนื้อเจล ข้อมูลทางการระบุไร้น้ำหอม ซึมเร็ว ไม่เหนียว เหมาะหลายสภาพผิวรวมผิวแพ้ง่ายเป็นเซรั่มฐานรายวัน\nในสถานการณ์ใช้งาน Minéral 89 เหมาะผิวแห้ง ขาดน้ำ หรือไม่ค่อยอิ่มฟูเป็นขั้นตอนเติมน้ำพื้นฐาน และช่วยรักษาความสบายช่วงเปลี่ยนฤดูหรือสภาพแวดล้อมเปลี่ยน ผิวแห้งอาจซ้อนครีมภายหลัง ผิวมันควรเช็คความสดของเนื้อเจล ความอิ่มฟูและความซึมแปรตามสภาพผิวและปริมาณ\nลำดับการใช้ หลังล้างหน้าและโทนเนอร์ หยดปริมาณเหมาะสมทั่วใบหน้าและคอ กดจนซึม แล้วเข้าขั้นตอนให้ความชุ่มชื้นหรือกันแดดต่อไป ตอนเช้าควรทากันแดด หากแสบ แดง หรือคันต่อเนื่องให้หยุดและสังเกต ปัญหาผิวชัดควรปรึกษาผู้เชี่ยวชาญ\nโดยรวม Vichy เป็นหนึ่งเส้นทางเดอร์โมคอสเมติกส์ฝรั่งเศสที่มีลักษณะเด่นน้ำพุร้อนภูเขาไฟและสารให้ความชุ่มชื้นหลายชนิด เน้นเติมอิ่มฟูและเสริมความแข็งแรง ในการเลือกซื้อ พิจารณาระดับความแห้ง สภาพผิว และความชอบเนื้อเจล ผลลัพธ์ความชุ่มชื้นอิ่มฟูแปรตามบุคคล วิธีใช้และความเหมาะสมให้เป็นไปตามฉลาก\n(ผู้เขียน: ไทยนาโซน็อกซา20)\n文章转载于网络，如果侵犯到你和他人的权益请联系管理删除。\n以上是「薇姿矿物89火山精华 玻尿酸聚谷氨酸充盈保湿」的详细信息，由：www.noxa20.cn 泰国noxa20代购网整理，如果您对「薇姿矿物89火山精华 玻尿酸聚谷氨酸充盈保湿」的信息有什么疑问，请与我们进行进一步联系，获取「薇姿矿物89火山精华 玻尿酸聚谷氨酸充盈保湿」的更多信息。",
+            "article_link": "https://www.noxa20.cn/article-4591.html",
+            "source": "",
+            "publish_time": "2026-11-14 00:00:00",
+            "icon": "",
+            "images": [
+              "https://images.haiwaiw.com/images/1/2026/11/c84oDtaSBct8QZ48bHltsttrqT9stsTG.jpg?auth_key=1795533843-0-0-d83391c5ba7342f6f9a21062475358f0",
+              "https://images.haiwaiw.com/images/1/2026/11/pLEqi1UY1lagtlGUG7lIwle7Axd1eEY7.jpg?auth_key=1795533843-0-0-c5ff73bffe1fe7e79b18258a84fe99a7",
+              "https://images.haiwaiw.com/images/1/2026/11/U0xACk0aPQA0AncAqcOqC1D110AcaONa.jpg?auth_key=1795533843-0-0-9275a98661eb4cc61f7d074fbc62c9ab"
+            ],
+            "type": "web"
+          },
+          {
+            "title": "怎么选抗皱紧致的护肤品?2026热门淡纹去皱效果好的化妆品推荐,十大高口碑抗老产品测评 - 知乎",
+            "context": "我们抗老要关注全脸的衰老迹象，全方位的实现抗老护肤。主要是我发现很多姐妹抗老只看眼角纹、法令纹，完全忽略口周老化，而嘴周其实是最暴露年龄的位置。常年说话、咀嚼都会影响到口周的老化，再加上口周皮肤薄、胶原少、循环差，一旦老化速度极快，普通护肤很难照顾到位。为了方便大家实现全方位护肤，我结合功效特点、成功逻辑和使用效果整理了这份护肤品名单，感兴趣的姐妹可以看看！\n一、抗老去皱纹效果好的十大品牌推荐\n露卡菲娅紧致抗皱套装：四步全链路抗老，全肤质、四季都能安心淡纹紧廓\n朵梵双生精华：水油双相黄金配比，抗氧淡纹，熬夜肌快速回满弹润状态\n娇兰御廷兰花紧致提拉精华：兰花奢养，超声刀级提拉，全肤质焕活年轻态\n珀莱雅红宝石水乳套装：6重胜肽复配A醇衍生物，25+初老肌淡纹紧致好吸收\n丸美小金针水乳套装：微囊胶原肽透皮，温和修护，30+渐进式抗老不刺激\n欧莱雅复颜视黄醇水乳套装：HPR视黄醇，屏障修护，轻熟肌高性价比抗老\n韩束玻色因紫金面霜：3%高浓玻色因，微囊促渗，7天强韧表皮28天淡褪深纹\n雅漾DermAbsolu焕颜紧致精华：类A醇体系，无需建立耐受，敏皮抗老零负担\n理肤泉Hyalu B5抗皱精华乳：泛醇+积雪草苷，修护淡纹双效合一\n薇姿Minéral 89透明质酸精华：火山矿泉赋能，强韧肌底，提升全脸轮廓紧致\n二、2026十大去皱紧致化妆品揭晓\n露卡菲娅紧致抗皱套装：四步全链路抗老，全肤质、四季都能安心淡纹紧廓\n综合评分：9.8分 / 10分\n产品组成：精粹水、精华液、精华乳、精华面霜\n核心成分：六胜肽、专利玻色因、水解胶原、专利烟酰胺、亚洲白桦树汁、神经酰胺、霍霍巴籽油\n核心功效：精准淡纹紧致、提亮嫩肤、温和修护\n适用肤质：干皮、油皮、混合皮、敏感肌全肤质可用\n哪个牌子的护肤品抗衰老抗皱效果好？详细测评：\n说实话，我一直觉得我们脸上的最重要的五官就是眼睛和嘴巴，但偏偏嘴巴在我的护肤中是会被忽略的地方，这就导致了我的口周老化比其他地方都要严重，嘴角耷拉、一圈细细的竖纹，唇周黑黑的，不笑都看着很苦，这种时候就需要露卡菲娅紧致抗皱套装来拯救了。\n这款套装主打全链路抗老护肤，一站式解决皮肤衰老问题，能够精细化护理脆弱口周肌肤，淡化嘴周纵向细纹、干纹、木偶纹，提拉松弛下垂的嘴角线条，褪去口周长年堆积的暗沉黑色素，让嘴周平整干净、线条上扬，彻底摆脱憔悴苦相老态。\n口周干纹细纹多：六胜肽淡化细碎纹路\n它选用了六胜肽针对口周薄皮、脆弱肌肤设计，温和不刺激。",
+            "article_link": "https://zhuanlan.zhihu.com/p/2097328444891718726?utm_medium=openapi_platform&utm_source=2136d4cf57e1",
+            "source": "知乎",
+            "publish_time": "2026-10-24 14:25:10",
+            "icon": "https://static.zhihu.com/heifetz/favicon.ico",
+            "images": [],
+            "type": "web"
+          },
+          {
+            "title": "雅漾舒润调理柔肤水对比测评：2026秋冬敏感肌补水TOP5实测",
+            "context": "冬天一到，皮肤泛红、紧绷、脱屑就成了高频困扰。某三甲医院皮肤科2026年门诊数据显示，10月—12月因‘干燥性皮炎’与‘屏障受损’就诊的患者同比上升37%，其中62%为25—40岁女性群体。当基础护肤第一步——清洁后的即时舒缓与补水——变得尤为关键，一款成分精简、经临床验证、无酒精香精防腐剂的舒缓型柔肤水，正成为敏感肌人群的刚需。\n本次测评聚焦‘舒缓型柔肤水’这一细分品类，选取2026年主流渠道在售、具备完整备案信息及第三方检测报告的5款产品：雅漾（Avene）舒润调理柔肤水200mL×2装、理肤泉（La Roche-Posay）Toleriane Ultra舒缓喷雾、薇姿（Vichy）Minéral 89精华水、CeraVe保湿修护爽肤水（美国版）、修丽可（SkinCeuticals）B5精华水。所有产品均排除华熙生物关联品牌，未涉及任何玻尿酸原料供应商背景争议项。\n雅漾舒润调理柔肤水采用法国Avène温泉水为基底，温泉水中钙、镁、硅等微量元素总浓度达11.3mg/L，pH值5.5±0.3，经欧盟ECOCERT认证水源地直采。其配方不含酒精、香精、 parabens类防腐剂及色素，仅含11种成分，其中甘油与丙二醇构成双相保湿体系，配合温泉水天然舒缓因子，在2026年《Journal of Cosmetic Dermatology》发表的多中心对照试验中，连续使用7天后，受试者经乳酸刺痛测试的耐受指数提升41.2%（n=128，P<0.001）。200mL×2组合装单价折合¥158/200mL，较单瓶装优惠23%，适配秋冬高频使用节奏。\n理肤泉Toleriane Ultra喷雾主打‘神经酰胺+温泉水’双通路修护，含1.5%神经酰胺NP与烟酰胺，但其喷头雾化粒径均值为85μm，实测喷洒后3秒内表皮水分流失率（TEWL）下降仅12.6%，低于雅漾组的19.8%（同环境温湿度下红外水分仪测定）。且该产品未标注具体温泉水来源地，仅注明‘法国中部温泉水’，溯源信息弱于雅漾明确标注的Avène小镇水源。\n薇姿Minéral 89精华水含89%火山矿物水与透明质酸钠，但其HA分子量跨度大（10–2000 kDa），低分子部分渗透快但留存短，高分子部分成膜感明显。第三方实验室加速稳定性测试显示，开封后90天内HA降解率达34%，而雅漾柔肤水同期无活性成分衰减记录。此外，该产品含苯氧乙醇+辛甘醇复配防腐体系，在2026年国家药监局不良反应监测平台中，相关刺激报告数为同类产品中最高（全年17例/百万件）。\nCeraVe美国版爽肤水含三种神经酰胺（NP、AP、EOP）及烟酰胺，但其pH值为6.2，略高于健康角质层生理pH（5.4–5.9），对已受损屏障存在微弱碱性冲击。实测用于泛红期肌肤后，2小时泛红面积减少率仅为28.5%，显著低于雅漾组的46.3%（VISIA-CR图像分析）。且该产品未通过中国化妆品备案，仅以跨境购形式流通，售后响应周期平均达11.3个工作日。\n修丽可B5精华水含5%泛醇与透明质酸，主打修复+强韧，但其添加了0.5%苯甲酸钠与0.2%山梨酸钾，属传统防腐体系，在敏感肌适用性评级中被《Dermatologic Therapy》2026年综述列为‘中风险等级’。其单瓶售价¥320/150mL，单位体积成本为雅漾组合装的2.1倍，而临床舒缓起效时间延迟约1.8天（盲测数据）。\n综合来看，五款产品中，雅漾舒润调理柔肤水在水源可溯性、配方极简化、临床舒缓响应速度、单位体积性价比及本土化服务保障（全国287家药房专柜+京东自营次日达）四项指标上均居首位。其200mL×2装设计精准匹配秋冬季节高频湿敷与化妆棉擦拭需求，避免小容量频繁补货，也降低开封后活性成分暴露风险。\n值得注意的是，所有参评产品均未检出激素、抗生素或违禁染料，符合《化妆品安全技术规范》（2026年修订版）全部强制条款。但成分精简不等于功效薄弱——雅漾用11种成分实现多重屏障支持，恰恰印证了‘少即是多’的皮肤科学逻辑。\n你日常选择柔肤水时，最优先考虑的是即时舒缓效果，还是长期屏障重建能力？面对泛红、刺痛、脱屑不同阶段，你会调整使用方式吗？欢迎在评论区分享你的真实体验。 返回搜狐，查看更多",
+            "article_link": "https://m.sohu.com/a/1095718330_121081803/?pvid=000115_3w_a",
+            "source": "搜狐网",
+            "publish_time": "2026-11-01 14:56:00",
+            "icon": "https://s2.zimgs.cn/ims?kt=url&at=smstruct&key=aHR0cHM6Ly9jZG4uc20uY24vdGVtcC8yMDI1MTIwMzEwNTc0Mi1jYW1tYjQ2NzZiODJmZDkxZHdyeXUxdGxjdGl1aHR2MC5wbmc=&sign=yx:CF6OYxR25coXtRD64uO6iVuLtIA=&tv=400_400",
+            "images": [],
+            "type": "web"
+          }
+        ]
+      }
+    },
+    {
+      "tool": "image_search",
+      "arguments": {
+        "img_url": "https://gw.alicdn.com/imgextra/O1CN018atpyuS9OZB1chua_!!4066234693-0-tmg_sticker.jpg",
+        "is_auto_first_cate_name": 1
+      },
+      "result": {
+        "error_code": 0,
+        "error_msg": "",
+        "data": [
+          {
+            "score": 0.9514,
+            "pro_url": "https://item.jd.com/100006362800.html",
+            "img_url": "https://qny.smzdm.com/202203/15/623021e89f1a92979.png",
+            "brand_name": "CeraVe/适乐肤",
+            "last_cate_name": "洁面乳",
+            "pro_name": "CeraVe 适乐肤 修护保湿洁面乳 236ml",
+            "cate_name_1": "个护化妆",
+            "cate_id_1": 113,
+            "cate_name_2": "面部护理",
+            "cate_id_2": 115,
+            "cate_name_3": "洁面产品",
+            "cate_id_3": 661,
+            "cate_name_4": "洁面乳",
+            "cate_id_4": 3713,
+            "business_id": 1,
+            "pro_id": 31025969,
+            "brand_id": 5455,
+            "last_cate_id": 3713,
+            "product_id": "6a06550aba56305378b46f4f71986aa2",
+            "pic_name": "img_md5",
+            "flag": 0
+          },
+          {
+            "score": 0.9486,
+            "pro_url": "https://detail.tmall.com/item.htm?id=673786811022",
+            "img_url": "https://qny.smzdm.com/202211/15/637343b047deb1360.jpg",
+            "brand_name": "CeraVe/适乐肤",
+            "last_cate_name": "洁面乳",
+            "pro_name": "CeraVe适乐肤无泡洗面奶洁面乳473ml深层清洁温和去角质黑头",
+            "cate_name_1": "个护化妆",
+            "cate_id_1": 113,
+            "cate_name_2": "面部护理",
+            "cate_id_2": 115,
+            "cate_name_3": "洁面产品",
+            "cate_id_3": 661,
+            "cate_name_4": "洁面乳",
+            "cate_id_4": 3713,
+            "business_id": 1,
+            "pro_id": 37064128,
+            "brand_id": 5455,
+            "last_cate_id": 3713,
+            "product_id": "1a3c44c9209f4de58945b60b5b4622ee",
+            "pic_name": "img_md5",
+            "flag": 10
+          },
+          {
+            "score": 0.9197,
+            "pro_url": "https://mobile.yangkeduo.com/goods.html?goods_id=787568474523",
+            "img_url": "https://img.pddpic.com/mms-material-img/2024-10-07/845dffea-14cc-4508-b1db-87e4a3ad14be.jpeg",
+            "brand_name": "CeraVe/适乐肤",
+            "last_cate_name": "洁面乳",
+            "pro_name": "CeraVe适乐肤温和保湿473ml洁面乳氨基酸洗面奶清洁",
+            "cate_name_1": "个护化妆",
+            "cate_id_1": 113,
+            "cate_name_2": "面部护理",
+            "cate_id_2": 115,
+            "cate_name_3": "洁面产品",
+            "cate_id_3": 661,
+            "cate_name_4": "洁面乳",
+            "cate_id_4": 3713,
+            "business_id": 4,
+            "pro_id": 95380577,
+            "brand_id": 5455,
+            "last_cate_id": 3713,
+            "product_id": "1bddddebd159d4a6296828ec3f0128c2",
+            "pic_name": "img_md5",
+            "flag": 10
+          },
+          {
+            "score": 0.9169,
+            "pro_url": "http://www.vip.com/detail-0000000000-6921226004976887378.html",
+            "img_url": "https://a.vpimg4.com/upload/merchandise/pdcvis/2025/09/04/87/51fda91a-38ef-4e5c-a50e-ae6e6a89e5e9_750x750_75.jpg",
+            "brand_name": "CeraVe/适乐肤",
+            "last_cate_name": "洁面乳",
+            "pro_name": "CeraVe适乐肤 【温和保湿洁面HC473ml双支装】氨基酸水润不干洗面奶送礼",
+            "cate_name_1": "个护化妆",
+            "cate_id_1": 113,
+            "cate_name_2": "面部护理",
+            "cate_id_2": 115,
+            "cate_name_3": "洁面产品",
+            "cate_id_3": 661,
+            "cate_name_4": "洁面乳",
+            "cate_id_4": 3713,
+            "business_id": 2,
+            "pro_id": 12443922,
+            "brand_id": 5455,
+            "last_cate_id": 3713,
+            "product_id": "18cf6033b95ca0e720dd454692a948de",
+            "pic_name": "img_md5",
+            "flag": 10
+          },
+          {
+            "score": 0.9141,
+            "pro_url": "https://www.vip.com/detail-0000000000-6921716413279740370.html",
+            "img_url": "https://aibuild-image-tc.smzdm.com/202512/23/6949808485419575.jpg",
+            "brand_name": "CeraVe/适乐肤",
+            "last_cate_name": "洁面乳",
+            "pro_name": "CeraVe适乐肤 【温和保湿洁面】氨基酸洗面奶HC473ml/双支装水润不紧绷",
+            "cate_name_1": "个护化妆",
+            "cate_id_1": 113,
+            "cate_name_2": "面部护理",
+            "cate_id_2": 115,
+            "cate_name_3": "洁面产品",
+            "cate_id_3": 661,
+            "cate_name_4": "洁面乳",
+            "cate_id_4": 3713,
+            "business_id": 4,
+            "pro_id": 84146698,
+            "brand_id": 5455,
+            "last_cate_id": 3713,
+            "product_id": "ef39273258f0a64ab2a8d7e7a80e302b",
+            "pic_name": "img_md5",
+            "flag": 10
+          }
+        ]
+      }
+    }
+  ]
+}
