@@ -146,7 +146,7 @@ def build_index(products, config):
 </main>
 <footer>
   <p>{h(config['footerNote'])}</p>
-  <p class="small">数据来自讨论包 2026-11-24（r44 快照，476 条）。购买链接「{h(config['purchaseLabel'])}」，下单前请再核对包装、店铺身份与实时价。</p>
+  <p class="small">数据来自讨论包 2026-11-24（r44 快照，476 条）+ 贵价小众研究批（research-v1，{total - 476} 条）。购买链接「{h(config['purchaseLabel'])}」，下单前请再核对包装、店铺身份与实时价。</p>
 </footer>
 <script src="assets/app.js" defer></script>
 </body>
@@ -262,8 +262,8 @@ def main():
 
     config = load_json(SITE / "config.json")
     products = load_json(DATA_OUT)
-    if len(products) != 476:
-        sys.exit(f"数据条数异常：{len(products)}（应为 476）")
+    if len(products) < 476:
+        sys.exit(f"数据条数异常：{len(products)}（应不少于 476）")
     ids = [r["id"] for r in products]
     if len(set(ids)) != len(ids):
         sys.exit("数据存在重复 id")

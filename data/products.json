@@ -39180,5 +39180,1535 @@
       "r44_new": true,
       "r44_upgrade": false
     }
+  },
+  {
+    "id": "sr-np-prime-radiance",
+    "product": "Noble Panacea 诺珮诗 臻颜焕采精华(Prime Radiance,30×0.5ml 次抛)",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b3000",
+    "band_label": "≈¥3000+",
+    "price": "天猫官旗约 ¥3250 / 15ml(30×0.5ml)",
+    "actives": "四种 VC 形态(Ascorbic Acid+AA2G+MAP+Ascorbyl Palmitate)+补骨脂酚+甘醇酸+烟酰胺+神经酰胺NP;OSMV 寡糖脂肪酸酯缓释基质",
+    "endpoint": "提亮/均匀肤色、细纹外观改善(品牌宣称)",
+    "role": "提亮抗氧(多VC接力+缓释)",
+    "suit": "追求工艺仪式感、预算充足;敏感肌先小样",
+    "drawback": "活性物浓度未标注;OSMV 透皮增益无公开人体数据;单位 ml 价极高",
+    "caution": "甘醇酸+VC 叠加,屏障脆弱期慎用;次抛包装开封即用",
+    "channel": "天猫·诺珮诗旗舰店/NoblePanacea海外旗舰(实测存店,国内备案)",
+    "official": "进口化妆品;诺奖得主创立,OSMV 专利可查",
+    "cites": "OSMV™ 专利(Stoddart lab 超分子化学);INCI 实表见 INKEEDecoder;Byrdie 2021 独立评测",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DNkoDUxyVzvpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZbNCylfJwXS8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVI1hwltFtM6PmLSjFwxKTveMHuv7RoNv0Q0jFsbsQ7KWdkxCiUhc3yKbiNv3BFi%2Bx2iPX2lGYNiEnckie57b7LCJM3zZqbC1W%2FqZzx9sqSL8zsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6te4WFSe7ksLZWVshS1Mh7sFiGu47dxO1ewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795625632@2104cb7d_14ba_1a213a0c1d2_de15@01",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥3250·天猫精选·联盟跳转链(待 canonical 解析)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DNkoDUxyVzvpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZbNCylfJwXS8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVI1hwltFtM6PmLSjFwxKTveMHuv7RoNv0Q0jFsbsQ7KWdkxCiUhc3yKbiNv3BFi%2Bx2iPX2lGYNiEnckie57b7LCJM3zZqbC1W%2FqZzx9sqSL8zsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6te4WFSe7ksLZWVshS1Mh7sFiGu47dxO1ewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795625632@2104cb7d_14ba_1a213a0c1d2_de15@01",
+      "tmallLabel": "天猫官旗",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫官旗",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DNkoDUxyVzvpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZbNCylfJwXS8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVI1hwltFtM6PmLSjFwxKTveMHuv7RoNv0Q0jFsbsQ7KWdkxCiUhc3yKbiNv3BFi%2Bx2iPX2lGYNiEnckie57b7LCJM3zZqbC1W%2FqZzx9sqSL8zsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6te4WFSe7ksLZWVshS1Mh7sFiGu47dxO1ewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795625632@2104cb7d_14ba_1a213a0c1d2_de15@01",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 3,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级专利技术+配方表有料(四VC接力);本品人体数据未公开",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "品牌级专利+配方级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门);此标签只表达证据确定性,不等于 v5 实用选购结论"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-revive-brightening",
+    "product": "RéVive 瑞维斐 焕活聚光精华(VC 提亮精华)",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b2000",
+    "band_label": "≈¥2000",
+    "price": "天猫官旗 ¥2860",
+    "actives": "稳定型 VC 复配+生物活性肽(美版含生长因子类宣称,国内版配方待核)",
+    "endpoint": "提亮、紧致外观(品牌宣称)",
+    "role": "提亮抗老(医生品牌肽+VC路线)",
+    "suit": "预算充足、想要官方渠道贵价精华;需先确认中美版本差异",
+    "drawback": "⚠️ 美版'生长因子'宣称在国内化妆品法规下不可用,国内版成分大概率与官网版不同——需比对备案配方",
+    "caution": "价格高;版本差异风险",
+    "channel": "天猫·ReVive海外旗舰店+瑞维斐旗舰店;京东·瑞维斐京东自营旗舰店(实测三渠道)",
+    "official": "进口化妆品;创始人 Dr. Gregory Brown(整形外科)",
+    "cites": "品观网 2024 入华报道;Vogue 台湾'稳定 C'专题;一夜回春油第三方检测(视黄醇衍生物 0.3% 标注)",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXHUyIHm68etw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXhVRnVtzVTTxq3IhSJN6GSbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVH%2FfeMP32wJKFFdOQKix6HCMHuv7RoNv0Q0jFsbsQ7KW2xalHS%2BgLDwrd5plTThokQkkimXOq9nd0Hq%2FXe6tPbS1ICSdieKN2YSZVPZCB5Ep%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOWv9bF8ozw1ZwoLZNSkUfL2iYm7ALhKsKz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795625614@2136718f_1426_1a213a07d5f_d996@01",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥2860·天猫精选·联盟跳转链(待 canonical 解析)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXHUyIHm68etw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXhVRnVtzVTTxq3IhSJN6GSbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVH%2FfeMP32wJKFFdOQKix6HCMHuv7RoNv0Q0jFsbsQ7KW2xalHS%2BgLDwrd5plTThokQkkimXOq9nd0Hq%2FXe6tPbS1ICSdieKN2YSZVPZCB5Ep%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOWv9bF8ozw1ZwoLZNSkUfL2iYm7ALhKsKz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795625614@2136718f_1426_1a213a07d5f_d996@01",
+      "tmallLabel": "天猫官旗",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫官旗",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXHUyIHm68etw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXhVRnVtzVTTxq3IhSJN6GSbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVH%2FfeMP32wJKFFdOQKix6HCMHuv7RoNv0Q0jFsbsQ7KW2xalHS%2BgLDwrd5plTThokQkkimXOq9nd0Hq%2FXe6tPbS1ICSdieKN2YSZVPZCB5Ep%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOWv9bF8ozw1ZwoLZNSkUfL2iYm7ALhKsKz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795625614@2136718f_1426_1a213a07d5f_d996@01",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 2,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "医生品牌+官方渠道;本品独立临床未见,美版成分宣称不可直接迁移",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "条件适用",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "cr-111skin-black-diamond",
+    "product": "111SKIN 黑钻光蕴轻熟面霜 50ml",
+    "cat": "cream",
+    "cat_label": "面霜",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b3000",
+    "band_label": "≈¥3000+",
+    "price": "京东 ¥3709 / 50ml",
+    "actives": "NAC Y²™ = N-乙酰半胱氨酸+抗坏血酸磷酸酯钠(SAP)+七叶树皂苷;NovoRetin 植物视黄醇替代;黑钻微粒'促渗'",
+    "endpoint": "胶原生成/弹性/细纹外观(品牌宣称)",
+    "role": "抗氧化修护(经典抗炎抗氧复配)",
+    "suit": "术后修护理念认同者、重肤感体验",
+    "drawback": "⚠️ '专利复合物'实为经典成分复配(NAC/SAP/七叶树),无独家壁垒;'黑钻促渗'无人体数据;¥3709 溢价显著",
+    "caution": "含香精;抗老证据主要在成分层面",
+    "channel": "天猫·111SKIN旗舰店(实测存店);英国 Harley St 品牌",
+    "official": "进口化妆品;创始人 Dr. Yannis Alexandrides(整形外科)",
+    "cites": "NAC Y² INCI 解码(INKEEDecoder);Harrods/草莓网在售记录",
+    "buy": {
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUoJK1olXgAGUFhZCk0XAl8IGloSWgELUFpdAUsVAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgPHFIRWQYLVFxeFxJSXzI4Y1l3BW5hAj4_c0htRgoSTlgTDg8GJFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhgTVGkITwgdVFIKUwtaDUknA244WjUVXQUAV15bD3sWM28OE18SXgIHXFpfC08nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9cH1sSCGheEhgIC0lBUQEPG1gTWQ8LUm5fCUoVAV84xdalOQZjPFlYVTJMYQR2WV9AH9iP5E8veEIQCm4ZKyhrJA4DNxs_dQ8WSDgOGhp2XFleHV4tUzxSCipodVlsJkQDLTgHTBhuUShTUjt-LzYCZF5fCEwnAl8",
+      "buyLabel": "京东",
+      "buyNote": "¥3709·京东·联盟跳转链(待 canonical 解析)·MCP 2026-11-25;canonical 待核(检索仅命中小样 SKU)",
+      "has_jd": true,
+      "has_tmall": false,
+      "has_both_jd_tmall": false,
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUoJK1olXgAGUFhZCk0XAl8IGloSWgELUFpdAUsVAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgPHFIRWQYLVFxeFxJSXzI4Y1l3BW5hAj4_c0htRgoSTlgTDg8GJFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhgTVGkITwgdVFIKUwtaDUknA244WjUVXQUAV15bD3sWM28OE18SXgIHXFpfC08nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9cH1sSCGheEhgIC0lBUQEPG1gTWQ8LUm5fCUoVAV84xdalOQZjPFlYVTJMYQR2WV9AH9iP5E8veEIQCm4ZKyhrJA4DNxs_dQ8WSDgOGhp2XFleHV4tUzxSCipodVlsJkQDLTgHTBhuUShTUjt-LzYCZF5fCEwnAl8",
+      "jdLabel": "京东",
+      "missing_jd": false,
+      "tmallHref": null,
+      "tmallLabel": null,
+      "missing_tmall": true,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东",
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAUoJK1olXgAGUFhZCk0XAl8IGloSWgELUFpdAUsVAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgPHFIRWQYLVFxeFxJSXzI4Y1l3BW5hAj4_c0htRgoSTlgTDg8GJFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhgTVGkITwgdVFIKUwtaDUknA244WjUVXQUAV15bD3sWM28OE18SXgIHXFpfC08nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9cH1sSCGheEhgIC0lBUQEPG1gTWQ8LUm5fCUoVAV84xdalOQZjPFlYVTJMYQR2WV9AH9iP5E8veEIQCm4ZKyhrJA4DNxs_dQ8WSDgOGhp2XFleHV4tUzxSCipodVlsJkQDLTgHTBhuUShTUjt-LzYCZF5fCEwnAl8",
+          "kind": "jd"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 2,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "成分方向合理但均为成熟原料;'促渗'宣称无人体证据",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "成分级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "条件适用",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-bioeffect-egf",
+    "product": "BIOEFFECT 蓓欧菲 冰岛 EGF 益肌焕颜精华 30ml",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b2000",
+    "band_label": "≈¥2000",
+    "price": "天猫 ¥2980(限定礼盒)/ 京东 ¥2210(30天密集)",
+    "actives": "大麦重组 EGF(表皮生长因子,~6.2kDa);极简 9 成分",
+    "endpoint": "表皮细胞增殖/修护(机制宣称)",
+    "role": "修护抗老(生长因子路线)",
+    "suit": "医美术后修护场景可能更有意义;健康皮日常用证据弱",
+    "drawback": "⚠️ EGF 分子量大,健康皮肤透皮吸收极有限;'涂脸抗老'机制证据薄弱——成分党评价两极('冰岛血清' vs '智商税')",
+    "caution": "生长因子类宣称在部分法规市场受限;开封后活性衰减",
+    "channel": "京东·BIOeffect海外京东自营旗舰店;天猫·BIOEFFECT海外旗舰店(实测)",
+    "official": "进口化妆品;大麦表达系统 EGF 工艺全球独家",
+    "cites": "品牌 10 年大麦 EGF 研发记录;豆瓣/Dealmoon 成分讨论;INCI 9 成分实表",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DV3iCMg7BSmdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMb9lTuzfw15Dt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVM8HieZx66ubftZmNRrN08mMHuv7RoNv0Q0jFsbsQ7KW8F%2F1ImBOGE2c5ZNOdJSQwBW3oS23HlDPb9p6V1vZv1X4itXyl99uqKaR5YNx6Jtu%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOiTi5CzYEdfnz%2FLOB0lS3pGD5GAbF%2Fq6I6lYO%2FeMrraxxKmPmpIKZsA%3D%3D&union_lens=lensId:TAPI@1795625673@0b830dfc_1402_1a213a1615d_4bc8@01&skuId=6311653303306",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥2980·天猫精选·联盟跳转链(待 canonical 解析)·MCP 2026-11-25",
+      "has_jd": true,
+      "has_tmall": true,
+      "has_both_jd_tmall": true,
+      "jdHref": "https://item.jd.com/(待核)",
+      "jdLabel": "京东",
+      "missing_jd": false,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DV3iCMg7BSmdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMb9lTuzfw15Dt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVM8HieZx66ubftZmNRrN08mMHuv7RoNv0Q0jFsbsQ7KW8F%2F1ImBOGE2c5ZNOdJSQwBW3oS23HlDPb9p6V1vZv1X4itXyl99uqKaR5YNx6Jtu%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOiTi5CzYEdfnz%2FLOB0lS3pGD5GAbF%2Fq6I6lYO%2FeMrraxxKmPmpIKZsA%3D%3D&union_lens=lensId:TAPI@1795625673@0b830dfc_1402_1a213a1615d_4bc8@01&skuId=6311653303306",
+      "tmallLabel": "天猫",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东",
+          "href": "https://item.jd.com/(待核)",
+          "kind": "jd"
+        },
+        {
+          "label": "天猫",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DV3iCMg7BSmdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMb9lTuzfw15Dt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVM8HieZx66ubftZmNRrN08mMHuv7RoNv0Q0jFsbsQ7KW8F%2F1ImBOGE2c5ZNOdJSQwBW3oS23HlDPb9p6V1vZv1X4itXyl99uqKaR5YNx6Jtu%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOiTi5CzYEdfnz%2FLOB0lS3pGD5GAbF%2Fq6I6lYO%2FeMrraxxKmPmpIKZsA%3D%3D&union_lens=lensId:TAPI@1795625673@0b830dfc_1402_1a213a1615d_4bc8@01&skuId=6311653303306",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "工艺创新为真;外用 EGF 透皮机制存疑,本品有效场景证据不足",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "机制存疑",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "待核",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "待核",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "cr-sturm-face",
+    "product": "Dr. Barbara Sturm 面霜(Face Cream)50ml",
+    "cat": "cream",
+    "cat_label": "面霜",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b2000",
+    "band_label": "≈¥2000",
+    "price": "天猫 ¥2052(Revolve)/ 京东 ¥2179 / 50ml",
+    "actives": "马齿苋提取物+黄芩+角鲨烷+VE(刻意简单)",
+    "endpoint": "舒缓/保湿(品牌宣称抗炎)",
+    "role": "舒缓保湿(极简抗炎理念)",
+    "suit": "认同'少即是多'理念、要温和贵价霜;成分简单但肤感口碑好",
+    "drawback": "⚠️ 成分表极简撑不起 ¥2000+ 性价比质疑普遍;'抗炎'宣称缺 RCT",
+    "caution": "宣称克制;MC1 自体血浆定制霜不流通",
+    "channel": "⚠️无官旗——仅天猫国际探物欧洲/京东卖场店等灰渠;德国产,版本不可核",
+    "official": "进口化妆品;创始人 Dr. Barbara Sturm(骨科/抗衰医生,PRP 背景)",
+    "cites": "WSJ 2026 专访;Dealmoon 2021 性价比质疑测评;美丽修行成分表",
+    "buy": {
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUoJK1olXgAGUFhZCk0XAl8IGlsVVAYHXV9cDk4TB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28BG14cXAcEUVpZFxJSXzI4WRthA09DAVY9CDV2XzcBXyxPJ2QFElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZh8UAm4AGl8XClQDBlwOX0gnA244WjUVXQUAV15bD3sWM28OE18SXgIHXFpfC04nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtcH15HDmheEhgIC0lBVQEPG1gcVAQBV25fCUoVAV84xdalKHUFVDhfVx5gfwxgGy11IdiP5E8veEsTBGsZKxNvOXV0AiRVTUtXfw8KTwtFIAYLU1YfWDVJUSltdVkQXFlcUj4-cCNzVTxwWxBvDjYCZF5fCEwnAl8",
+      "buyLabel": "京东国际",
+      "buyNote": "¥2179·京东·联盟跳转链(待 canonical 解析)·MCP 2026-11-25",
+      "has_jd": true,
+      "has_tmall": true,
+      "has_both_jd_tmall": true,
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUoJK1olXgAGUFhZCk0XAl8IGlsVVAYHXV9cDk4TB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28BG14cXAcEUVpZFxJSXzI4WRthA09DAVY9CDV2XzcBXyxPJ2QFElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZh8UAm4AGl8XClQDBlwOX0gnA244WjUVXQUAV15bD3sWM28OE18SXgIHXFpfC04nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtcH15HDmheEhgIC0lBVQEPG1gcVAQBV25fCUoVAV84xdalKHUFVDhfVx5gfwxgGy11IdiP5E8veEsTBGsZKxNvOXV0AiRVTUtXfw8KTwtFIAYLU1YfWDVJUSltdVkQXFlcUj4-cCNzVTxwWxBvDjYCZF5fCEwnAl8",
+      "jdLabel": "京东",
+      "missing_jd": false,
+      "tmallHref": "https://detail.tmall.com/(待核)",
+      "tmallLabel": "天猫国际",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东",
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAUoJK1olXgAGUFhZCk0XAl8IGlsVVAYHXV9cDk4TB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28BG14cXAcEUVpZFxJSXzI4WRthA09DAVY9CDV2XzcBXyxPJ2QFElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZh8UAm4AGl8XClQDBlwOX0gnA244WjUVXQUAV15bD3sWM28OE18SXgIHXFpfC04nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtcH15HDmheEhgIC0lBVQEPG1gcVAQBV25fCUoVAV84xdalKHUFVDhfVx5gfwxgGy11IdiP5E8veEsTBGsZKxNvOXV0AiRVTUtXfw8KTwtFIAYLU1YfWDVJUSltdVkQXFlcUj4-cCNzVTxwWxBvDjYCZF5fCEwnAl8",
+          "kind": "jd"
+        },
+        {
+          "label": "天猫国际",
+          "href": "https://detail.tmall.com/(待核)",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "理念诚实、成分温和;但本品功效证据基本空白 ;渠道风险:无官旗仅灰渠",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "证据不足",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "待核",
+      "d_case": true,
+      "d_tier": "尚无差异证据或待评",
+      "d_tier_canvas": "尚无差异证据或待评",
+      "p_band": "待核",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-allies-35vc",
+    "product": "Allies of Skin 35% VC 面部精油",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "天猫(Revolve)¥1143",
+    "actives": "35% 油溶性 VC 衍生物(THD/乙基VC 类,非原型 VC)",
+    "endpoint": "提亮/抗氧(品牌宣称)",
+    "role": "提亮抗氧(高浓度VC衍生物)",
+    "suit": "想要高浓度但怕原型 VC 刺激/氧化的人",
+    "drawback": "衍生物稳定性好但皮肤内转化为活性 VC 的效率待核;35% 为衍生物浓度不等于原型效力",
+    "caution": "新加坡品牌,国内无官旗,跨境渠道",
+    "channel": "天猫·REVOLVE海外旗舰店(实测);美国官网",
+    "official": "跨境免备案渠道;成分浓度标注透明",
+    "cites": "淘宝 Revolve 在售记录;品牌官方浓度标注;成分党社区口碑",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DG3wPXodp9%2F1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZbNCylfJwXS79%2FTFaMDK6SbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVIptsRahQOQHG1mtISx82dSMHuv7RoNv0dIOLe2GUnGWK3GkZDPC4%2BzDrKpfTr370%2FAm8JXrkBO9dh26DiJ%2B48xDnIn%2FQOOe62%2BSq2gt2wXFRe4mOahMENWyjUlbh89x3%2F%2F4r8ZjZnqPzsAzH1xYDH4IJs0xmL%2FEGMpvjVkjoLH%2BWdc3DhGhAlRF%2Bg%2Fy7k2YhcYl7w3%2FA2kb&union_lens=lensId:TAPI@1795625639@213def39_1429_1a213a0def7_db04@01&skuId=6223503207219",
+      "buyLabel": "天猫精选国际",
+      "buyNote": "¥1142.85·天猫精选·联盟跳转链(待 canonical 解析)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DG3wPXodp9%2F1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZbNCylfJwXS79%2FTFaMDK6SbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVIptsRahQOQHG1mtISx82dSMHuv7RoNv0dIOLe2GUnGWK3GkZDPC4%2BzDrKpfTr370%2FAm8JXrkBO9dh26DiJ%2B48xDnIn%2FQOOe62%2BSq2gt2wXFRe4mOahMENWyjUlbh89x3%2F%2F4r8ZjZnqPzsAzH1xYDH4IJs0xmL%2FEGMpvjVkjoLH%2BWdc3DhGhAlRF%2Bg%2Fy7k2YhcYl7w3%2FA2kb&union_lens=lensId:TAPI@1795625639@213def39_1429_1a213a0def7_db04@01&skuId=6223503207219",
+      "tmallLabel": "天猫国际",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫国际",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DG3wPXodp9%2F1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZbNCylfJwXS79%2FTFaMDK6SbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVIptsRahQOQHG1mtISx82dSMHuv7RoNv0dIOLe2GUnGWK3GkZDPC4%2BzDrKpfTr370%2FAm8JXrkBO9dh26DiJ%2B48xDnIn%2FQOOe62%2BSq2gt2wXFRe4mOahMENWyjUlbh89x3%2F%2F4r8ZjZnqPzsAzH1xYDH4IJs0xmL%2FEGMpvjVkjoLH%2BWdc3DhGhAlRF%2Bg%2Fy7k2YhcYl7w3%2FA2kb&union_lens=lensId:TAPI@1795625639@213def39_1429_1a213a0def7_db04@01&skuId=6223503207219",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 2,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "浓度标注透明加分;衍生物路径效力转换待证",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "成分级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "cr-medature-psl",
+    "product": "MEDATURE PSL 屏障修护霜(PSL Repair Moisturizer)",
+    "cat": "barrier",
+    "cat_label": "修护屏障",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b500",
+    "band_label": "≈¥500",
+    "price": "¥295(30ml 天猫旗舰)/¥308(30ml 京东自营)/¥468–535(50ml)",
+    "actives": "PSL 屏障仿生脂质(神经酰胺+胆固醇+脂肪酸生理比例)+植物鞘氨醇",
+    "endpoint": "屏障修护、经皮失水(TEWL)改善",
+    "role": "屏障修护(脂质生理配比)",
+    "suit": "敏感/受损屏障;医生品牌精简路线",
+    "drawback": "屏障霜品类竞争激烈(适乐肤等平价替代存在);抗老线溢价高",
+    "caution": "温和路线;无明显短板",
+    "channel": "天猫·medature旗舰店;京东·MEDATURE京东自营旗舰店(实测褒曼霜4号在售)",
+    "official": "⚠️ 重要背书:PSL Repair Moisturizer 列入美国国家湿疹协会(NEA)认可产品名录 ;国内褒曼霜4号在售,价低于美官网",
+    "cites": "NEA 认可名录(nationaleczema.org);Baumann STS 皮肤分型体系;知乎成分党测评",
+    "buy": {
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUAJK1olXDYCVV9cCEoVC2wJGVslGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQcAXF1cCksIWipURmsXIU",
+      "buyLabel": "京东自营",
+      "buyNote": "褒曼霜4号 30ml ¥308 京东自营/¥295 天猫旗舰·联盟跳转链·MCP 2026-11-25",
+      "has_jd": true,
+      "has_tmall": true,
+      "has_both_jd_tmall": true,
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUAJK1olXDYCVV9cCEoVC2wJGVslGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQcAXF1cCksIWipURmsXIU",
+      "jdLabel": "京东自营",
+      "missing_jd": false,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D2DrKImaQxABw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUJclkD%2B8CP1lovu%2FCElQOubBjBh3Lo",
+      "tmallLabel": "天猫官旗",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东自营",
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAUAJK1olXDYCVV9cCEoVC2wJGVslGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXQcAXF1cCksIWipURmsXIU",
+          "kind": "jd"
+        },
+        {
+          "label": "天猫官旗",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3D2DrKImaQxABw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUJclkD%2B8CP1lovu%2FCElQOubBjBh3Lo",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 4,
+      "U": 2,
+      "V": 0,
+      "R": 0,
+      "D_penalty": 0,
+      "grade": "NEA 机构背书(非 RCT 但高于一般宣称);屏障脂质配比有学说支撑",
+      "score": null,
+      "verdict": "consider",
+      "verdict_label": "证据中等(旧门)",
+      "baseline_grade": "机构认可级",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "基础用途优选",
+      "d_case": false,
+      "d_tier": null,
+      "d_tier_canvas": null,
+      "p_band": "基础用途优选",
+      "p_conf": "高"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "cr-vive-yurong",
+    "product": "双妹 VIVE 玉容霜 3.0(黑钻三抗面霜)",
+    "cat": "cream",
+    "cat_label": "面霜",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "京东 ¥889",
+    "actives": "抗氧/抗糖/抗光老三抗复配(家化体系);珍稀植提叙事",
+    "endpoint": "紧致提亮外观(品牌宣称)",
+    "role": "抗初老(国货 heritage 高端线)",
+    "suit": "支持国货高端化、重文化认同与肤感",
+    "drawback": "亮点在文化与包装而非成分创新;对比国际贵妇牌价格反而克制",
+    "caution": "上海家化体系正规备案(沪G妆网备字)",
+    "channel": "天猫·双妹官方旗舰店;京东·双妹(VIVE)京东自营旗舰店(实测)",
+    "official": "国产化妆品;1898 年创始品牌(真实 heritage 非贴牌)",
+    "cites": "上海家化官网品牌页;百度百科词条;京东在售",
+    "buy": {
+      "buyHref": "https://item.jd.com/10236283609134.html",
+      "buyLabel": "京东",
+      "buyNote": "¥889·京东自营 canonical 商品页·2026-11-25 解析",
+      "has_jd": true,
+      "has_tmall": false,
+      "has_both_jd_tmall": false,
+      "jdHref": "https://item.jd.com/10236283609134.html",
+      "jdLabel": "京东",
+      "missing_jd": false,
+      "tmallHref": null,
+      "tmallLabel": null,
+      "missing_tmall": true,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东",
+          "href": "https://item.jd.com/10236283609134.html",
+          "kind": "jd"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 2,
+      "U": 1,
+      "V": 0,
+      "R": 0,
+      "D_penalty": 0,
+      "grade": "家化体系正规出品;成分创新一般,文化溢价为主",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "尚无差异证据或待评",
+      "d_tier_canvas": "尚无差异证据或待评",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "cr-skinmedica-neck",
+    "product": "SKINMEDICA 丝缇珂 千日菊颈霜",
+    "cat": "cream",
+    "cat_label": "颈部护理(建议并入面霜)",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "天猫官旗 ¥1310",
+    "actives": "千日菊提取物+紧致肽复合",
+    "endpoint": "品牌宣称",
+    "role": "颈纹护理(医美专业线)",
+    "suit": "颈纹困扰、要专业线不要贵妇牌",
+    "drawback": "颈部护理是真实细分需求,但本品独立临床未见",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·SKINMEDICA丝缇珂旗舰店(实测,中文名「丝缇珂」);艾尔建旗下",
+    "official": "进口化妆品;医美集团背景",
+    "cites": "天猫官旗在售;艾尔建专业线背景",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXBvIl3dJYshw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU3QMBmpflicMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVEGDkY3Q5eX0vThL9zGVvAuMHuv7RoNv0YzeH%2FA0sTcbVLRxWdfZ%2BglpkdLnsZ6MRKeq6eTd%2B9hJy%2B6QAFDuVXh95oNY1LyeKxWnS1Av0bRdGDRm4qPtbsmAenUVNk7Ws5wk2x0euq3QC%2FJonwbEtWDAv%2FlYwpKj5iPDVdlpgtTromfkDJRs%2BhU%3D&union_lens=lensId:TAPI@1795626118@213e71e2_1490_1a213a82c62_4b5c@01",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥1310·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXBvIl3dJYshw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU3QMBmpflicMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVEGDkY3Q5eX0vThL9zGVvAuMHuv7RoNv0YzeH%2FA0sTcbVLRxWdfZ%2BglpkdLnsZ6MRKeq6eTd%2B9hJy%2B6QAFDuVXh95oNY1LyeKxWnS1Av0bRdGDRm4qPtbsmAenUVNk7Ws5wk2x0euq3QC%2FJonwbEtWDAv%2FlYwpKj5iPDVdlpgtTromfkDJRs%2BhU%3D&union_lens=lensId:TAPI@1795626118@213e71e2_1490_1a213a82c62_4b5c@01",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXBvIl3dJYshw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU3QMBmpflicMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVEGDkY3Q5eX0vThL9zGVvAuMHuv7RoNv0YzeH%2FA0sTcbVLRxWdfZ%2BglpkdLnsZ6MRKeq6eTd%2B9hJy%2B6QAFDuVXh95oNY1LyeKxWnS1Av0bRdGDRm4qPtbsmAenUVNk7Ws5wk2x0euq3QC%2FJonwbEtWDAv%2FlYwpKj5iPDVdlpgtTromfkDJRs%2BhU%3D&union_lens=lensId:TAPI@1795626118@213e71e2_1490_1a213a82c62_4b5c@01",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 2,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "初步人体信号",
+      "d_tier_canvas": "初步人体信号",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-sisley-scalp",
+    "product": "Sisley 希思黎 睿秀赋活强韧钛黑瓶头皮精华 60ml",
+    "cat": "serum",
+    "cat_label": "头皮精华(新品类建议)",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "京东 ¥1059",
+    "actives": "植物活性复配(品牌未公开详表)",
+    "endpoint": "品牌宣称",
+    "role": "头皮抗老(贵妇头皮线)",
+    "suit": "头皮健康管理、预算充足",
+    "drawback": "头皮精华品类证据整体薄弱;贵妇溢价",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·SISLEY希思黎官方旗舰店 ¥1764;京东·SISLEY希思黎京东自营旗舰店 ¥1421(实测)",
+    "official": "进口化妆品",
+    "cites": "京东在售;品牌睿秀护发线",
+    "buy": {
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olXDYCVV9fCU0XBW4IHFsWWjZGCwYDV3tORipJWVALQ15HAAJCUx4IUTFUBVsUXAQDUl5bCUsQA2wPBAJQAVsySjwHDQARXzpqbiUXPH1GKSo-aTVFVWMEK18TXgAGVV9cC3sXAm4JGlIdVA4AZFpbZkp5A2YNdV0QCFQDVFgPC01DBmYAS1glXQcyHzBcOEonA2kAH1wWWgYHUF9fCHsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQB2wIHglGM1pEEgsLCQhUbWgIHlgVWwIAZFxcCUkVM1_Wlut8XXNUK18Ufk1HCgYBQDpyg4uyRSIqDEweA344QFIRNX5fPCACACNKahxNWyxWCGMBMQU-dDhcB2pmGT1hG09GUSMtX09VeilYYjkcbQYyZF9t",
+      "buyLabel": "京东",
+      "buyNote": "¥1059·京东·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": true,
+      "has_tmall": false,
+      "has_both_jd_tmall": false,
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olXDYCVV9fCU0XBW4IHFsWWjZGCwYDV3tORipJWVALQ15HAAJCUx4IUTFUBVsUXAQDUl5bCUsQA2wPBAJQAVsySjwHDQARXzpqbiUXPH1GKSo-aTVFVWMEK18TXgAGVV9cC3sXAm4JGlIdVA4AZFpbZkp5A2YNdV0QCFQDVFgPC01DBmYAS1glXQcyHzBcOEonA2kAH1wWWgYHUF9fCHsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQB2wIHglGM1pEEgsLCQhUbWgIHlgVWwIAZFxcCUkVM1_Wlut8XXNUK18Ufk1HCgYBQDpyg4uyRSIqDEweA344QFIRNX5fPCACACNKahxNWyxWCGMBMQU-dDhcB2pmGT1hG09GUSMtX09VeilYYjkcbQYyZF9t",
+      "jdLabel": "京东",
+      "missing_jd": false,
+      "tmallHref": null,
+      "tmallLabel": null,
+      "missing_tmall": true,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东",
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olXDYCVV9fCU0XBW4IHFsWWjZGCwYDV3tORipJWVALQ15HAAJCUx4IUTFUBVsUXAQDUl5bCUsQA2wPBAJQAVsySjwHDQARXzpqbiUXPH1GKSo-aTVFVWMEK18TXgAGVV9cC3sXAm4JGlIdVA4AZFpbZkp5A2YNdV0QCFQDVFgPC01DBmYAS1glXQcyHzBcOEonA2kAH1wWWgYHUF9fCHsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQB2wIHglGM1pEEgsLCQhUbWgIHlgVWwIAZFxcCUkVM1_Wlut8XXNUK18Ufk1HCgYBQDpyg4uyRSIqDEweA344QFIRNX5fPCACACNKahxNWyxWCGMBMQU-dDhcB2pmGT1hG09GUSMtX09VeilYYjkcbQYyZF9t",
+          "kind": "jd"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "待核",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "待核",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "dr-axxzia-ag",
+    "product": "AXXZIA 晓姿 AG 抗糖饮 30支",
+    "cat": "oral",
+    "cat_label": "口服美容",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b3000",
+    "band_label": "≈¥3000+",
+    "price": "天猫 ¥3000",
+    "actives": "抗糖化叙事(AG=anti-glycation);胶原肽+植提",
+    "endpoint": "品牌宣称",
+    "role": "口服抗老(日系高端口服)",
+    "suit": "愿为口服美容付溢价者",
+    "drawback": "⚠️ 口服胶原/抗糖对皮肤结局的 RCT 证据弱且混杂;'抗糖'概念本身在营养学有争议;¥3000/月成本极高",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·AXXZIA化妆品海外旗舰店/cosme官方海外旗舰店(实测);日本 AXXZIA",
+    "official": "跨境保健品(非化妆品监管)",
+    "cites": "日本真实品牌(非假洋);但功效证据弱",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXOk3N%2FcKl8tw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd1MPpleXnU98sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVNW5Y4xVEwC0gVe4o9lHoQeMHuv7RoNv0Q0jFsbsQ7KWBYV7h2QCsxNF9ZSeSm4ROv12Jon7FVENoWDWMEpmTanOtJtAJcVBOysqnG48r2En%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOjV8VOEt5Cw47LEr9KjWrZnIl3fJdMZPHz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795626092@2105223d_150b_1a213a7c674_1abe@01&skuId=6066533947319",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥3000·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXOk3N%2FcKl8tw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd1MPpleXnU98sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVNW5Y4xVEwC0gVe4o9lHoQeMHuv7RoNv0Q0jFsbsQ7KWBYV7h2QCsxNF9ZSeSm4ROv12Jon7FVENoWDWMEpmTanOtJtAJcVBOysqnG48r2En%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOjV8VOEt5Cw47LEr9KjWrZnIl3fJdMZPHz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795626092@2105223d_150b_1a213a7c674_1abe@01&skuId=6066533947319",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXOk3N%2FcKl8tw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd1MPpleXnU98sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVNW5Y4xVEwC0gVe4o9lHoQeMHuv7RoNv0Q0jFsbsQ7KWBYV7h2QCsxNF9ZSeSm4ROv12Jon7FVENoWDWMEpmTanOtJtAJcVBOysqnG48r2En%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOjV8VOEt5Cw47LEr9KjWrZnIl3fJdMZPHz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795626092@2105223d_150b_1a213a7c674_1abe@01&skuId=6066533947319",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 0,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "待核",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "待核",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "dr-pola-white",
+    "product": "POLA 宝丽 美白饮",
+    "cat": "oral",
+    "cat_label": "口服美容",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "天猫 ¥1314/3盒",
+    "actives": "POLA 专利口服成分(品牌叙事)",
+    "endpoint": "品牌宣称",
+    "role": "口服美白(日系贵妇口服)",
+    "suit": "POLA 品牌信任者",
+    "drawback": "⚠️ '口服美白/防晒'宣称缺乏可靠人体证据;防晒宣称尤其危险(不能替代外用防晒)",
+    "caution": "价格高;见 drawback",
+    "channel": "京东·POLA海外旗舰店 ¥1088;京东·沃尔玛海外官方旗舰店 ¥703(抗糖丸);灰渠专营店多",
+    "official": "跨境保健品",
+    "cites": "日本真实大牌;宣称需谨慎",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DHgUBFRJwUlVw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd1MPpleXnU9lovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qp1xStp6%2F2HeuGEYET8LqROemaFM5tHHYxZyjQcbVDheesoYp3R6EYf2yJfnvJeY%2BpHHmHaAlLO8Jct%2Fn13JePZHMzAbzvCmoP8LXFFSmqvLwhphORnh7VA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdsv3ecojKXKsleEBSTBPgIMC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795626097@213dbc98_147f_1a213a7d999_6bd5@01&skuId=6235304919823",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥1314·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DHgUBFRJwUlVw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd1MPpleXnU9lovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qp1xStp6%2F2HeuGEYET8LqROemaFM5tHHYxZyjQcbVDheesoYp3R6EYf2yJfnvJeY%2BpHHmHaAlLO8Jct%2Fn13JePZHMzAbzvCmoP8LXFFSmqvLwhphORnh7VA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdsv3ecojKXKsleEBSTBPgIMC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795626097@213dbc98_147f_1a213a7d999_6bd5@01&skuId=6235304919823",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DHgUBFRJwUlVw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMd1MPpleXnU9lovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qp1xStp6%2F2HeuGEYET8LqROemaFM5tHHYxZyjQcbVDheesoYp3R6EYf2yJfnvJeY%2BpHHmHaAlLO8Jct%2Fn13JePZHMzAbzvCmoP8LXFFSmqvLwhphORnh7VA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdsv3ecojKXKsleEBSTBPgIMC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795626097@213dbc98_147f_1a213a7d999_6bd5@01&skuId=6235304919823",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 0,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "待核",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "待核",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "cr-jeandestrees-neck",
+    "product": "Jean Destreés 法国让缇丝 美纹颈霜 50ml",
+    "cat": "cream",
+    "cat_label": "颈部护理",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "天猫 ¥980",
+    "actives": "法国小众院线牌;紧致植提",
+    "endpoint": "品牌宣称",
+    "role": "颈纹护理(法式小众)",
+    "suit": "想要非医美线的法式小众颈霜",
+    "drawback": "小众到资料稀薄;功效证据基本空白",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·jeandestrees旗舰店;京东·让缇丝京东自营旗舰店(实测)",
+    "official": "进口化妆品",
+    "cites": "天猫在售;法国院线小众牌",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dk%2BCVk3PM8rBw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU3QMBmpflicMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVKjsIv7i6XAJxizYgQstzkSMHuv7RoNv0Q0jFsbsQ7KWeLHeHY5hd%2Fg3TQEjT5Aqsr%2Fxk3n9Qfkme4drQ5bzZmC%2F%2FD44yPUDM5tNPnGPJV5W%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOjV8VOEt5Cw46k%2BdCO%2Bf4j8DKU2ANEiEOz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795626118@212b4879_1477_1a213a82c80_bb59@01",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥980·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dk%2BCVk3PM8rBw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU3QMBmpflicMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVKjsIv7i6XAJxizYgQstzkSMHuv7RoNv0Q0jFsbsQ7KWeLHeHY5hd%2Fg3TQEjT5Aqsr%2Fxk3n9Qfkme4drQ5bzZmC%2F%2FD44yPUDM5tNPnGPJV5W%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOjV8VOEt5Cw46k%2BdCO%2Bf4j8DKU2ANEiEOz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795626118@212b4879_1477_1a213a82c80_bb59@01",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dk%2BCVk3PM8rBw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU3QMBmpflicMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVKjsIv7i6XAJxizYgQstzkSMHuv7RoNv0Q0jFsbsQ7KWeLHeHY5hd%2Fg3TQEjT5Aqsr%2Fxk3n9Qfkme4drQ5bzZmC%2F%2FD44yPUDM5tNPnGPJV5W%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlOjV8VOEt5Cw46k%2BdCO%2Bf4j8DKU2ANEiEOz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795626118@212b4879_1477_1a213a82c80_bb59@01",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 0,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "待核",
+      "d_case": true,
+      "d_tier": "尚无差异证据或待评",
+      "d_tier_canvas": "尚无差异证据或待评",
+      "p_band": "待核",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "mk-guinot-mask",
+    "product": "Guinot 维健美 焕颜精华涂抹面膜",
+    "cat": "mask",
+    "cat_label": "面膜",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "天猫 ¥1380",
+    "actives": "美容院线经典配方(果酸+植提焕颜)",
+    "endpoint": "品牌宣称",
+    "role": "焕肤提亮(法式院线老牌)",
+    "suit": "想要院线仪式感涂抹面膜",
+    "drawback": "院线配方偏保守;独立功效证据一般",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·GUINOT维健美旗舰店(实测);法国 Guinot 1963 年创立",
+    "official": "进口化妆品;真老牌院线",
+    "cites": "天猫在售;品牌历史可考",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DDljN%2BSiQUWJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMRlE%2BmYQ7D0R5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVLyGlRl14yQyhPORDjqp7P6MHuv7RoNv0YzeH%2FA0sTcb7bgfscK5i%2FyxFynCNhjg15Mui38sVQDBxRQFpcjR4e5F1eeHpXdUJ7QtjlkCDLm37ggjkQGfkauAenUVNk7Ws%2FTuVLZPeB8qDEqSQKq5OG5Z1zcOEaECVEX6D%2FLuTZiFxiXvDf8DaRs%3D&union_lens=lensId:TAPI@1795625565@210569e9_1471_1a2139fbcf6_ded9@01",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥1380·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DDljN%2BSiQUWJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMRlE%2BmYQ7D0R5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVLyGlRl14yQyhPORDjqp7P6MHuv7RoNv0YzeH%2FA0sTcb7bgfscK5i%2FyxFynCNhjg15Mui38sVQDBxRQFpcjR4e5F1eeHpXdUJ7QtjlkCDLm37ggjkQGfkauAenUVNk7Ws%2FTuVLZPeB8qDEqSQKq5OG5Z1zcOEaECVEX6D%2FLuTZiFxiXvDf8DaRs%3D&union_lens=lensId:TAPI@1795625565@210569e9_1471_1a2139fbcf6_ded9@01",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DDljN%2BSiQUWJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMRlE%2BmYQ7D0R5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVLyGlRl14yQyhPORDjqp7P6MHuv7RoNv0YzeH%2FA0sTcb7bgfscK5i%2FyxFynCNhjg15Mui38sVQDBxRQFpcjR4e5F1eeHpXdUJ7QtjlkCDLm37ggjkQGfkauAenUVNk7Ws%2FTuVLZPeB8qDEqSQKq5OG5Z1zcOEaECVEX6D%2FLuTZiFxiXvDf8DaRs%3D&union_lens=lensId:TAPI@1795625565@210569e9_1471_1a2139fbcf6_ded9@01",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "尚无差异证据或待评",
+      "d_tier_canvas": "尚无差异证据或待评",
+      "p_band": "条件适用",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "ss-valmont-spf",
+    "product": "Valmont 法儿曼 清透亮颜面部防晒 SPF50",
+    "cat": "sunscreen",
+    "cat_label": "防晒",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "天猫官旗 ¥1833",
+    "actives": "防晒剂组合(具体待核)+品牌 DNA/RNA 叙事",
+    "endpoint": "品牌宣称",
+    "role": "防晒(贵妇线)",
+    "suit": "防晒要贵妇肤感",
+    "drawback": "防晒本体看防晒剂,品牌溢价>功效差;SPF50 达标即可",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·VALMONT法儿曼官方旗舰店(实测);瑞士 Valmont",
+    "official": "进口化妆品;瑞士老牌",
+    "cites": "天猫官旗在售",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DxJkFM%2B%2FReJtw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMb9lTuzfw15Dlovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVIy9%2FP15hRSgGuOFkF%2B69QaMHuv7RoNv0Q0jFsbsQ7KWVte2qLclLRmtm4hissRvoGOc5qGsjDkiMyMd6B4D8gt0HpU4htTBR01Out2VZ0a4ecTX9L0NYFWaTmVT8XDrd6Msk56K75hQ7tcCJ5bPUFBZ1zcOEaECVEX6D%2FLuTZiFxiXvDf8DaRs%3D&union_lens=lensId:TAPI@1795625677@212c1ed5_13f2_1a213a17347_6a46@01",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥1833.5·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DxJkFM%2B%2FReJtw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMb9lTuzfw15Dlovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVIy9%2FP15hRSgGuOFkF%2B69QaMHuv7RoNv0Q0jFsbsQ7KWVte2qLclLRmtm4hissRvoGOc5qGsjDkiMyMd6B4D8gt0HpU4htTBR01Out2VZ0a4ecTX9L0NYFWaTmVT8XDrd6Msk56K75hQ7tcCJ5bPUFBZ1zcOEaECVEX6D%2FLuTZiFxiXvDf8DaRs%3D&union_lens=lensId:TAPI@1795625677@212c1ed5_13f2_1a213a17347_6a46@01",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DxJkFM%2B%2FReJtw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMb9lTuzfw15Dlovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVIy9%2FP15hRSgGuOFkF%2B69QaMHuv7RoNv0Q0jFsbsQ7KWVte2qLclLRmtm4hissRvoGOc5qGsjDkiMyMd6B4D8gt0HpU4htTBR01Out2VZ0a4ecTX9L0NYFWaTmVT8XDrd6Msk56K75hQ7tcCJ5bPUFBZ1zcOEaECVEX6D%2FLuTZiFxiXvDf8DaRs%3D&union_lens=lensId:TAPI@1795625677@212c1ed5_13f2_1a213a17347_6a46@01",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-omorovicza-set",
+    "product": "Omorovicza 秘集精华+亮采洁净面膜套装",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b2000",
+    "band_label": "≈¥2000",
+    "price": "天猫 ¥2598 套装",
+    "actives": "Healing Concentrate™ 温泉矿物浓缩+纳米金复合(金线)",
+    "endpoint": "品牌宣称",
+    "role": "修护紧致(匈牙利温泉牌)",
+    "suit": "温泉水概念爱好者",
+    "drawback": "温泉水功效叙事证据弱;纳米金线无独立数据",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·omorovicza海外旗舰店(实测);布达佩斯温泉家族创立",
+    "official": "进口化妆品",
+    "cites": "专利温泉浓缩(官网可查);Tatler/Vogue 报道",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRq6nDSmPlJZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfI9yCIrEfBGMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qHCrUnhnpwgEAYMxjjBocBOemaFM5tHHZIVEiHQ62N5LVgCn4cffwi2c9lclobwgOAO%2BYLxHH65KbJyxAg%2BcErQTqsMu4%2BBKtxzeCNEHQ6GrYGmztdGJFPJNvvir0BR%2FR5xNf0vQ1gVakPlfdK0nXOhYuFeSgaZjKhAbjfR2TsSbNIxrU%2FsX1uPtrd7W%2FA84gMlu5kMKse3g%3D%3D&union_lens=lensId:TAPI@1795625688@212c3be0_143f_1a213a19e67_3093@01&skuId=6141586156893",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥2598·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRq6nDSmPlJZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfI9yCIrEfBGMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qHCrUnhnpwgEAYMxjjBocBOemaFM5tHHZIVEiHQ62N5LVgCn4cffwi2c9lclobwgOAO%2BYLxHH65KbJyxAg%2BcErQTqsMu4%2BBKtxzeCNEHQ6GrYGmztdGJFPJNvvir0BR%2FR5xNf0vQ1gVakPlfdK0nXOhYuFeSgaZjKhAbjfR2TsSbNIxrU%2FsX1uPtrd7W%2FA84gMlu5kMKse3g%3D%3D&union_lens=lensId:TAPI@1795625688@212c3be0_143f_1a213a19e67_3093@01&skuId=6141586156893",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRq6nDSmPlJZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfI9yCIrEfBGMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qHCrUnhnpwgEAYMxjjBocBOemaFM5tHHZIVEiHQ62N5LVgCn4cffwi2c9lclobwgOAO%2BYLxHH65KbJyxAg%2BcErQTqsMu4%2BBKtxzeCNEHQ6GrYGmztdGJFPJNvvir0BR%2FR5xNf0vQ1gVakPlfdK0nXOhYuFeSgaZjKhAbjfR2TsSbNIxrU%2FsX1uPtrd7W%2FA84gMlu5kMKse3g%3D%3D&union_lens=lensId:TAPI@1795625688@212c3be0_143f_1a213a19e67_3093@01&skuId=6141586156893",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "条件适用",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-zo-daily-power",
+    "product": "ZO Skin Health 紫外线修复抗氧精华 50ml",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b500",
+    "band_label": "≈¥500",
+    "price": "京东自营 ¥845-850",
+    "actives": "抗氧复合+紫外线修复酶叙事(Zein Obagi 体系)",
+    "endpoint": "品牌宣称",
+    "role": "日常抗氧防御(医美专业线)",
+    "suit": "要专业线抗氧不要贵妇仪式感",
+    "drawback": "功效导向强于仪式感;但具体活性物浓度未全公开",
+    "caution": "价格高;见 drawback",
+    "channel": "⚠️无官旗——京东全球购美妆自营+淘宝院线店等灰渠;美国 ZO Skin Health",
+    "official": "进口化妆品",
+    "cites": "京东自营在售;Obagi 创始人二线品牌",
+    "buy": {
+      "buyHref": "https://uland.taobao.com/item/edetail?id=wAoGmNbugtDYZoyrx7CApceCd-3yPAb4fXVZx0q8qTRY&skuId=6058150804956",
+      "buyLabel": "其他商城",
+      "buyNote": "¥844.55·其他商城·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=wAoGmNbugtDYZoyrx7CApceCd-3yPAb4fXVZx0q8qTRY&skuId=6058150804956",
+      "tmallLabel": "其他商城",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "其他商城",
+          "href": "https://uland.taobao.com/item/edetail?id=wAoGmNbugtDYZoyrx7CApceCd-3yPAb4fXVZx0q8qTRY&skuId=6058150804956",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 2,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据 ;渠道风险:无官旗仅灰渠",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-evelom-queen",
+    "product": "EVE LOM 伊芙珑 女王精华",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "天猫官旗 ¥1190",
+    "actives": "水光修护+紧致叙事(新线)",
+    "endpoint": "品牌宣称",
+    "role": "修护紧致(英伦老牌新线)",
+    "suit": "EVE LOM 洁颜粉老粉升级",
+    "drawback": "新上市线,独立证据少;品牌强项在卸妆不在精华",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·EVELOM官方旗舰店;京东·EVE LOM京东自营旗舰店(实测)",
+    "official": "进口化妆品",
+    "cites": "天猫官旗在售",
+    "buy": {
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DDgBqoOxEwLpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXjU22AXfALL8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4oaTbmE9753PyAgNjF5Jx8wOemaFM5tHHYxZyjQcbVDheesoYp3R6EYacRFdobYPZooteVua8DgapA3CJPKfMbm9Ghq%2FEKFhlb3%2FVrGA0EVgmBEsZ7vSjwhA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdLIljGYe4CC3KypbiYgPMTlnXNw4RoQJURfoP8u5NmIXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1795625822@213ce421_1425_1a213a3a777_05e1@01",
+      "buyLabel": "天猫精选",
+      "buyNote": "¥1190·天猫精选·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": false,
+      "has_tmall": true,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DDgBqoOxEwLpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXjU22AXfALL8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4oaTbmE9753PyAgNjF5Jx8wOemaFM5tHHYxZyjQcbVDheesoYp3R6EYacRFdobYPZooteVua8DgapA3CJPKfMbm9Ghq%2FEKFhlb3%2FVrGA0EVgmBEsZ7vSjwhA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdLIljGYe4CC3KypbiYgPMTlnXNw4RoQJURfoP8u5NmIXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1795625822@213ce421_1425_1a213a3a777_05e1@01",
+      "tmallLabel": "天猫精选",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "天猫精选",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DDgBqoOxEwLpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXjU22AXfALL8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4oaTbmE9753PyAgNjF5Jx8wOemaFM5tHHYxZyjQcbVDheesoYp3R6EYacRFdobYPZooteVua8DgapA3CJPKfMbm9Ghq%2FEKFhlb3%2FVrGA0EVgmBEsZ7vSjwhA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdLIljGYe4CC3KypbiYgPMTlnXNw4RoQJURfoP8u5NmIXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1795625822@213ce421_1425_1a213a3a777_05e1@01",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "初步人体信号",
+      "d_tier_canvas": "初步人体信号",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-ginza-pink",
+    "product": "御银座 THE GINZA 粉晶按摩精华露 100ml",
+    "cat": "serum",
+    "cat_label": "精华",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "京东/自营 ¥1185;官旗小样装 ¥735",
+    "actives": "资生堂顶线工艺;肤感与乳化技术顶级",
+    "endpoint": "品牌宣称",
+    "role": "保湿滋养(日系贵妇肤感)",
+    "suit": "追求顶级肤感与仪式",
+    "drawback": "功效成分克制——买肤感工艺非活性物",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·THEGINZA御银座官方旗舰店;京东·THE GINZA御银座京东自营旗舰店(实测)",
+    "official": "进口化妆品",
+    "cites": "京东自营在售;日月焕能套 ¥14200 全表极值",
+    "buy": {
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BATMJK1olXDYCVV9eCEgRAWgLG1klGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWXQUEVlleCEkIWipURmtQGlNpNwAqcCseGQoJewZwW3NgEVcLBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55AD1YH1kSWAQFVA4PXEtEUF8IGmteMwcyVW5dDkMTBGwMEloUWwAHZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlZABtEAW1mRx1TCA9dUFczD0sVAm8PGF4lXwcDVlxtOJWaswcKZAV8VER9KQlVYCpfdGvWlusEL3YLU1dcGXtKRxhvf11DKGJUPC5bbxxqYTVYeisTG0dgUSYlY055AQ54WywQFgRjCAtbARQXWBRdK1slbQcy",
+      "buyLabel": "京东",
+      "buyNote": "¥735·京东·联盟跳转链(待 canonical)·MCP 2026-11-25",
+      "has_jd": true,
+      "has_tmall": false,
+      "has_both_jd_tmall": false,
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BATMJK1olXDYCVV9eCEgRAWgLG1klGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWXQUEVlleCEkIWipURmtQGlNpNwAqcCseGQoJewZwW3NgEVcLBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55AD1YH1kSWAQFVA4PXEtEUF8IGmteMwcyVW5dDkMTBGwMEloUWwAHZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlZABtEAW1mRx1TCA9dUFczD0sVAm8PGF4lXwcDVlxtOJWaswcKZAV8VER9KQlVYCpfdGvWlusEL3YLU1dcGXtKRxhvf11DKGJUPC5bbxxqYTVYeisTG0dgUSYlY055AQ54WywQFgRjCAtbARQXWBRdK1slbQcy",
+      "jdLabel": "京东",
+      "missing_jd": false,
+      "tmallHref": null,
+      "tmallLabel": null,
+      "missing_tmall": true,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东",
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BATMJK1olXDYCVV9eCEgRAWgLG1klGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWXQUEVlleCEkIWipURmtQGlNpNwAqcCseGQoJewZwW3NgEVcLBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55AD1YH1kSWAQFVA4PXEtEUF8IGmteMwcyVW5dDkMTBGwMEloUWwAHZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlZABtEAW1mRx1TCA9dUFczD0sVAm8PGF4lXwcDVlxtOJWaswcKZAV8VER9KQlVYCpfdGvWlusEL3YLU1dcGXtKRxhvf11DKGJUPC5bbxxqYTVYeisTG0dgUSYlY055AQ54WywQFgRjCAtbARQXWBRdK1slbQcy",
+          "kind": "jd"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "skip",
+      "verdict_label": "证据不足(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "d_case": true,
+      "d_tier": "尚无差异证据或待评",
+      "d_tier_canvas": "尚无差异证据或待评",
+      "p_band": "条件适用",
+      "p_conf": "中"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-guyu-lu",
+    "product": "谷雨 四时灵露精华水 150ml",
+    "cat": "basics",
+    "cat_label": "洁面水乳",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "官方 ~¥950",
+    "actives": "极光甘草(光果甘草定)+纳米级精华水",
+    "endpoint": "品牌宣称",
+    "role": "提亮(国货贵价精华水)",
+    "suit": "支持国货高端化",
+    "drawback": "⚠️ '水剂型卖精华价'是真实争议;但品牌不装洋,可作贵价国货争议案例",
+    "caution": "价格高;见 drawback",
+    "channel": "天猫·谷雨官方旗舰店;京东·谷雨护肤官方旗舰店(实测);国货谷雨",
+    "official": "国产化妆品正规备案",
+    "cites": "CBNData 2024 报道定价争议",
+    "buy": {
+      "buyHref": "(待核)",
+      "buyLabel": "待核",
+      "buyNote": "MCP 检索命中",
+      "has_jd": false,
+      "has_tmall": false,
+      "has_both_jd_tmall": false,
+      "jdHref": null,
+      "jdLabel": null,
+      "missing_jd": true,
+      "tmallHref": null,
+      "tmallLabel": null,
+      "missing_tmall": false,
+      "has_buyHref": false,
+      "channels": [
+        {
+          "label": "待核",
+          "href": "(待核)",
+          "kind": "main"
+        }
+      ]
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 1,
+      "U": 1,
+      "V": 0,
+      "R": 0,
+      "D_penalty": 0,
+      "grade": "品牌级证据",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "品牌级证据",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "待核",
+      "d_case": true,
+      "d_tier": "尚无差异证据或待评",
+      "d_tier_canvas": "尚无差异证据或待评",
+      "p_band": "待核",
+      "p_conf": "低"
+    },
+    "source": {
+      "in_r29_data": false,
+      "in_r39_buy_map": false,
+      "in_r41_buy_map": false,
+      "r44_new": false,
+      "r44_upgrade": false
+    }
+  },
+  {
+    "id": "sr-murad-retinal-body",
+    "product": "Murad 慕拉得 A醛紧致身体霜(视黄醛身体乳)",
+    "cat": "bodylotion",
+    "cat_label": "身体乳",
+    "board": "daily",
+    "board_label": "日常洁肤护肤",
+    "band": "b1000",
+    "band_label": "≈¥1000",
+    "price": "京东自营 ¥890 / 天猫旗舰 ¥880",
+    "buy": {
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BAWwJK1olWAcEUVdfCUwfBV8IGloQXwIEVllZCkonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoSAWsOGVwRXwcdDRsBVUVT",
+      "buyLabel": "京东自营",
+      "buyNote": "A醛身体霜 ¥890·京东·联盟跳转链·MCP 2026-11-25",
+      "has_jd": true,
+      "has_tmall": true,
+      "has_both_jd_tmall": true,
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAWwJK1olWAcEUVdfCUwfBV8IGloQXwIEVllZCkonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoSAWsOGVwRXwcdDRsBVUVT",
+      "jdLabel": "京东自营",
+      "missing_jd": false,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dj%2FKoMF6uNv9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU92Apuy%2B%2BYgxq3IhSJN6GSbBjBh3LodcDtMDMU",
+      "tmallLabel": "天猫官旗",
+      "missing_tmall": false,
+      "has_buyHref": true,
+      "channels": [
+        {
+          "label": "京东自营",
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAWwJK1olWAcEUVdfCUwfBV8IGloQXwIEVllZCkonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoSAWsOGVwRXwcdDRsBVUVT",
+          "kind": "jd"
+        },
+        {
+          "label": "天猫官旗",
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dj%2FKoMF6uNv9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMU92Apuy%2B%2BYgxq3IhSJN6GSbBjBh3LodcDtMDMU",
+          "kind": "tmall"
+        }
+      ]
+    },
+    "actives": "视黄醛(Retinaldehyde)——维A类中证据仅次于维A酸的一步转化形态;身体抗老稀缺活性",
+    "role": "身体抗皱紧致(视黄醛线)",
+    "suit": "身体皮肤松弛/鸡皮肤/抗老需求;维A耐受者",
+    "caution": "视黄醛刺激期;身体大面积使用注意耐受建立",
+    "drawback": "身体霜品类贵价无对标;浓度未公开",
+    "channel": "京东·Murad慕拉得京东自营旗舰店;天猫·Murad慕拉得旗舰店(实测三家官旗)",
+    "official": "⚠️ 修正项:Murad 曾被误列入 C 档,实测京东自营+天猫双官旗+海外旗舰在营;皮肤科医生 Dr. Murad 创立,视黄醛为表内稀缺高证据活性",
+    "cites": "视黄醛→视黄酸一步转化(较视黄醇少一步);Murad 品牌医生背景;天猫/京东官旗实测",
+    "endpoint": "身体皮肤紧致、纹理改善",
+    "source": {
+      "type": "mcp+web",
+      "ref": "brand-scan-2/scan4 定向补充",
+      "date": "2026-11-25"
+    },
+    "legacy": {
+      "framework": "v4.2",
+      "E": 3,
+      "U": 3,
+      "V": 1,
+      "R": 1,
+      "D_penalty": 0,
+      "grade": "视黄醛为 OTC 最高证据维A形态之一,但本品无人体验证数据公开;医生品牌背书",
+      "score": null,
+      "verdict": "weak",
+      "verdict_label": "证据偏弱(旧门)",
+      "baseline_grade": "活性物证据强/本品数据未公开",
+      "recommend_gate": "S≥9 且 E≥6(旧门)"
+    },
+    "v5": {
+      "p_evaluated": true,
+      "p_status": "条件适用",
+      "p_band": "条件适用",
+      "p_conf": "中",
+      "d_case": true,
+      "d_tier": "仅机制/成分线索",
+      "d_tier_canvas": "仅机制/成分线索"
+    }
   }
 ]
