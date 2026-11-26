@@ -4,7 +4,7 @@
 
 | 文件 | 作用 |
 |---|---|
-| `haina_mcp.py` | 值得买 MCP（streamable-HTTP）命令行/可导入封装，覆盖 4 个工具 |
+| `haina_mcp.py` | 值得买 MCP（streamable-HTTP）命令行/可导入封装，覆盖 8 个工具 |
 | `check_links.py` | 购买链可达性检查器（限速/重试/断点续跑/反爬标记） |
 | `smoke/` | 真实冒烟证据：`mcp-tools-list.json`、`mcp-search-sample.json`、`link-smoke.jsonl` |
 
@@ -63,6 +63,12 @@ python3 tools/haina_mcp.py content-search --query "薇姿 Minéral 89 成分" \
 # 好价折扣（discount_search）：在售与价格信号
 python3 tools/haina_mcp.py discount --query "防晒霜" --limit 10
 
+# 商品基础信息 / 核心参数 / 评价 / SKU 在售链接（v3 新增能力）
+python3 tools/haina_mcp.py product-basic --query "Aveeno Eczema Therapy Moisturizing Cream" --categories "个护化妆"
+python3 tools/haina_mcp.py product-parameter --query "Eucerin UreaRepair Face Cream 5%" --categories "个护化妆"
+python3 tools/haina_mcp.py product-comment --query "珂润 润浸保湿 泡沫沐浴露" --categories "个护化妆" --comment-limit 3
+python3 tools/haina_mcp.py product-sku --query "优色林 UreaRepair 5% 面霜" --categories "个护化妆"
+
 # 图搜（image_search）
 python3 tools/haina_mcp.py image-search --img-url "https://example.com/a.jpg" --auto-cate
 
@@ -73,7 +79,7 @@ python3 tools/haina_mcp.py product-search --args '{"product_query":"面膜","siz
 python3 tools/haina_mcp.py --env-file /path/to/.env --timeout 60 --raw list
 ```
 
-工具名 → 子命令：`product-search`=`product_search_pro`，`content-search`=`universal_content_search`，`discount`=`discount_search`，`image-search`=`image_search`（也可直接用工具名作子命令）。
+工具名 → 子命令：`product-search`=`product_search_pro`，`content-search`=`universal_content_search`，`discount`=`discount_search`，`image-search`=`image_search`，`product-basic`=`product_basic_search`，`product-parameter`=`product_parameter_search`，`product-comment`=`product_comment_search`，`product-sku`=`product_sku_search`（也可直接用工具名作子命令；完整参数可用 `--args` 原样转发）。
 
 退出码：`0` 成功；`2` 配置缺失；`3`/`4` HTTP 或协议错误；`5` 超时；`6` 参数不足。
 
@@ -174,6 +180,6 @@ python3 tools/check_links.py --input links.jsonl --output out.jsonl --no-resume
 
 ## 6. 冒烟证据（`tools/smoke/`）
 
-- `mcp-tools-list.json`：真实 `tools/list` 输出，含 `product_search_pro`/`universal_content_search`/`discount_search`/`image_search`。
-- `mcp-search-sample.json`：四个工具各 1 次真实返回（`product_search_pro` 适乐肤 CeraVe 保湿洁面乳、`discount_search` 防晒霜、`universal_content_search` 薇姿 Minéral 89 成分、`image_search` 用商品主图），密钥字段已脱敏。
+- `mcp-tools-list.json`：真实 `tools/list` 输出，含 `product_search_pro`/`universal_content_search`/`discount_search`/`image_search` 与 v3 新增的 `product_basic_search`/`product_parameter_search`/`product_comment_search`/`product_sku_search`。
+- `mcp-search-sample.json`：最初开通的四个工具各 1 次真实返回（`product_search_pro` 适乐肤 CeraVe 保湿洁面乳、`discount_search` 防晒霜、`universal_content_search` 薇姿 Minéral 89 成分、`image_search` 用商品主图），密钥字段已脱敏。
 - `link-smoke.jsonl`：≥10 条真实检查记录，覆盖 `item.jd.com`/`item.m.jd.com`、`s.click.taobao.com`/`uland.taobao.com`、`www.jd.com`/`mall.jd.com`、`www.smzdm.com`、品牌官网/跨境站。

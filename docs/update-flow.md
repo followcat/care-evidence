@@ -64,7 +64,8 @@ git checkout -b data/fix-tmall-links
 python3 site/build.py            # 本地先构建一次，确认能过
 git add data/products.json
 git commit -m "data: 补齐 3 条天猫购买链"
-git push -u origin data/fix-tmall-links
+env -u HTTPS_PROXY -u HTTP_PROXY -u https_proxy -u http_proxy \
+  git push -u origin data/fix-tmall-links
 ```
 
 然后在 GitHub 上开 PR 指向 `main`。合并方式用 Squash 或普通 Merge 都行，关键是**最终落到 `main`**——Pages 工作流只监听 `main`（见第 3 节）。
@@ -180,10 +181,10 @@ t3 在 `verification/` 里产出的购买链可达性结果（`verdict` 字段�
 
 ## 5. 首次发布清单（用户侧操作）
 
-这一步需要你自己在 GitHub 上做；studio 不建仓库、不推送、不开 Pages。完整的命令级步骤见 **`docs/publish-runbook.md`**，这里给出概览。前提是 `gh auth status` 已通过（或已登录网页）。
+这一步需要你自己在 GitHub 上做；studio 不建仓库、不推送、不开 Pages。完整的命令级步骤见 **`docs/publish-runbook.md`**，这里给出概览。前提是 GitHub CLI 登录状态已通过（或已登录网页）。所有 GitHub/git 网络命令都要按 runbook 统一加 `env -u HTTPS_PROXY -u HTTP_PROXY -u https_proxy -u http_proxy` 代理置空前缀。
 
-1. **装配内容**：`bash deploy/assemble.sh` 生成 `deploy/care-evidence/`。
-2. **建仓库并推送**：`gh repo create care-evidence --public --source=deploy/care-evidence --remote=origin --push`（或手动建空仓库后 `git push`）。
+1. **装配内容**：`bash deploy/prepare-local-repo.sh` 生成并验证 `deploy/care-evidence/`，同时准备好 `main` 分支本地提交。
+2. **建仓库并推送**：进入 `deploy/care-evidence/` 后，按 `docs/publish-runbook.md` 第 3 节执行带代理置空前缀的建库或 push 命令。
 3. **设 Pages 来源**：仓库 Settings → Pages → Source 选 **GitHub Actions**（不是「Deploy from a branch」）。这一步不设，Actions 部署会失败。
 4. **回填站名**：站名集中在 `site/config.json` 的 `siteName` 一处（当前为「个护有据」）。要改名只改这一处，重新构建即全站生效——详见 `docs/site-name.md`。
 5. **触发首次部署**：推送 `main` 后 Actions 自动跑；或到 Actions 页面手动 Run workflow。跑绿后访问 `https://<你的账号>.github.io/care-evidence/`。

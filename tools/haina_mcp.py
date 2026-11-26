@@ -32,7 +32,7 @@ EXIT_PROTOCOL = 4
 EXIT_TIMEOUT = 5
 EXIT_USAGE = 6
 
-# 验收要求的四个工具，以及命令行别名。
+# 验收要求的八个工具，以及命令行别名。
 TOOL_ALIASES = {
     "product-search": "product_search_pro",
     "product_search_pro": "product_search_pro",
@@ -42,6 +42,14 @@ TOOL_ALIASES = {
     "discount_search": "discount_search",
     "image-search": "image_search",
     "image_search": "image_search",
+    "product-basic": "product_basic_search",
+    "product_basic_search": "product_basic_search",
+    "product-parameter": "product_parameter_search",
+    "product_parameter_search": "product_parameter_search",
+    "product-comment": "product_comment_search",
+    "product_comment_search": "product_comment_search",
+    "product-sku": "product_sku_search",
+    "product_sku_search": "product_sku_search",
 }
 
 
@@ -333,6 +341,17 @@ def build_arguments(tool_name: str, args) -> dict:
             "product_query": query,
             "size": g("limit"),
         }
+    elif tool_name in {"product_basic_search", "product_parameter_search", "product_sku_search"}:
+        mapping = {
+            "query": query,
+            "categories": g("categories"),
+        }
+    elif tool_name == "product_comment_search":
+        mapping = {
+            "query": query,
+            "categories": g("categories"),
+            "comment_limit": g("comment_limit"),
+        }
     else:  # image_search
         mapping = {
             "img_url": g("img_url") or g("image_url"),
@@ -404,6 +423,24 @@ def make_parser() -> argparse.ArgumentParser:
     add_common(p)
     p.add_argument("--limit", type=int, default=None, help="返回数量 size")
 
+    def add_entity_common(p, comment=False):
+        add_common(p)
+        p.add_argument("--categories", default=None, help="领域过滤，多个用英文逗号分隔")
+        if comment:
+            p.add_argument("--comment-limit", dest="comment_limit", type=int, default=None, help="每个商品最多返回评价观点数")
+
+    p = sub.add_parser("product-basic", help="商品基础信息 product_basic_search")
+    add_entity_common(p)
+
+    p = sub.add_parser("product-parameter", help="商品核心参数 product_parameter_search")
+    add_entity_common(p)
+
+    p = sub.add_parser("product-comment", help="商品评价 product_comment_search")
+    add_entity_common(p, comment=True)
+
+    p = sub.add_parser("product-sku", help="商品 SKU/在售链接 product_sku_search")
+    add_entity_common(p)
+
     p = sub.add_parser("image-search", help="图片检索 image_search")
     add_common(p)
     p.add_argument("--img-url", dest="img_url", default=None, help="图片 URL")
@@ -420,10 +457,18 @@ def make_parser() -> argparse.ArgumentParser:
         "universal_content_search": "content-search",
         "discount_search": "discount",
         "image_search": "image-search",
+        "product_basic_search": "product-basic",
+        "product_parameter_search": "product-parameter",
+        "product_comment_search": "product-comment",
+        "product_sku_search": "product-sku",
     }
     for alias, base in alias_map.items():
         p = sub.add_parser(alias, help=f"同 {base}（tools/call {alias}）")
         add_common(p)
+        if alias in {"product_basic_search", "product_parameter_search", "product_comment_search", "product_sku_search"}:
+            p.add_argument("--categories", default=None, help="领域过滤，多个用英文逗号分隔")
+        if alias == "product_comment_search":
+            p.add_argument("--comment-limit", dest="comment_limit", type=int, default=None, help="每个商品最多返回评价观点数")
 
     return parser
 

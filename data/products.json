@@ -137,23 +137,27 @@
     "buy": {
       "buyLabel": "官网跨境",
       "buyHref": "https://www.vichyusa.com/mineral-89-hydrating-and-plumping-serum-mineral89.html",
-      "buyNote": "官网50ml；地区价格实时核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官网50ml；地区价格实时核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-vichy-89",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=nGGWoyxcMt3jxXV2M3HM6FyCP-Q5v3baC9p9aD2kmIK",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.vichyusa.com/mineral-89-hydrating-and-plumping-serum-mineral89.html",
           "label": "官网跨境"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=nGGWoyxcMt3jxXV2M3HM6FyCP-Q5v3baC9p9aD2kmIK",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": true,
@@ -219,22 +223,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.laroche-posay.us/our-products/face/face-serum/hyalu-b5-pure-hyaluronic-acid-serum-3337875583626.html",
-      "buyNote": "30ml官方渠道实时价；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "30ml官方渠道实时价；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#sr-lrp-hyalu",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASoJK1olVQIEUltdCkwXM28JGl4cXQ8KXF1VCEMTMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBmYIElMdXg4CXFpCUQ5LXl9cbSJQBQFCBD5DSFF1Qil2QToVCAZEWFJtDE0UBWsJGloWbQYDVV9cAUMeC204H117XGgCXVszDkxFBGkMS1tFXFMEV1cNXHsXAl9JdV8dXQ4FXW5cOEsRC2sPGV4XXgMKXFltCEMTM7ihtY2Z-9K7_onvinsnM2w4K2sVbQUyCjBcD05DAGpfTjVJG0BaBwwEXiUQA2cOHF4QWDYAVV9fCnsnMw9LQwtpHE9HBllcewpgSC9fGj8SLkd4LSE_WyBnYwEKWQ5GOwFKMyE_XB1jeW99YVolXTYCVl5aOEon",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.laroche-posay.us/our-products/face/face-serum/hyalu-b5-pure-hyaluronic-acid-serum-3337875583626.html",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASoJK1olVQIEUltdCkwXM28JGl4cXQ8KXF1VCEMTMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBmYIElMdXg4CXFpCUQ5LXl9cbSJQBQFCBD5DSFF1Qil2QToVCAZEWFJtDE0UBWsJGloWbQYDVV9cAUMeC204H117XGgCXVszDkxFBGkMS1tFXFMEV1cNXHsXAl9JdV8dXQ4FXW5cOEsRC2sPGV4XXgMKXFltCEMTM7ihtY2Z-9K7_onvinsnM2w4K2sVbQUyCjBcD05DAGpfTjVJG0BaBwwEXiUQA2cOHF4QWDYAVV9fCnsnMw9LQwtpHE9HBllcewpgSC9fGj8SLkd4LSE_WyBnYwEKWQ5GOwFKMyE_XB1jeW99YVolXTYCVl5aOEon",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -383,23 +391,27 @@
     "buy": {
       "buyLabel": "官网跨境",
       "buyHref": "https://www.kao.com/hk/products/curel/crl_essence_00/",
-      "buyNote": "香港官方40g；跨区实时核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "香港官方40g；跨区实时核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-curel-wrinkle",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=mVa9bqmHktJDNzrV3vIvWsQC3-NPvjWDC26xZbeMecK&skuId=3134916513887",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.kao.com/hk/products/curel/crl_essence_00/",
           "label": "官网跨境"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=mVa9bqmHktJDNzrV3vIvWsQC3-NPvjWDC26xZbeMecK&skuId=3134916513887",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": true,
@@ -1213,22 +1225,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.cetaphil.com/",
-      "buyNote": "国内官方237ml常见；实时核价；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "国内官方237ml常见；实时核价；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-cetaphil-ml",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olWAcEXV1bD04fAl8IGlsWXA4FV1xZC0MRCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wJE1wWXwIBXFhUFxJSXzI4YgcPLkF5Fx8_cjFSdQ1YS0VTCwRFNFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhxEAmkIGFsQXAUCUl5UWhsnA244WjUVWAQBXVlbDnsWM28OE18SXwMAVlxZDk0nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGsMHlsTXmheEhgFWxAVRgEPG1IdWwABV25fCUoVAV84KyIQHmYKL1YocjxxATRTfix1Gn13VgUkdh5QRgZyWDUSHUALVDVYbDBHUy1MTR5KBWMyVG5dD00TAl8JKw",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.cetaphil.com/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olWAcEXV1bD04fAl8IGlsWXA4FV1xZC0MRCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wJE1wWXwIBXFhUFxJSXzI4YgcPLkF5Fx8_cjFSdQ1YS0VTCwRFNFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhxEAmkIGFsQXAUCUl5UWhsnA244WjUVWAQBXVlbDnsWM28OE18SXwMAVlxZDk0nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGsMHlsTXmheEhgFWxAVRgEPG1IdWwABV25fCUoVAV84KyIQHmYKL1YocjxxATRTfix1Gn13VgUkdh5QRgZyWDUSHUALVDVYbDBHUy1MTR5KBWMyVG5dD00TAl8JKw",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -1459,23 +1475,27 @@
     "buy": {
       "buyLabel": "官网跨境",
       "buyHref": "https://www.vanicream.com/product/vanicream-daily-facial-moisturizer",
-      "buyNote": "美国官方89ml；跨境实时核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "美国官方89ml；跨境实时核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-vanicream-face",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D4WUxeKs3oTFw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVcrRW9heDxUt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVP6CfewUHwI6Kn%2F1GifOlucKaofgarUgdLVyxLSdGEvrf7swqIkWFP1mqP4xtHqeLKgcrPqUoJhbCfwsmKApfH2q9cGXHsX5nzRdGnpEGekNxNbBpM33y%2B%2FmlDIRZDQHTc%2B5CKC4EJmUIYULNg46oBA%3D&union_lens=lensId:TAPI@1795634333@213dab6b_148c_1a214258564_1552@01&skuId=6278902694773",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.vanicream.com/product/vanicream-daily-facial-moisturizer",
           "label": "官网跨境"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3D4WUxeKs3oTFw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVcrRW9heDxUt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVP6CfewUHwI6Kn%2F1GifOlucKaofgarUgdLVyxLSdGEvrf7swqIkWFP1mqP4xtHqeLKgcrPqUoJhbCfwsmKApfH2q9cGXHsX5nzRdGnpEGekNxNbBpM33y%2B%2FmlDIRZDQHTc%2B5CKC4EJmUIYULNg46oBA%3D&union_lens=lensId:TAPI@1795634333@213dab6b_148c_1a214258564_1552@01&skuId=6278902694773",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": true,
@@ -1787,22 +1807,26 @@
     "buy": {
       "buyLabel": "官网跨境",
       "buyHref": "https://www.physiogel.com.hk/dmt-range?lang=en",
-      "buyNote": "官方地区200ml／规格核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官方地区200ml／规格核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#ba-physiogel-lot",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAQBVlxeCkIWA18IGloTXAABXFZZCU8WBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkJHVgdVQIDUF9YFxJSXzI4Zh4QB0J2KBc-TzVSViRAaT1BVG5AElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkgVUWkMSwkVDVYLUgxUAR8nA244WjUVXAIAU11aDHsWM28OE18SXwMAVlpcDk4nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGkLEltFCmheEhgFWxEfUAEPG1McVQQGVW5fCUoVAV84KxtQPkdZFRxceD1QBW9gbC0TI3ZeATomby5DeRABdVkcWWFbAAEHfSBodyZOGxAQKzYCZF5fCEwnAl8",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.physiogel.com.hk/dmt-range?lang=en",
           "label": "官网跨境"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAQBVlxeCkIWA18IGloTXAABXFZZCU8WBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkJHVgdVQIDUF9YFxJSXzI4Zh4QB0J2KBc-TzVSViRAaT1BVG5AElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkgVUWkMSwkVDVYLUgxUAR8nA244WjUVXAIAU11aDHsWM28OE18SXwMAVlpcDk4nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGkLEltFCmheEhgFWxEfUAEPG1McVQQGVW5fCUoVAV84KxtQPkdZFRxceD1QBW9gbC0TI3ZeATomby5DeRABdVkcWWFbAAEHfSBodyZOGxAQKzYCZF5fCEwnAl8",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -2033,22 +2057,26 @@
     "buy": {
       "buyLabel": "官网／旗舰",
       "buyHref": "https://www.kao.com/sg/products/curel/",
-      "buyNote": "花王120ml；官方价／地区核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "花王120ml；官方价／地区核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#ba-curel-emulsion",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BARgJK1olXDYBVVlZCk0RMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDC0oQB20OHURMGFpfZCoBCCxJCzNbfi5rDnUDPwIKCiBeRDkEF2sRWwUEUF9cCUgnA24JGlocVQ8KVm5ZDiUWbW8BHjUXDVUHXAoKWBtCUD0BHloVbQYDZAgzCEoWAmwOElMQXTYDZF5bAE8QAWoLHFsQXAEyVFZZOJy-rbmEvY-s99Gw1m5tOEgnM18IK1glA2gDUw4IAE0UBwFUXR1NVU1VVDBaCEMUAGgOGmsXXAcAVm5tOD9qZmthfSsXPEFFVjgUYBJjVzZbGT1CJmV1JwY-bSUVAmdVWgdiI3pSFB45djMeeBU4G2sVXwYFZF9t",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.kao.com/sg/products/curel/",
           "label": "官网／旗舰"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BARgJK1olXDYBVVlZCk0RMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDC0oQB20OHURMGFpfZCoBCCxJCzNbfi5rDnUDPwIKCiBeRDkEF2sRWwUEUF9cCUgnA24JGlocVQ8KVm5ZDiUWbW8BHjUXDVUHXAoKWBtCUD0BHloVbQYDZAgzCEoWAmwOElMQXTYDZF5bAE8QAWoLHFsQXAEyVFZZOJy-rbmEvY-s99Gw1m5tOEgnM18IK1glA2gDUw4IAE0UBwFUXR1NVU1VVDBaCEMUAGgOGmsXXAcAVm5tOD9qZmthfSsXPEFFVjgUYBJjVzZbGT1CJmV1JwY-bSUVAmdVWgdiI3pSFB45djMeeBU4G2sVXwYFZF9t",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -2117,23 +2145,27 @@
     "buy": {
       "buyLabel": "官网跨境",
       "buyHref": "https://www.cerave.com/skincare/moisturizers/pm-facial-moisturizing-lotion",
-      "buyNote": "美国官网89ml；国行60ml配方另核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "美国官网89ml；国行60ml配方另核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ba-cerpm-us",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=N8bzXNqI5tG6eMDNAVsv7sjCB-wJ0pVPUMXQGeMQxSd&skuId=6069726200009",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.cerave.com/skincare/moisturizers/pm-facial-moisturizing-lotion",
           "label": "官网跨境"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=N8bzXNqI5tG6eMDNAVsv7sjCB-wJ0pVPUMXQGeMQxSd&skuId=6069726200009",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": true,
@@ -2201,23 +2233,27 @@
     "buy": {
       "buyLabel": "官网跨境",
       "buyHref": "https://www.cerave.com/skincare/cleansers/foaming-facial-cleanser",
-      "buyNote": "官网236ml；地区版本核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官网236ml；地区版本核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ba-cerave-foam-rct",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=D33P96WoTDt5QjBW3M8t0dSJCn-PqvR8kFK3MvVAGgfg&skuId=4818823715382",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.cerave.com/skincare/cleansers/foaming-facial-cleanser",
           "label": "官网跨境"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=D33P96WoTDt5QjBW3M8t0dSJCn-PqvR8kFK3MvVAGgfg&skuId=4818823715382",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": true,
@@ -2281,25 +2317,25 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网跨境",
-      "buyHref": "https://www.bioderma.us/en/p/sensibio-gel-moussant.html",
-      "buyNote": "官方200ml；地区价格核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "官方/自营在售洁面啫喱",
+      "buyHref": "https://uland.taobao.com/item/edetail?id=8kjvr3GSnt9NjzZpa0tBahVC8-wJ0pVPUQgK8mnaOie&skuId=4615523776872",
+      "buyNote": "官方200ml；地区价格核；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0001",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=8kjvr3GSnt9NjzZpa0tBahVC8-wJ0pVPUQgK8mnaOie&skuId=4615523776872",
+      "tmallLabel": "官方/自营在售洁面啫喱",
       "channels": [
         {
-          "href": "https://www.bioderma.us/en/p/sensibio-gel-moussant.html",
-          "label": "官网跨境"
+          "href": "https://uland.taobao.com/item/edetail?id=8kjvr3GSnt9NjzZpa0tBahVC8-wJ0pVPUQgK8mnaOie&skuId=4615523776872",
+          "label": "官方/自营在售洁面啫喱"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": true,
@@ -2447,23 +2483,27 @@
     "buy": {
       "buyLabel": "官网跨境",
       "buyHref": "https://eltamd.com/",
-      "buyNote": "官方207ml／跨境；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官方207ml／跨境；购买前复核版本与实时价 · 2026-11-06 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ba-elat-mdfoam",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=48kmNvrigtNRj5n8rpCr4fQCg-dJvQngUnZ5ZqkJ6tW5&skuId=4812381146889",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://eltamd.com/",
           "label": "官网跨境"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=48kmNvrigtNRj5n8rpCr4fQCg-dJvQngUnZ5ZqkJ6tW5&skuId=4812381146889",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": true,
@@ -2775,22 +2815,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.laneige.com.cn/skincare/water-bank-blue-hyaluronic-gel-cream.html",
-      "buyNote": "官网清润啫喱面霜；购前核型号与实时价 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网清润啫喱面霜；购前核型号与实时价 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-laneige-wb-gel",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUYJK1olXwIEXVZbC0MWBl8IGloVXwAKVl9VDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAWkAGVodWw8dDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzJtNnAHMhU-bR9hcwhYZEFLRwBQCy5RBHsTBWwOH1oUXAUyVF9cCUoeC2YAGWsRW2gDOl5UDSURADhcT1wXVQIFUlcJCR9CM28JKxl7i7-CjePl0fSvH7upv1gUXgIyVW5dDkMTBG0NGV4RXwcHZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlbCE5DUGtmRx1TBVVAUAQzD0gWAG0NHlMlXwcDVlxtOHt8ewpTHjgTKUFVHFg-eEhyRDJpXl12LwRWXB8kCC55ARp_SxlcVA9iMAQ-awhteShtK1slXQQCU25cOA",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.laneige.com.cn/skincare/water-bank-blue-hyaluronic-gel-cream.html",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAUYJK1olXwIEXVZbC0MWBl8IGloVXwAKVl9VDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAWkAGVodWw8dDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzJtNnAHMhU-bR9hcwhYZEFLRwBQCy5RBHsTBWwOH1oUXAUyVF9cCUoeC2YAGWsRW2gDOl5UDSURADhcT1wXVQIFUlcJCR9CM28JKxl7i7-CjePl0fSvH7upv1gUXgIyVW5dDkMTBG0NGV4RXwcHZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlbCE5DUGtmRx1TBVVAUAQzD0gWAG0NHlMlXwcDVlxtOHt8ewpTHjgTKUFVHFg-eEhyRDJpXl12LwRWXB8kCC55ARp_SxlcVA9iMAQ-awhteShtK1slXQQCU25cOA",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -3103,22 +3147,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.vanicream.com/product/vanicream-facial-cleanser",
-      "buyNote": "Vanicream官网Gentle Facial Cleanser · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "Vanicream官网Gentle Facial Cleanser · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#ba-vanicream-gfc",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXwUEVF9fCkwVCl8IGlgWXAEGVFhdDU8QBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAGwJHF8VWwYHUFlYFxJSXzI4elNsKwN8BBc4AExxfxRUcCtUVFhnAlJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZh4VAj0KTgsQXwQLA1daCBsnA244WjUVXgAEVV1eD3sWM28OE18SXwMAUVdZD0wnA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtYGg5GWmheEhgFWw9JBwEPG1IdWQAHUW5fCUoVAV84Ky5wPX1fKSMJCCp0VhJ3EiBlWkRQASMKVDBkXgt8ezUXOnVrXSE4XAJjUy9QSFMTO10yVG5dCksQM244",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.vanicream.com/product/vanicream-facial-cleanser",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXwUEVF9fCkwVCl8IGlgWXAEGVFhdDU8QBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAGwJHF8VWwYHUFlYFxJSXzI4elNsKwN8BBc4AExxfxRUcCtUVFhnAlJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZh4VAj0KTgsQXwQLA1daCBsnA244WjUVXgAEVV1eD3sWM28OE18SXwMAUVdZD0wnA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtYGg5GWmheEhgFWw9JBwEPG1IdWQAHUW5fCUoVAV84Ky5wPX1fKSMJCCp0VhJ3EiBlWkRQASMKVDBkXgt8ezUXOnVrXSE4XAJjUy9QSFMTO10yVG5dCksQM244",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -3185,23 +3233,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.lamer.com.cn/",
-      "buyNote": "成分与56人测试见香港官方产品页；无可靠国行单品直链 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "成分与56人测试见香港官方产品页；无可靠国行单品直链 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-lamer",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=oZqBoexhrtK9ekJavzuMoCKCN-jbN2YaCdnO4aeMetzy",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.lamer.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=oZqBoexhrtK9ekJavzuMoCKCN-jbN2YaCdnO4aeMetzy",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -3267,23 +3319,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.helenarubinstein.com.tw/products/re-plasty-age-recovery-night-cream",
-      "buyNote": "官方50ml；核30%原料溶液口径与地区版本 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官方50ml；核30%原料溶液口径与地区版本 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-hr-black",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=jxkV2w6U0tJ7ZpaBybU6nUxCe-5Ryx7GUWy6KA4R6sND",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.helenarubinstein.com.tw/products/re-plasty-age-recovery-night-cream",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=jxkV2w6U0tJ7ZpaBybU6nUxCe-5Ryx7GUWy6KA4R6sND",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -3349,22 +3405,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.cledepeau-beaute.com.cn/",
-      "buyNote": "品牌官网内搜金致乳霜；购前核备案及规格 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "品牌官网内搜金致乳霜；购前核备案及规格 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-cpb-la",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASIJK1olXDYCVV9eAE4WC20OE1olGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWVQMDXFxbAEoIWipURmtPA0NpETdbSChvfS9uGDlALlVCPC4bBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55Bz0ASQkXCAAAVVxfXEwXAl8IGmtDMwYDVV9fD0geBm04GmsVWw4GU1xYCk8XC2gNK1sdWTbV_fCLhO3DusXfqdklbTYBZG5tCHsUMzFmGlwRX1EAVlozVA1RWzxBSwB7WgYKVlZfD0MnAW4JGVklbTYFPzsWaB5vWylxayxAVFECDSAOeDxCXz8AHQ5KDmNsVikrXk5laj1XTwBACH0HJwE7OEsnA20IHGsUbQ",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.cledepeau-beaute.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASIJK1olXDYCVV9eAE4WC20OE1olGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWVQMDXFxbAEoIWipURmtPA0NpETdbSChvfS9uGDlALlVCPC4bBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55Bz0ASQkXCAAAVVxfXEwXAl8IGmtDMwYDVV9fD0geBm04GmsVWw4GU1xYCk8XC2gNK1sdWTbV_fCLhO3DusXfqdklbTYBZG5tCHsUMzFmGlwRX1EAVlozVA1RWzxBSwB7WgYKVlZfD0MnAW4JGVklbTYFPzsWaB5vWylxayxAVFECDSAOeDxCXz8AHQ5KDmNsVikrXk5laj1XTwBACH0HJwE7OEsnA20IHGsUbQ",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -3431,7 +3491,7 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.chanel.cn/cn/skincare/p/147560/sublimage-la-creme-texture-supreme-ultimate-cream-rejuvenates-and-smooths/",
-      "buyNote": "官网50g ¥3990；147560滋润，轻盈为147540 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官网50g ¥3990；147560滋润，轻盈为147540 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入其他官方/自营渠道，证据 verification/fill-link-evidence.jsonl#cr-chanel-sub",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
@@ -3440,6 +3500,10 @@
         {
           "href": "https://www.chanel.cn/cn/skincare/p/147560/sublimage-la-creme-texture-supreme-ultimate-cream-rejuvenates-and-smooths/",
           "label": "官网"
+        },
+        {
+          "href": "https://t.vip.com/redirect.php?url=eyJzY2hlbWVjb2RlIjoibWlnX2NvZGUiLCJzaGFyZUNvZGUiOiI0a2JnMTgwMDAwcjdhb3kxIiwibW9uaXRvclNwb3RDb2RlIjoiQzAxVjRrYmcxOHk4bXlkciIsIm1vbml0b3JTcG90S2V5IjoiVU5JT05fQVBJX0NIQU5ORUwiLCJhd2FrZSI6InRydWUiLCJ1Y29kZSI6ImFheXBseHFhIiwibWFyayI6IjJBcywyNVgscHpxRiIsImRlc3R1cmwiOiJodHRwczpcL1wvd3d3LnZpcC5jb21cL2RldGFpbC0wMDAwMDAwMDAwLTY5MjE3NzI2MDc2NzAzMTQxMzMuaHRtbCM2OTIxNzcyNjA3NjcwMzM4NzA5IiwidmVuZG9yQ29kZSI6Imo5a3FmYyJ9&chanTag=default_pid&openId=21058852ccdefff1",
+          "label": "唯品自营"
         }
       ],
       "has_jd": false,
@@ -3513,22 +3577,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.dior.cn/zh_cn/beauty/products/Y0356009",
-      "buyNote": "官方Y0356009；客户端核对花秘版本 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官方Y0356009；客户端核对花秘版本 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-dior-prestige",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BATgJK1olWAMCV1pZDE4RAF8IGloWVQQGV15fCE8nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUC20MGFsXXQIdDRsBVXteVglBbyt3WGQGLjoYXi4WHT1rXxhlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsUAlUCBgfV2lcH1gUXlZQBG5dCXtEbTpQRRjM053WwMqLh_TDlNgUz8KliI2dZF9tCE0fB2gKHlkRWgcAXG5dAE8n1Mamzdezib-og-zfOHsnAF84K1slXjZcOl9aDE8SBzxddQdTG15QVQkCZkwXCmcLGlsVbQQDVVxfOHsndxthHCZ0KlxELQcnaRh1Cw5oGyxvPHJ8Py4qSDN-bW1gf1hTLntKCiYDaQ5odApLUmsVbQYAVFltCXs",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.dior.cn/zh_cn/beauty/products/Y0356009",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BATgJK1olWAMCV1pZDE4RAF8IGloWVQQGV15fCE8nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUC20MGFsXXQIdDRsBVXteVglBbyt3WGQGLjoYXi4WHT1rXxhlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsUAlUCBgfV2lcH1gUXlZQBG5dCXtEbTpQRRjM053WwMqLh_TDlNgUz8KliI2dZF9tCE0fB2gKHlkRWgcAXG5dAE8n1Mamzdezib-og-zfOHsnAF84K1slXjZcOl9aDE8SBzxddQdTG15QVQkCZkwXCmcLGlsVbQQDVVxfOHsndxthHCZ0KlxELQcnaRh1Cw5oGyxvPHJ8Py4qSDN-bW1gf1hTLntKCiYDaQ5odApLUmsVbQYAVFltCXs",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -3595,23 +3663,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.sisley.com.cn/detail?id=1151",
-      "buyNote": "官网125ml；完整INCI以包装为准 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官网125ml；完整INCI以包装为准 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-sisley-ec",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=YnBPBABIptX4wqndwpiwMcwC6-8nJ5MXUYPm4rdxVuO",
+      "tmallLabel": "天猫超市",
       "channels": [
         {
           "href": "https://www.sisley.com.cn/detail?id=1151",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=YnBPBABIptX4wqndwpiwMcwC6-8nJ5MXUYPm4rdxVuO",
+          "label": "天猫超市"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -3677,22 +3749,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.pola.co.jp/ec/products/g-1239/",
-      "buyNote": "官方日本B.A Cream 7；国行另行核备案 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官方日本B.A Cream 7；国行另行核备案 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-pola-ba",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAYFXFlcDEgQBV8IGloWXgYHU1teDUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUAG8NHF4WWAQdDRsBVXtuVGhYYDBsAWNBLiIJCwNqfWcPfCZlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsU1dYX0lECm5fSV8TXFYBAW5dCXtFbWcAE1sTVQAGUllcOEonA2kAH1wXWAQGXFZdCXsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQB21YGVlGM1pEEgYPChxFbWgIE18WXgYBZFxcCUkVM184YlMQNGNfXR42UAByXjoKeS1AWAJnCV8mADUUfhMNdVlpHVJ7EwkHAQAUXglpWgYUNjYCZF5fCEwnAl8",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.pola.co.jp/ec/products/g-1239/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAYFXFlcDEgQBV8IGloWXgYHU1teDUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUAG8NHF4WWAQdDRsBVXtuVGhYYDBsAWNBLiIJCwNqfWcPfCZlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsU1dYX0lECm5fSV8TXFYBAW5dCXtFbWcAE1sTVQAGUllcOEonA2kAH1wXWAQGXFZdCXsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQB21YGVlGM1pEEgYPChxFbWgIE18WXgYBZFxcCUkVM184YlMQNGNfXR42UAByXjoKeS1AWAJnCV8mADUUfhMNdVlpHVJ7EwkHAQAUXglpWgYUNjYCZF5fCEwnAl8",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -3759,23 +3835,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.cosmedecorte.com.cn/",
-      "buyNote": "中国官网AQ舒活凝光面霜 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "中国官网AQ舒活凝光面霜 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-decorte-aq",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=vj44newuZt672pJVnjSXRhRCe-9bQ7yKCOZMONOD5HY",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.cosmedecorte.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=vj44newuZt672pJVnjSXRhRCe-9bQ7yKCOZMONOD5HY",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -3841,23 +3921,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.guerlain.com.cn/",
-      "buyNote": "官网搜G061668；核品名与当批INCI · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官网搜G061668；核品名与当批INCI · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-guerlain-orchid",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=QVZkv7ZSQtB0b87YP8iDZfyCQ-O8v6xkCZj8rvmjesN&skuId=5645802697684",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.guerlain.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=QVZkv7ZSQtB0b87YP8iDZfyCQ-O8v6xkCZj8rvmjesN&skuId=5645802697684",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -3923,22 +4007,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.whoo.com.cn/product/%e5%a4%a9%e6%b0%94%e4%b8%b9%e5%85%89%e8%80%80%e7%84%95%e6%b4%bb%e7%b4%a7%e9%80%8f%e6%bb%8b%e5%85%bb%e9%9c%9c/",
-      "buyNote": "官网60ml ¥2400 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网60ml ¥2400 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-whoo-cheongidan",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASoJK1olVQILUVxUAU8TM28JGlkRXAELUlZUCXtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSl5cCUkTAmgBHVMcXBlbEQIAOAt1Cj9KWxByPn4FU1dZWkNMBQ9hYA0ZUTYGUl1bDEoWAmw4G1oUXAcLXFdVCnsTBQEJdVscWGhXBwwKDEkXBzgPGA5HXVEEZF5cOB15A24JGloUWwIDV25cOEsRC2sPGV4XWgAAVV5tCEMTM7ihtY2Z-9K7_onvinsnM2w4K2sVbQUyCjBcD00WAmtaTzVJG0BaBlZYVCUQAGwLE1IRWzYAVV9fCnsnMxtcHgURA1tfJzoLURVceWdzXw1JBFhJKBoVSz9_BgEKXhNiPX5ZVBgVbhVcBzcKZz0lXTYCVl5aOEon",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.whoo.com.cn/product/%e5%a4%a9%e6%b0%94%e4%b8%b9%e5%85%89%e8%80%80%e7%84%95%e6%b4%bb%e7%b4%a7%e9%80%8f%e6%bb%8b%e5%85%bb%e9%9c%9c/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASoJK1olVQILUVxUAU8TM28JGlkRXAELUlZUCXtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSl5cCUkTAmgBHVMcXBlbEQIAOAt1Cj9KWxByPn4FU1dZWkNMBQ9hYA0ZUTYGUl1bDEoWAmw4G1oUXAcLXFdVCnsTBQEJdVscWGhXBwwKDEkXBzgPGA5HXVEEZF5cOB15A24JGloUWwIDV25cOEsRC2sPGV4XWgAAVV5tCEMTM7ihtY2Z-9K7_onvinsnM2w4K2sVbQUyCjBcD00WAmtaTzVJG0BaBlZYVCUQAGwLE1IRWzYAVV9fCnsnMxtcHgURA1tfJzoLURVceWdzXw1JBFhJKBoVSz9_BgEKXhNiPX5ZVBgVbhVcBzcKZz0lXTYCVl5aOEon",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -4005,7 +4093,7 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.sulwhasoo.com.cn/products/concentrated-ginseng-rejuvenating-cream-rich.html",
-      "buyNote": "丰盈版官方页；乳霜另有SKU · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "丰盈版官方页；乳霜另有SKU · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入其他官方/自营渠道，证据 verification/fill-link-evidence.jsonl#cr-sulwhasoo-ginseng",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
@@ -4014,6 +4102,10 @@
         {
           "href": "https://www.sulwhasoo.com.cn/products/concentrated-ginseng-rejuvenating-cream-rich.html",
           "label": "官网"
+        },
+        {
+          "href": "https://t.vip.com/redirect.php?url=eyJzY2hlbWVjb2RlIjoibWlnX2NvZGUiLCJzaGFyZUNvZGUiOiI0a2JnMTgwMDAwZzVwYWlsIiwibW9uaXRvclNwb3RDb2RlIjoiQzAxVjRrYmcxOHk4bXlkciIsIm1vbml0b3JTcG90S2V5IjoiVU5JT05fQVBJX0NIQU5ORUwiLCJhd2FrZSI6InRydWUiLCJ1Y29kZSI6ImFheXBseHFhIiwibWFyayI6IjJBcywyNVgscHpxRiIsImRlc3R1cmwiOiJodHRwczpcL1wvd3d3LnZpcC5jb21cL2RldGFpbC0wMDAwMDAwMDAwLTY5MjEyNjM5NzQ5OTQ0MzUyMjQuaHRtbCM2OTIxMjYzOTc0OTk0NDQ3NTEyIiwidmVuZG9yQ29kZSI6Imo5a3FmYyJ9&chanTag=default_pid&openId=bdffa54bb7ad95c3",
+          "label": "唯品自营"
         }
       ],
       "has_jd": false,
@@ -4087,22 +4179,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.lamer.com.cn/",
-      "buyNote": "官网搜浓缩修护精华；核对当批中文品名 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网搜浓缩修护精华；核对当批中文品名 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#sr-lamer-concentrate",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASIJK1olXDYCVV9eAEMUBmYOH1wlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWVQ4BUVdbDEwIWipURmtSDwNAMgUObitJAGhMUx9SCUdSVT49BEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55UzhYTgsRCQBWAA4JWBtCC18IGmtDMwYDV1ZaCkIQA284GmsVWw4GU1xYCk0XAWwAK1sdWTbV_fCLhO3DusXfqdklbTYBZG5tCHsUMzFmGlwRX1YAVgwzVA1RWz1aEgx7WgYKUVxfCk0nAW4JGVklbTZ3MSRZVTZqV29peA5oIg95FSElWB5qVDlQeRJSHWZsVjkuYUJoZjtBb19oGWdYUF0GOEsnA20IHGsUbQ",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.lamer.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASIJK1olXDYCVV9eAEMUBmYOH1wlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWVQ4BUVdbDEwIWipURmtSDwNAMgUObitJAGhMUx9SCUdSVT49BEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55UzhYTgsRCQBWAA4JWBtCC18IGmtDMwYDV1ZaCkIQA284GmsVWw4GU1xYCk0XAWwAK1sdWTbV_fCLhO3DusXfqdklbTYBZG5tCHsUMzFmGlwRX1YAVgwzVA1RWz1aEgx7WgYKUVxfCk0nAW4JGVklbTZ3MSRZVTZqV29peA5oIg95FSElWB5qVDlQeRJSHWZsVjkuYUJoZjtBb19oGWdYUF0GOEsnA20IHGsUbQ",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -4169,22 +4265,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.esteelauder.com.cn/",
-      "buyNote": "官网搜特润修护肌活精华露 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网搜特润修护肌活精华露 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#sr-el-anr",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAT4JK1olVQUGU19bCU4QM28JGlMVWw4HVFxeCEIVMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWC28OE14VXwUCXVxCUQ5LXmFMRANLAnpWAQYNbRtBD2xmGjUVbW97EFYdcBdkYCwLTABnPHh-NyskCDsbD18MHVgTWQcDVV1tCEoWAm4BE1IdXzYGUjBcZkseBgENGwkWXQQABwkOWksRBToKK1sUbUdsVF5aDksTM244G10dWQEAUVxbD08QAl8IE18liq-sgtL73PK91N2KK2slXjYyZF5tC3tJbW4PHg8WWFFXOgIbThNFVWdLdVwVVQAKUl9aOEkWAm0KK2slJA4HAzsAAQt8WyRtRg5XIEdZNAY4VR51WmxXfggQMwR-FAokTxxNCiRfeiVoCgRHP25dOEsVA2g4Gms",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.esteelauder.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAT4JK1olVQUGU19bCU4QM28JGlMVWw4HVFxeCEIVMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWC28OE14VXwUCXVxCUQ5LXmFMRANLAnpWAQYNbRtBD2xmGjUVbW97EFYdcBdkYCwLTABnPHh-NyskCDsbD18MHVgTWQcDVV1tCEoWAm4BE1IdXzYGUjBcZkseBgENGwkWXQQABwkOWksRBToKK1sUbUdsVF5aDksTM244G10dWQEAUVxbD08QAl8IE18liq-sgtL73PK91N2KK2slXjYyZF5tC3tJbW4PHg8WWFFXOgIbThNFVWdLdVwVVQAKUl9aOEkWAm0KK2slJA4HAzsAAQt8WyRtRg5XIEdZNAY4VR51WmxXfggQMwR-FAokTxxNCiRfeiVoCgRHP25dOEsVA2g4Gms",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -4251,7 +4351,7 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.lancome.com.cn/",
-      "buyNote": "官网搜超修小黑瓶肌底精华 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官网搜超修小黑瓶肌底精华 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入其他官方/自营渠道，证据 verification/fill-link-evidence.jsonl#sr-lancome-gen",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
@@ -4260,6 +4360,10 @@
         {
           "href": "https://www.lancome.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://t.vip.com/redirect.php?url=eyJzY2hlbWVjb2RlIjoibWlnX2NvZGUiLCJzaGFyZUNvZGUiOiI0a2JnMTgwMDAwcGM1ZDhnIiwibW9uaXRvclNwb3RDb2RlIjoiQzAxVjRrYmcxOHk4bXlkciIsIm1vbml0b3JTcG90S2V5IjoiVU5JT05fQVBJX0NIQU5ORUwiLCJhd2FrZSI6InRydWUiLCJ1Y29kZSI6ImFheXBseHFhIiwibWFyayI6IjJBcywyNVgscHpxRiIsImRlc3R1cmwiOiJodHRwczpcL1wvd3d3LnZpcC5jb21cL2RldGFpbC0wMDAwMDAwMDAwLTY5MjE0ODY5ODc4MDExMjc4OTUuaHRtbCM2OTIxNDg2OTg3ODAxMTMxOTkxIiwidmVuZG9yQ29kZSI6Imo5a3FmYyJ9&chanTag=default_pid&openId=8a8250cd88544414",
+          "label": "唯品自营"
         }
       ],
       "has_jd": false,
@@ -4333,23 +4437,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kiehls.com.cn/product/?id=KLS00019",
-      "buyNote": "KLS00019；核国行美白特证及新配方 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "KLS00019；核国行美白特证及新配方 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-kiehls-dark",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRR12U5yz6gNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfmmGqN1pB6QMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4pAmcxxlLlZ7nUws1DQytsyOemaFM5tHHYxZyjQcbVDheesoYp3R6EYpN%2FXGjxObrnyZWTKiduMPUnbm%2FoNdZpnfKWImG4SC%2FVYWx0sR5vfXaKPu9ELZkAtA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdqEc3PDZntBVfJlTlqlx3LsC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795634378@2106cd74_1462_1a2142636a0_4d68@01",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.kiehls.com.cn/product/?id=KLS00019",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRR12U5yz6gNw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfmmGqN1pB6QMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4pAmcxxlLlZ7nUws1DQytsyOemaFM5tHHYxZyjQcbVDheesoYp3R6EYpN%2FXGjxObrnyZWTKiduMPUnbm%2FoNdZpnfKWImG4SC%2FVYWx0sR5vfXaKPu9ELZkAtA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdqEc3PDZntBVfJlTlqlx3LsC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795634378@2106cd74_1462_1a2142636a0_4d68@01",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -4415,7 +4523,7 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kiehls.com.cn/",
-      "buyNote": "官网搜高保湿霜；无水霜版本勿混 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官网搜高保湿霜；无水霜版本勿混 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入其他官方/自营渠道，证据 verification/fill-link-evidence.jsonl#cr-kiehls-ultra",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
@@ -4424,6 +4532,10 @@
         {
           "href": "https://www.kiehls.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://t.vip.com/redirect.php?url=eyJzY2hlbWVjb2RlIjoibWlnX2NvZGUiLCJzaGFyZUNvZGUiOiI0a2JnMTgwMDAwdngwNW5wIiwibW9uaXRvclNwb3RDb2RlIjoiQzAxVjRrYmcxOHk4bXlkciIsIm1vbml0b3JTcG90S2V5IjoiVU5JT05fQVBJX0NIQU5ORUwiLCJhd2FrZSI6InRydWUiLCJ1Y29kZSI6ImFheXBseHFhIiwibWFyayI6IjJBcywyNVgscHpxRiIsImRlc3R1cmwiOiJodHRwczpcL1wvd3d3LnZpcC5jb21cL2RldGFpbC0wMDAwMDAwMDAwLTY5MjE1MDcyODA2MDI2MDMwODMuaHRtbCIsInZlbmRvckNvZGUiOiJqOWtxZmMifQ%3D%3D&chanTag=default_pid&openId=33985abf324484dc",
+          "label": "唯品自营"
         }
       ],
       "has_jd": false,
@@ -4497,7 +4609,7 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.clinique.com.cn/product/87183/",
-      "buyNote": "官方87183；55人与101人测试脚注 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官方87183；55人与101人测试脚注 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入其他官方/自营渠道，证据 verification/fill-link-evidence.jsonl#sr-clinique-302",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
@@ -4506,6 +4618,10 @@
         {
           "href": "https://www.clinique.com.cn/product/87183/",
           "label": "官网"
+        },
+        {
+          "href": "https://t.vip.com/redirect.php?url=eyJzY2hlbWVjb2RlIjoibWlnX2NvZGUiLCJzaGFyZUNvZGUiOiI0a2JnMTgwMDAwNXlyOGd3IiwibW9uaXRvclNwb3RDb2RlIjoiQzAxVjRrYmcxOHk4bXlkciIsIm1vbml0b3JTcG90S2V5IjoiVU5JT05fQVBJX0NIQU5ORUwiLCJhd2FrZSI6InRydWUiLCJ1Y29kZSI6ImFheXBseHFhIiwibWFyayI6IjJBcywyNVgscHpxRiIsImRlc3R1cmwiOiJodHRwczpcL1wvd3d3LnZpcC5jb21cL2RldGFpbC0wMDAwMDAwMDAwLTY5MjEyOTQ1MDUzNTI3NDY3NTUuaHRtbCIsInZlbmRvckNvZGUiOiJqOWtxZmMifQ%3D%3D&chanTag=default_pid&openId=2b6390f0e90b7694",
+          "label": "唯品自营"
         }
       ],
       "has_jd": false,
@@ -4579,7 +4695,7 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.clinique.com.cn/product/96494/",
-      "buyNote": "官方套装页披露1% HPR；买单瓶核同品名 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官方套装页披露1% HPR；买单瓶核同品名 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入其他官方/自营渠道，证据 verification/fill-link-evidence.jsonl#sr-clinique-hpr",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
@@ -4588,6 +4704,10 @@
         {
           "href": "https://www.clinique.com.cn/product/96494/",
           "label": "官网"
+        },
+        {
+          "href": "https://t.vip.com/redirect.php?url=eyJzY2hlbWVjb2RlIjoibWlnX2NvZGUiLCJzaGFyZUNvZGUiOiI0a2JnMTgwMDAwOHc0c2RuIiwibW9uaXRvclNwb3RDb2RlIjoiQzAxVjRrYmcxOHk4bXlkciIsIm1vbml0b3JTcG90S2V5IjoiVU5JT05fQVBJX0NIQU5ORUwiLCJhd2FrZSI6InRydWUiLCJ1Y29kZSI6ImFheXBseHFhIiwibWFyayI6IjJBcywyNVgscHpxRiIsImRlc3R1cmwiOiJodHRwczpcL1wvd3d3LnZpcC5jb21cL2RldGFpbC0wMDAwMDAwMDAwLTY5MjA5NjI0MDEwMTQ1Mjk0MTEuaHRtbCIsInZlbmRvckNvZGUiOiJqOWtxZmMifQ%3D%3D&chanTag=default_pid&openId=90a329d55689619e",
+          "label": "唯品自营"
         }
       ],
       "has_jd": false,
@@ -4661,22 +4781,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.shiseido.com.cn/vpn-white-serum-0021.html",
-      "buyNote": "资生堂悦薇焕白精华官方页 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "资生堂悦薇焕白精华官方页 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#sr-shiseido-4msk",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BARgJK1olXDYCVV5dC0weBWkKGl0SWjZGCwYDV3tORipJWVALQ15HAAJCUx4IUTFUBVsUXQYBU1dbDkkWBWgPBAJQAVsyVgg1c0NqBghoZQ9AVHhQHCQVXC5Lc2MEK18TXgAGVV9cC3sXAm4JGlIdVA4AZFpbZkp5A2YNdV5HWFYKUFpUD05FUWcLHgwlXQcyHzBcOEonA2kAH1wXWAQLXVtaCXsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQBWwBGwtCM1pEEgYPSR1HbWgIE1MWWg4FZFxcCUkVM184bQ9lFA8FAgg5YDdTeQ5oW1xjO3llF1obbjFBWwZmGQVUKFpRDgYEdil3SwdWZQZSbQYyZF9t",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.shiseido.com.cn/vpn-white-serum-0021.html",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BARgJK1olXDYCVV5dC0weBWkKGl0SWjZGCwYDV3tORipJWVALQ15HAAJCUx4IUTFUBVsUXQYBU1dbDkkWBWgPBAJQAVsyVgg1c0NqBghoZQ9AVHhQHCQVXC5Lc2MEK18TXgAGVV9cC3sXAm4JGlIdVA4AZFpbZkp5A2YNdV5HWFYKUFpUD05FUWcLHgwlXQcyHzBcOEonA2kAH1wXWAQLXVtaCXsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQBWwBGwtCM1pEEgYPSR1HbWgIE1MWWg4FZFxcCUkVM184bQ9lFA8FAgg5YDdTeQ5oW1xjO3llF1obbjFBWwZmGQVUKFpRDgYEdil3SwdWZQZSbQYyZF9t",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -4741,25 +4865,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.skinceuticals.com.cn/productdtl/productdtl-HAINTENSIFIER.html",
-      "buyNote": "官网30ml ¥1080 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "修丽可官方旗舰/自营紫米精华",
+      "buyHref": "https://uland.taobao.com/item/edetail?id=zDzNaM5VietaVxMmjpqh60iyC4-zXdW2qUoNoKVga3tzO",
+      "buyNote": "官网30ml ¥1080 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0006；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#sr-sc-ha10",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=zDzNaM5VietaVxMmjpqh60iyC4-zXdW2qUoNoKVga3tzO",
+      "tmallLabel": "修丽可官方旗舰/自营紫米精华",
       "channels": [
         {
-          "href": "https://www.skinceuticals.com.cn/productdtl/productdtl-HAINTENSIFIER.html",
-          "label": "官网"
+          "href": "https://uland.taobao.com/item/edetail?id=zDzNaM5VietaVxMmjpqh60iyC4-zXdW2qUoNoKVga3tzO",
+          "label": "修丽可官方旗舰/自营紫米精华"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=dKV0YeohZt3vqXMDP6UBDI7C3-K7vDpzun3ee6Z60FnP",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -4823,25 +4951,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.skinceuticals.com.cn/productlist/productlist-jh.html",
-      "buyNote": "官网精华列表搜五酸；核当批酸百分比 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "buyLabel": "修丽可官方旗舰/自营五酸精华",
+      "buyHref": "https://uland.taobao.com/item/edetail?id=2qwZnkWhotgV8a4YJDTvatgCD-kYA46wu8wA38gDRs5B",
+      "buyNote": "官网精华列表搜五酸；核当批酸百分比 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0014；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#sr-sc-blemish",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASsJK1olXwcHVVxYCkkXBl8IGloXXQMEUVZaDk0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVA2oOHlMSWwAdDRsBVXsQQW4PEwsTH2VbCCQfVwNvVDZ2UCJTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsXVxcAB4WVG1aS1ISVAYHBm5dCXtEbS1SSTUcVA8LXVdtCXsXBWcMHFkQXw4CUFdfOEsfB1_fsvXD0aDW7fSKusknM18LK2slXTYBZAAzCUxHV2sIHFN7AUBEDAweTAB5BG8AGlIXXAEyVl9cCkknM19dYQRdD15aJCgeaiJPZmh_Wl9lAG9aITpUVj5hcTBmGSlyJn58FQYDDBRPQGd7fhtPbQYyVFxdD3sWMw",
+      "jdLabel": "京东自营",
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=2qwZnkWhotgV8a4YJDTvatgCD-kYA46wu8wA38gDRs5B",
+      "tmallLabel": "修丽可官方旗舰/自营五酸精华",
       "channels": [
         {
-          "href": "https://www.skinceuticals.com.cn/productlist/productlist-jh.html",
-          "label": "官网"
+          "href": "https://uland.taobao.com/item/edetail?id=2qwZnkWhotgV8a4YJDTvatgCD-kYA46wu8wA38gDRs5B",
+          "label": "修丽可官方旗舰/自营五酸精华"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASsJK1olXwcHVVxYCkkXBl8IGloXXQMEUVZaDk0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVA2oOHlMSWwAdDRsBVXsQQW4PEwsTH2VbCCQfVwNvVDZ2UCJTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsXVxcAB4WVG1aS1ISVAYHBm5dCXtEbS1SSTUcVA8LXVdtCXsXBWcMHFkQXw4CUFdfOEsfB1_fsvXD0aDW7fSKusknM18LK2slXTYBZAAzCUxHV2sIHFN7AUBEDAweTAB5BG8AGlIXXAEyVl9cCkknM19dYQRdD15aJCgeaiJPZmh_Wl9lAG9aITpUVj5hcTBmGSlyJn58FQYDDBRPQGd7fhtPbQYyVFxdD3sWMw",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
-      "has_tmall": false,
-      "has_both_jd_tmall": false,
+      "has_jd": true,
+      "has_tmall": true,
+      "has_both_jd_tmall": true,
       "has_buyHref": true,
-      "missing_jd": true,
-      "missing_tmall": true
+      "missing_jd": false,
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -4907,22 +5039,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.origins.com.cn/",
-      "buyNote": "官网搜灵芝焕能强韧精华 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网搜灵芝焕能强韧精华 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#sr-origins-mushroom",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAT8JK1olWAMCUVxfAUoWAV8IGloUWAEKXVhVAU4nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBmgAEl0dVAMdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKxBOGnVDD1gvaywNGR1JXlNMHARcIBhRBHsTBWwOH1oUXAUyVF9cCUoeC2YAGWsRW2gDOl5UDSVABWoOTlIRDgRVVgkPW01CM28JKxl7CVtQCh0FXhNIQV8JK1sTVQIFVlpfDUkWA2s4G1MRbdGr-ojRrp-uqbi6mWslbQUyZG5dOEgnXQEJHF8XDQQABjABTg1PSmtDWjUSXgcDU1tbDHsVAm4KGWslbV1ENAAYSDBtWxNDchsUIXtaHSoIYQsWWSpWfDxPPWgAID0tdhxWQDl1QxsSBXEDVCdtCHsXAW8PK1ol",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.origins.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAT8JK1olWAMCUVxfAUoWAV8IGloUWAEKXVhVAU4nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBmgAEl0dVAMdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKxBOGnVDD1gvaywNGR1JXlNMHARcIBhRBHsTBWwOH1oUXAUyVF9cCUoeC2YAGWsRW2gDOl5UDSVABWoOTlIRDgRVVgkPW01CM28JKxl7CVtQCh0FXhNIQV8JK1sTVQIFVlpfDUkWA2s4G1MRbdGr-ojRrp-uqbi6mWslbQUyZG5dOEgnXQEJHF8XDQQABjABTg1PSmtDWjUSXgcDU1tbDHsVAm4KGWslbV1ENAAYSDBtWxNDchsUIXtaHSoIYQsWWSpWfDxPPWgAID0tdhxWQDl1QxsSBXEDVCdtCHsXAW8PK1ol",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -4987,17 +5123,17 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "京东旗舰",
-      "buyHref": "https://mall.jd.com/index-1000002482.html",
-      "buyNote": "京东店铺搜超红瓶信号肽；核店铺与当批品名 · 2026-11-06；本轮未核到天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": "https://mall.jd.com/index-1000002482.html",
-      "jdLabel": "京东旗舰",
+      "buyLabel": "OLAY 官方/自营超红瓶面霜",
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXgACXF9eCEMfA18IGloWVQ8HV19bAUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUC2YNGFoTVAQdDRsBVXtUeRB1ehJzXmZSJgktCklrWmlLX0FTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsUFhfCBgUBGhcT1hHWVRWXG5dCXtEbS1aztCIiruigMHOOEonA2kAH1wXWQUCV1leC3sXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQBjsKTlhHM1pEEgYZXR5UbWgLGl4QWwACZFxcCUkVM184eSwQNQ5qETwtV0t0azF3XyJrK2VhPAAeYypiBhENdVkWW1hKDBZVaA9raxxQclxOADYCZF5fCEwnAl8",
+      "buyNote": "京东店铺搜超红瓶信号肽；核店铺与当批品名 · 2026-11-06；本轮未核到天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0037",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXgACXF9eCEMfA18IGloWVQ8HV19bAUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUC2YNGFoTVAQdDRsBVXtUeRB1ehJzXmZSJgktCklrWmlLX0FTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsUFhfCBgUBGhcT1hHWVRWXG5dCXtEbS1aztCIiruigMHOOEonA2kAH1wXWQUCV1leC3sXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQBjsKTlhHM1pEEgYZXR5UbWgLGl4QWwACZFxcCUkVM184eSwQNQ5qETwtV0t0azF3XyJrK2VhPAAeYypiBhENdVkWW1hKDBZVaA9raxxQclxOADYCZF5fCEwnAl8",
+      "jdLabel": "OLAY 官方/自营超红瓶面霜",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
-          "href": "https://mall.jd.com/index-1000002482.html",
-          "label": "京东旗舰"
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXgACXF9eCEMfA18IGloWVQ8HV19bAUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUC2YNGFoTVAQdDRsBVXtUeRB1ehJzXmZSJgktCklrWmlLX0FTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsUFhfCBgUBGhcT1hHWVRWXG5dCXtEbS1aztCIiruigMHOOEonA2kAH1wXWQUCV1leC3sXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQBjsKTlhHM1pEEgYZXR5UbWgLGl4QWwACZFxcCUkVM184eSwQNQ5qETwtV0t0azF3XyJrK2VhPAAeYypiBhENdVkWW1hKDBZVaA9raxxQclxOADYCZF5fCEwnAl8",
+          "label": "OLAY 官方/自营超红瓶面霜"
         }
       ],
       "has_jd": true,
@@ -5071,22 +5207,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.chcedo.com/",
-      "buyNote": "官网搜小紫瓶凝时鲜颜肌活；核当代版本 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网搜小紫瓶凝时鲜颜肌活；核当代版本 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#sr-chando-himalaya",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASgJK1olXwMCV1dZCk8eC18IGloXVAMEUVZdAEInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVCmoOHlMVVQ8dDRsBVXtUaxZIGhpVPWZyKidUfhl_WTgOQh1lUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsB1dYAB8RUGgJGFNFDwNVV25dCXtVbTRddQFFM1oyVW5dDkMTBG0NGVMRWQYAZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlbCx4UV2dmRx1TBVRGEx8zD0sfC28KGV0lXwcDVlxtOHsQaApjew5tBUB7JCkIARxEXwhNSyxAVGBwMRwfWC55ARh-TV5nNFRdAAUIXTkXAhBuK1slXQQCU25cOA",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.chcedo.com/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASgJK1olXwMCV1dZCk8eC18IGloXVAMEUVZdAEInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVCmoOHlMVVQ8dDRsBVXtUaxZIGhpVPWZyKidUfhl_WTgOQh1lUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsB1dYAB8RUGgJGFNFDwNVV25dCXtVbTRddQFFM1oyVW5dDkMTBG0NGVMRWQYAZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlbCx4UV2dmRx1TBVRGEx8zD0sfC28KGV0lXwcDVlxtOHsQaApjew5tBUB7JCkIARxEXwhNSyxAVGBwMRwfWC55ARh-TV5nNFRdAAUIXTkXAhBuK1slXQQCU25cOA",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -5235,22 +5375,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://theordinary.com/en-us/category/skincare/moisturizers",
-      "buyNote": "官方保湿分类搜Natural Moisturizing Factors + Beta Glucan · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官方保湿分类搜Natural Moisturizing Factors + Beta Glucan · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-to-nmf",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAUMJK1olWAMDU15cCEsTBV8IGloVWgYEXFtbCE4nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXBG8OE14TXQMdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwhJJ1x3HCEHaAANXyZ_YRtyJkVEJj5RBHsTBWwOH1oUXAUyVF9cCUoeC2YAGWsRW2gDOl5UDSVAAm0LGFkWWg9VVw4PDktEM28JKxl7BlNsFxUKXxREUC5YWxxKbQcyVFhVDEwVB20NElIdXTYCXFpt3-K51eOuz-K_irSAZG5tC3snM284GGtLMwcFBApZCExCbTNOXQNcDV5KOlldAE8VA2oJK1kUXAQAZG5tdjx0AWloHlpyKwAHAjw_aQh_UBRjflNUGg5wP1szCk0VaGd1GFxAG3lUKR0nC090M284G1kVWjYDZA",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://theordinary.com/en-us/category/skincare/moisturizers",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAUMJK1olWAMDU15cCEsTBV8IGloVWgYEXFtbCE4nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXBG8OE14TXQMdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKwhJJ1x3HCEHaAANXyZ_YRtyJkVEJj5RBHsTBWwOH1oUXAUyVF9cCUoeC2YAGWsRW2gDOl5UDSVAAm0LGFkWWg9VVw4PDktEM28JKxl7BlNsFxUKXxREUC5YWxxKbQcyVFhVDEwVB20NElIdXTYCXFpt3-K51eOuz-K_irSAZG5tC3snM284GGtLMwcFBApZCExCbTNOXQNcDV5KOlldAE8VA2oJK1kUXAQAZG5tdjx0AWloHlpyKwAHAjw_aQh_UBRjflNUGg5wP1szCk0VaGd1GFxAG3lUKR0nC090M284G1kVWjYDZA",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -5563,23 +5707,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.paulaschoice.com/shop-ingredient/niacinamide",
-      "buyNote": "官方烟酰胺分类选10% Booster，勿混20% Clinical · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官方烟酰胺分类选10% Booster，勿混20% Clinical · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-pc-nia10",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D9uwuKfVBoC9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXus5tf3aMnZ79%2FTFaMDK6SbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVP%2FC%2FH9e4Dwpj1GUHF4OXF6MHuv7RoNv0dIOLe2GUnGWK3GkZDPC4%2ByR505q0p8VIGY95FISth1fDKjyjuEwF530ZTw%2FFzFOF3jPUDLD6scPzkJhCxJ3046yjUlbh89x3%2F%2F4r8ZjZnqPzsAzH1xYDH5SOZ3GfjEySyOllzsaJgBTwL%2F5WMKSo%2BYjw1XZaYLU66Jn5AyUbPoV&union_lens=lensId:TAPI@1795634399@210781c6_1465_1a214268aad_8fdb@01",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.paulaschoice.com/shop-ingredient/niacinamide",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3D9uwuKfVBoC9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMXus5tf3aMnZ79%2FTFaMDK6SbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVP%2FC%2FH9e4Dwpj1GUHF4OXF6MHuv7RoNv0dIOLe2GUnGWK3GkZDPC4%2ByR505q0p8VIGY95FISth1fDKjyjuEwF530ZTw%2FFzFOF3jPUDLD6scPzkJhCxJ3046yjUlbh89x3%2F%2F4r8ZjZnqPzsAzH1xYDH5SOZ3GfjEySyOllzsaJgBTwL%2F5WMKSo%2BYjw1XZaYLU66Jn5AyUbPoV&union_lens=lensId:TAPI@1795634399@210781c6_1465_1a214268aad_8fdb@01",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -5643,17 +5791,17 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "京东旗舰",
-      "buyHref": "https://mall.jd.com/index-1000101092.html",
-      "buyNote": "店内搜舒缓修护霜50g；核普通妆 · 2026-11-06；本轮未核到天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": "https://mall.jd.com/index-1000101092.html",
-      "jdLabel": "京东旗舰",
+      "buyLabel": "米蓓尔官方/自营舒缓修护霜",
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BATQJK1olWAQEU1xcC00XC18IGlgXWAMKUFxZCE8UCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG0NHlMRXwICUF1UFxJSXzI4eBtpR1RjIlc4CBdNeAxREysXAXNKJFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkgeCz0JSFgRXg9RUApfAUknA244WjUWXgQHUlpeDkwnAl8IHVMRWgQGV15aDU8fM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmgOGl4cXFJsCBgbUA9BUWdmHFgUVA4AUF5tCkoWAW04K2twJnMGM10mTAxgAxxcRSdgWkRAPy0JSjZuR2paHhxBLl0DEQAzChFKfCpsGChXXQd6NFwEdywUM284G1kVWjYDZA",
+      "buyNote": "店内搜舒缓修护霜50g；核普通妆 · 2026-11-06；本轮未核到天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0045",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BATQJK1olWAQEU1xcC00XC18IGlgXWAMKUFxZCE8UCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG0NHlMRXwICUF1UFxJSXzI4eBtpR1RjIlc4CBdNeAxREysXAXNKJFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkgeCz0JSFgRXg9RUApfAUknA244WjUWXgQHUlpeDkwnAl8IHVMRWgQGV15aDU8fM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmgOGl4cXFJsCBgbUA9BUWdmHFgUVA4AUF5tCkoWAW04K2twJnMGM10mTAxgAxxcRSdgWkRAPy0JSjZuR2paHhxBLl0DEQAzChFKfCpsGChXXQd6NFwEdywUM284G1kVWjYDZA",
+      "jdLabel": "米蓓尔官方/自营舒缓修护霜",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
-          "href": "https://mall.jd.com/index-1000101092.html",
-          "label": "京东旗舰"
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BATQJK1olWAQEU1xcC00XC18IGlgXWAMKUFxZCE8UCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG0NHlMRXwICUF1UFxJSXzI4eBtpR1RjIlc4CBdNeAxREysXAXNKJFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkgeCz0JSFgRXg9RUApfAUknA244WjUWXgQHUlpeDkwnAl8IHVMRWgQGV15aDU8fM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmgOGl4cXFJsCBgbUA9BUWdmHFgUVA4AUF5tCkoWAW04K2twJnMGM10mTAxgAxxcRSdgWkRAPy0JSjZuR2paHhxBLl0DEQAzChFKfCpsGChXXQd6NFwEdywUM284G1kVWjYDZA",
+          "label": "米蓓尔官方/自营舒缓修护霜"
         }
       ],
       "has_jd": true,
@@ -5727,23 +5875,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://guyu.com.cn/item/8.html",
-      "buyNote": "官方美白奶罐Pro；99%是原料纯度 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官方美白奶罐Pro；99%是原料纯度 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-guyu-glab",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=dpVDn8gFZt3vN74z7AFkMh7C3-B6odnDCrvBGbkjwUDG&skuId=6019469725781",
+      "tmallLabel": "天猫超市",
       "channels": [
         {
           "href": "https://guyu.com.cn/item/8.html",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=dpVDn8gFZt3vN74z7AFkMh7C3-B6odnDCrvBGbkjwUDG&skuId=6019469725781",
+          "label": "天猫超市"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -6219,23 +6371,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://theordinary.com/en-us/category/skincare/serums",
-      "buyNote": "官方精华分类搜Hyaluronic Acid 2% + B5 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "官方精华分类搜Hyaluronic Acid 2% + B5 · 2026-11-06；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-to-ha",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRWmAHAHg6PJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSYNULpLzApDt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVOUCdLjs42mXheozni2ImlyMHuv7RoNv0YzeH%2FA0sTcbrXvmgDCkRadXNFIOYIKebUmKEFVXFTkVhJnxR%2B9dsoWDdaiVrWp04JZoTuLKzjxtqkjopg3F1IqAenUVNk7Ws2Wjax5cBDL4XzWG%2FwybxADAv%2FlYwpKj5iPDVdlpgtTromfkDJRs%2BhU%3D&union_lens=lensId:TAPI@1795634403@210569e9_1471_1a21426974d_704b@01&skuId=5828438324375",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://theordinary.com/en-us/category/skincare/serums",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRWmAHAHg6PJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSYNULpLzApDt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVOUCdLjs42mXheozni2ImlyMHuv7RoNv0YzeH%2FA0sTcbrXvmgDCkRadXNFIOYIKebUmKEFVXFTkVhJnxR%2B9dsoWDdaiVrWp04JZoTuLKzjxtqkjopg3F1IqAenUVNk7Ws2Wjax5cBDL4XzWG%2FwybxADAv%2FlYwpKj5iPDVdlpgtTromfkDJRs%2BhU%3D&union_lens=lensId:TAPI@1795634403@210569e9_1471_1a21426974d_704b@01&skuId=5828438324375",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -7947,25 +8103,25 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "京东自营",
-      "buyHref": "https://biore.jd.com/",
-      "buyNote": "花王碧柔京东自营旗舰搜「水活防晒水润凝蜜」；避开临期第三方 · 2026-11-02；本轮未核到天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": "https://biore.jd.com/",
-      "jdLabel": "京东自营",
-      "tmallHref": null,
-      "tmallLabel": null,
+      "buyLabel": "官方/自营在售碧柔水活防晒凝蜜",
+      "buyHref": "https://uland.taobao.com/item/edetail?id=exgdjD0uDtdJ8mq0rnfdbiVC0-y9QAVyS6K04k5yOUg&skuId=5302091827569",
+      "buyNote": "花王碧柔京东自营旗舰搜「水活防晒水润凝蜜」；避开临期第三方 · 2026-11-02；本轮未核到天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0069",
+      "jdHref": null,
+      "jdLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=exgdjD0uDtdJ8mq0rnfdbiVC0-y9QAVyS6K04k5yOUg&skuId=5302091827569",
+      "tmallLabel": "官方/自营在售碧柔水活防晒凝蜜",
       "channels": [
         {
-          "href": "https://biore.jd.com/",
-          "label": "京东自营"
+          "href": "https://uland.taobao.com/item/edetail?id=exgdjD0uDtdJ8mq0rnfdbiVC0-y9QAVyS6K04k5yOUg&skuId=5302091827569",
+          "label": "官方/自营在售碧柔水活防晒凝蜜"
         }
       ],
-      "has_jd": true,
-      "has_tmall": false,
+      "has_jd": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": false,
-      "missing_tmall": true
+      "missing_jd": true,
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -8449,23 +8605,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://theordinary.com/en-us/azelaic-acid-suspension-10-exfoliator-100407.html",
-      "buyNote": "品牌官网 Suspension 10% · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "品牌官网 Suspension 10% · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-to-aza10",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DcN3Zb2lWVu9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSYNULpLzApDt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVOUCdLjs42mXheozni2ImlyMHuv7RoNv0YzeH%2FA0sTcb%2F%2BGaZtQHmwQPvy%2BkVg5%2FU7ynqngE9GWzpTPjQAmNJxS4340sff0liem7R8%2Fh1xMCR4tZPYXNF6%2BAenUVNk7Ws4Og7cliX7d3kQy9VBeMLjzAv%2FlYwpKj5iPDVdlpgtTromfkDJRs%2BhU%3D&union_lens=lensId:TAPI@1795634403@0be36ca1_13d4_1a2142699fd_e1f9@01&skuId=6119183182328",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://theordinary.com/en-us/azelaic-acid-suspension-10-exfoliator-100407.html",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DcN3Zb2lWVu9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSYNULpLzApDt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVOUCdLjs42mXheozni2ImlyMHuv7RoNv0YzeH%2FA0sTcb%2F%2BGaZtQHmwQPvy%2BkVg5%2FU7ynqngE9GWzpTPjQAmNJxS4340sff0liem7R8%2Fh1xMCR4tZPYXNF6%2BAenUVNk7Ws4Og7cliX7d3kQy9VBeMLjzAv%2FlYwpKj5iPDVdlpgtTromfkDJRs%2BhU%3D&union_lens=lensId:TAPI@1795634403@0be36ca1_13d4_1a2142699fd_e1f9@01&skuId=6119183182328",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -8529,20 +8689,25 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "待补",
-      "buyHref": null,
-      "buyNote": "天猫海外 CosDeBAHA 旗舰有 10% 壬二酸线索；未采稳定单品链 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "天猫旗舰",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DcSpr48M3wBRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSYNULpLzApD1aH1Hk3GeOibBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVG7HLjSutplmJGyRrvnbF12MHuv7RoNv0Q0jFsbsQ7KW0lm4QDuaCJg4aW3VOviJMCDRuq%2FCIMxvPOQBiCIBu0b8t6YWwq6AbpvNn4Dvu7tCzsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6rs%2B1tPHmF0rWqumz5jgf1OD6QFvh2psIewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795634406@212cb236_14b4_1a21426a5cb_c901@01",
+      "buyNote": "天猫海外 CosDeBAHA 旗舰有 10% 壬二酸线索；未采稳定单品链 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已提升为主购买链，证据 verification/fill-link-evidence.jsonl#sr-cdb-aza10",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
-      "channels": [],
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DcSpr48M3wBRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSYNULpLzApD1aH1Hk3GeOibBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVG7HLjSutplmJGyRrvnbF12MHuv7RoNv0Q0jFsbsQ7KW0lm4QDuaCJg4aW3VOviJMCDRuq%2FCIMxvPOQBiCIBu0b8t6YWwq6AbpvNn4Dvu7tCzsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6rs%2B1tPHmF0rWqumz5jgf1OD6QFvh2psIewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795634406@212cb236_14b4_1a21426a5cb_c901@01",
+      "tmallLabel": "天猫旗舰",
+      "channels": [
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DcSpr48M3wBRw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSYNULpLzApD1aH1Hk3GeOibBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVG7HLjSutplmJGyRrvnbF12MHuv7RoNv0Q0jFsbsQ7KW0lm4QDuaCJg4aW3VOviJMCDRuq%2FCIMxvPOQBiCIBu0b8t6YWwq6AbpvNn4Dvu7tCzsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6rs%2B1tPHmF0rWqumz5jgf1OD6QFvh2psIewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795634406@212cb236_14b4_1a21426a5cb_c901@01",
+          "label": "天猫旗舰"
+        }
+      ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
-      "has_buyHref": false,
+      "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -9426,19 +9591,24 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "待补",
-      "buyHref": null,
-      "buyNote": "跨境 SKU 不稳定；未采可靠京东自营正装链 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyLabel": "京东自营",
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAYFXFlcDEgQBV8IGloWXg8CU1ZbDk0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUAGYIHFMTWwAdDRsBVXt2CxMMTRwdI2UKADcKXBwJAQphcAxlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsA1wNDUwSB2oPE1gUXg5SVm5dCXtFbWcAE1sTVQAGUllcOEonA2kAH1wXWAMDUlxcAHsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkpEC2oLGF0XM1pEEgYICgBVbWgLGl4XVAMAZFxcCUkVM184TiFNAlRaDC4rSyl-WwoPXSJ2Pk1rDDcIfht8YARXdVlnOn16Kh8FVk9IWyxvXx11BzYCZF5fCEwnAl8",
+      "buyNote": "跨境 SKU 不稳定；未采可靠京东自营正装链 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已提升为主购买链，证据 verification/fill-link-evidence.jsonl#ss-medicube",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAYFXFlcDEgQBV8IGloWXg8CU1ZbDk0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUAGYIHFMTWwAdDRsBVXt2CxMMTRwdI2UKADcKXBwJAQphcAxlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsA1wNDUwSB2oPE1gUXg5SVm5dCXtFbWcAE1sTVQAGUllcOEonA2kAH1wXWAMDUlxcAHsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkpEC2oLGF0XM1pEEgYICgBVbWgLGl4XVAMAZFxcCUkVM184TiFNAlRaDC4rSyl-WwoPXSJ2Pk1rDDcIfht8YARXdVlnOn16Kh8FVk9IWyxvXx11BzYCZF5fCEwnAl8",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
-      "channels": [],
-      "has_jd": false,
+      "channels": [
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olWAYFXFlcDEgQBV8IGloWXg8CU1ZbDk0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUAGYIHFMTWwAdDRsBVXt2CxMMTRwdI2UKADcKXBwJAQphcAxlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsA1wNDUwSB2oPE1gUXg5SVm5dCXtFbWcAE1sTVQAGUllcOEonA2kAH1wXWAMDUlxcAHsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkpEC2oLGF0XM1pEEgYICgBVbWgLGl4XVAMAZFxcCUkVM184TiFNAlRaDC4rSyl-WwoPXSJ2Pk1rDDcIfht8YARXdVlnOn16Kh8FVk9IWyxvXx11BzYCZF5fCEwnAl8",
+          "label": "京东自营"
+        }
+      ],
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
-      "has_buyHref": false,
-      "missing_jd": true,
+      "has_buyHref": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -11325,23 +11495,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://theordinary.com/en-us/niacinamide-10-zinc-1-serum-100436.html",
-      "buyNote": "品牌官网 PDP · 参考价跨境折合约 ¥45–70 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "品牌官网 PDP · 参考价跨境折合约 ¥45–70 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-to-nia",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=y4rqAgJIRt2Ka68ndvhJGhXCA-ebvdnaCGG7ZQ3bXHj&skuId=4738309561246",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://theordinary.com/en-us/niacinamide-10-zinc-1-serum-100436.html",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=y4rqAgJIRt2Ka68ndvhJGhXCA-ebvdnaCGG7ZQ3bXHj&skuId=4738309561246",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -11735,22 +11909,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.cerave.com/haircare/shampoo/anti-dandruff-hydrating-shampoo",
-      "buyNote": "美官网约 $11.99；国内跨境价波动 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "美官网约 $11.99；国内跨境价波动 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#sh-cerave-zpt",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXQ8AXF1eDEwSC18IGlsXXQYFVl5VDkweCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA20IG1wXXQ4EU1dUFxJSXzI4bF5XWA5YEAc-Y1F2SxZ1RloPI0Z2ElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkwWVGtfElwQXVIAV1heC0MnA244WjUWXQcBVVltCXsXBWcMHFkQWAYCVVheOEsfB1_fsvXD0aDW7fSKusknM18LK2slXTYBZAAzCUwRAGYISwx7AUBEDAtaThh5BG8AE14VXQYyVl9cCkknM19zaDtNLXpJMy0pDQtrZRxtGjxnAkZ-CwYdUzwSQA9mGVwQGFwLUwonbyMSWzhMWg9PbQYyVFlbDEonAl8",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.cerave.com/haircare/shampoo/anti-dandruff-hydrating-shampoo",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXQ8AXF1eDEwSC18IGlsXXQYFVl5VDkweCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA20IG1wXXQ4EU1dUFxJSXzI4bF5XWA5YEAc-Y1F2SxZ1RloPI0Z2ElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkwWVGtfElwQXVIAV1heC0MnA244WjUWXQcBVVltCXsXBWcMHFkQWAYCVVheOEsfB1_fsvXD0aDW7fSKusknM18LK2slXTYBZAAzCUwRAGYISwx7AUBEDAtaThh5BG8AE14VXQYyVl9cCkknM19zaDtNLXpJMy0pDQtrZRxtGjxnAkZ-CwYdUzwSQA9mGVwQGFwLUwonbyMSWzhMWg9PbQYyVFlbDEonAl8",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -12235,23 +12413,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://theordinary.com/en-ee/lactic-acid-5-ha-exfoliator-100427.html",
-      "buyNote": "品牌官网 · 参考价跨境折合约 ¥70–100 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "品牌官网 · 参考价跨境折合约 ¥70–100 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-to-lactic",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DADURFBRO3Xdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMaOn9f0mhfbzxq3IhSJN6GSbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X30mv3YaAVIWOemaFM5tHHZIVEiHQ62N5LVgCn4cffwi2c9lclobwgOa1zmQic%2F0vmVKOnkFwM2DaWO3ih6TRBOykLzelgyN2cfpFgDU962mzp9T2V3cvHr06ZUwfAlYFA6jil%2FEfrmTbkoc5A4PXY4Dk2KcUEVC4w0xRmF7FYV3gHp1FTZO1rPGDF1NzTQoPw%3D%3D&union_lens=lensId:TAPI@1795634414@0bb405a1_1445_1a21426c327_711b@01",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://theordinary.com/en-ee/lactic-acid-5-ha-exfoliator-100427.html",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DADURFBRO3Xdw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMaOn9f0mhfbzxq3IhSJN6GSbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X30mv3YaAVIWOemaFM5tHHZIVEiHQ62N5LVgCn4cffwi2c9lclobwgOa1zmQic%2F0vmVKOnkFwM2DaWO3ih6TRBOykLzelgyN2cfpFgDU962mzp9T2V3cvHr06ZUwfAlYFA6jil%2FEfrmTbkoc5A4PXY4Dk2KcUEVC4w0xRmF7FYV3gHp1FTZO1rPGDF1NzTQoPw%3D%3D&union_lens=lensId:TAPI@1795634414@0bb405a1_1445_1a21426c327_711b@01",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -13729,23 +13911,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.lancome.com.cn/",
-      "buyNote": "兰蔻中国官网搜 UV 小白管／轻透水漾；核国行特进字 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "兰蔻中国官网搜 UV 小白管／轻透水漾；核国行特进字 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ss-lancome",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DpVqxfDBTvh9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMaOn9f0mhfbzlovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X%2FMLDkggU%2FplOemaFM5tHHYxZyjQcbVDheesoYp3R6EYvHrmDeo8x2OMZHIjpa9kkNdQHWudUqaopQBtCofL0q7MqwDxF%2B3WMYyV04YTGsgyA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdC27kERC4937ss%2BeYU6Y4C8C%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795634417@213dbc98_147f_1a21426d13b_9261@01&skuId=6077791729942",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.lancome.com.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DpVqxfDBTvh9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMaOn9f0mhfbzlovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X%2FMLDkggU%2FplOemaFM5tHHYxZyjQcbVDheesoYp3R6EYvHrmDeo8x2OMZHIjpa9kkNdQHWudUqaopQBtCofL0q7MqwDxF%2B3WMYyV04YTGsgyA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdC27kERC4937ss%2BeYU6Y4C8C%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795634417@213dbc98_147f_1a21426d13b_9261@01&skuId=6077791729942",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -13811,23 +13997,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://theordinary.com/en-us/matrixyl-10-ha-serum-100431.html",
-      "buyNote": "品牌官网 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "品牌官网 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-to-matrixyl",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=r46Noq5sOtVe8AOVK0tMmfrCZ-Q5v3baCbbGbbKOMCj&skuId=4911799399874",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://theordinary.com/en-us/matrixyl-10-ha-serum-100431.html",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=r46Noq5sOtVe8AOVK0tMmfrCZ-Q5v3baCbbGbbKOMCj&skuId=4911799399874",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -13891,25 +14081,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.skinceuticals.com.cn/productdtl/productdtl-CEferulic.html",
-      "buyNote": "中国官网标价约 ¥1720 / 30ml；页面偶发波动 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "修丽可官方/自营 CE 精华",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DxfpSpQbiVu5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMf7WjOTWL7gB5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYRSHhchGCFpAO8wBj7e6DqgJEsaw%2FSDWQDtsvrEAqDRPcahREQDh0c73CYpZjmI9AA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzd6XfuOH2Xe2BC5lm2ul6aIMC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635235@213dad2d_147d_1a214334a51_d932@01&skuId=5519477324579",
+      "buyNote": "中国官网标价约 ¥1720 / 30ml；页面偶发波动 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0081；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#sr-skinceuticals",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DxfpSpQbiVu5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMf7WjOTWL7gB5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYRSHhchGCFpAO8wBj7e6DqgJEsaw%2FSDWQDtsvrEAqDRPcahREQDh0c73CYpZjmI9AA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzd6XfuOH2Xe2BC5lm2ul6aIMC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635235@213dad2d_147d_1a214334a51_d932@01&skuId=5519477324579",
+      "tmallLabel": "修丽可官方/自营 CE 精华",
       "channels": [
         {
-          "href": "https://www.skinceuticals.com.cn/productdtl/productdtl-CEferulic.html",
-          "label": "官网"
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DxfpSpQbiVu5w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMf7WjOTWL7gB5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYRSHhchGCFpAO8wBj7e6DqgJEsaw%2FSDWQDtsvrEAqDRPcahREQDh0c73CYpZjmI9AA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzd6XfuOH2Xe2BC5lm2ul6aIMC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635235@213dad2d_147d_1a214334a51_d932@01&skuId=5519477324579",
+          "label": "修丽可官方/自营 CE 精华"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=NwmZro2T5tG6eJxynkIv7sjCB-O8v6xkCZAjdmXPVFN9&skuId=5775886981330",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -14221,23 +14415,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kao.com/cn/products/curel/crl_bodywash_00/",
-      "buyNote": "花王中国产品页 420ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "花王中国产品页 420ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#bw-curel",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=65Pqr3nI8tGRZxJyw7szmtnC3-3yPAb4fk86AxBrZtRq",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.kao.com/cn/products/curel/crl_bodywash_00/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=65Pqr3nI8tGRZxJyw7szmtnC3-3yPAb4fk86AxBrZtRq",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -14385,23 +14583,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kao.com/cn/products/curel/crl_facecream_00/",
-      "buyNote": "花王中国 40g 产品页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "花王中国 40g 产品页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-curel",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DCwbgTZSrTQ1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMcPAY%2Be48BrQxq3IhSJN6GSbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4o08FnasXPj4SYm4Uk5%2BkemzRD18rVfQC6EuM7wkVK6rhyngvAIN50mIYt3O1sqkdpVe0W8EH%2F8Rt7vpnzKdQhTRdXnh6V3VCfYuTtKMnkj2vqtYQyGa0aN9B4Cl9Ji43Y%2B2t3tb8DziIdfn9d%2FEbW4Uj0jk8E%2FqjqXhq9%2ByrNI9j7a3e1vwPOIDJbuZDCrHt4%3D&union_lens=lensId:TAPI@1795634424@216606ac_1444_1a21426ea0c_59ce@01",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.kao.com/cn/products/curel/crl_facecream_00/",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DCwbgTZSrTQ1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMcPAY%2Be48BrQxq3IhSJN6GSbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4o08FnasXPj4SYm4Uk5%2BkemzRD18rVfQC6EuM7wkVK6rhyngvAIN50mIYt3O1sqkdpVe0W8EH%2F8Rt7vpnzKdQhTRdXnh6V3VCfYuTtKMnkj2vqtYQyGa0aN9B4Cl9Ji43Y%2B2t3tb8DziIdfn9d%2FEbW4Uj0jk8E%2FqjqXhq9%2ByrNI9j7a3e1vwPOIDJbuZDCrHt4%3D&union_lens=lensId:TAPI@1795634424@216606ac_1444_1a21426ea0c_59ce@01",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -14547,23 +14749,18 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "跨境",
-      "buyHref": "https://www.target.com/p/naturium-vegan-lactic-acid-emulsion-5-face-treatment-1-7-fl-oz/-/A-82226819",
-      "buyNote": "Target 零售线索；品牌站或已改款 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "已失效/下架，待人工复核",
+      "buyHref": null,
+      "buyNote": "Target 零售线索；品牌站或已改款 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：原主链已失效/下架且未核到可靠替代，已从公开购买渠道移除，待人工复核；2026-11-26 v3定向复核（复核时间 2026-11-26T04:05:12Z）：证据不足，未恢复公开购买链；原因：英文与中文商品、SKU、好价检索均无返回；未核到 Naturium 乳酸精华 5% 的官方/自营/旗舰店在售证据；本轮商品/SKU 检索均未返回可评估商品行；image_search 因无可用主图未适用。",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
       "tmallLabel": null,
-      "channels": [
-        {
-          "href": "https://www.target.com/p/naturium-vegan-lactic-acid-emulsion-5-face-treatment-1-7-fl-oz/-/A-82226819",
-          "label": "跨境"
-        }
-      ],
+      "channels": [],
       "has_jd": false,
       "has_tmall": false,
       "has_both_jd_tmall": false,
-      "has_buyHref": true,
+      "has_buyHref": false,
       "missing_jd": true,
       "missing_tmall": true
     },
@@ -14631,22 +14828,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.simcaregroup.com/shanchahuaxilie/35",
-      "buyNote": "官网标价 ¥119 / 100ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网标价 ¥119 / 100ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#br-simpcare",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXQ4KV15aD04TA18IGlsTWw8LUl5cC0gfAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2kOElITXQcBV1ZcFxJSXzI4cg1JIHRjDAw9QQtJVRdWXl5oFUBJElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhwQAmsOS1sSDgcKUlxcXE4nA244WjUVXAQDVlteAXsWM28OE18SXwMHV1heC0knA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9aHw4QX2heEhgFXRBCAAEPG1MRXgIHVm5fCUoVAV84Ky0SPXNJICQ-TzEeRRsNRAdKD1JXEipYbzlAXTFfezUXAE1wBAhaWjZUdhJJfwRqD3AyVG5dCksQM244",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.simcaregroup.com/shanchahuaxilie/35",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXQ4KV15aD04TA18IGlsTWw8LUl5cC0gfAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2kOElITXQcBV1ZcFxJSXzI4cg1JIHRjDAw9QQtJVRdWXl5oFUBJElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhwQAmsOS1sSDgcKUlxcXE4nA244WjUVXAQDVlteAXsWM28OE18SXwMHV1heC0knA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9aHw4QX2heEhgFXRBCAAEPG1MRXgIHVm5fCUoVAV84Ky0SPXNJICQ-TzEeRRsNRAdKD1JXEipYbzlAXTFfezUXAE1wBAhaWjZUdhJJfwRqD3AyVG5dCksQM244",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -14713,22 +14914,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kao.com/cn/products/curel/crl_facecream_00/",
-      "buyNote": "花王中国产品页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "花王中国产品页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#br-curel",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXg4LU1xYD00XB18IGloSXAAEUF1cAE0WB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgJHV0RXgcKUl9ZFxJSXzI4RyxNIlRkASg-aS1FaBULZTlGFnZCAlJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhkQU2gMS1MSWVIBBwxaAUknA244WjUVXgYLVVZUDXsWM28OE18SXwMHV1ddAEknA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9cGAlBXWheEhgFXRESAwEPG1MQWAcDVW5fCUoVAV84K118OFlcDQcZcxZVVjZ8TyUdP0FpAQcKCjRfZWtvfjUXBlwKVB00DhdSXB9QQQRiNg4yVG5dCksQM244",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.kao.com/cn/products/curel/crl_facecream_00/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXg4LU1xYD00XB18IGloSXAAEUF1cAE0WB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgJHV0RXgcKUl9ZFxJSXzI4RyxNIlRkASg-aS1FaBULZTlGFnZCAlJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZhkQU2gMS1MSWVIBBwxaAUknA244WjUVXgYLVVZUDXsWM28OE18SXwMHV1ddAEknA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9cGAlBXWheEhgFXRESAwEPG1MQWAcDVW5fCUoVAV84K118OFlcDQcZcxZVVjZ8TyUdP0FpAQcKCjRfZWtvfjUXBlwKVB00DhdSXB9QQQRiNg4yVG5dCksQM244",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -14793,25 +14998,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.skinceuticals.com.cn/productdtl/productdtl-TripleLipidRestore242.html",
-      "buyNote": "中国官网约 ¥1780 / 48ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "修丽可官方/自营 242 面霜",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DIgzRJ7y1ME1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSeqvihk2f6IMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYHoVI5%2FBcEJ67WrovTyF9RAkkpi3b2G6Lyq23CXam6pgQPO7CABCVEiBhTNmGyoGUA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdd20eqo7KVvkmeSv3zjw70sC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635248@21077362_149e_1a214337d04_ae1a@01",
+      "buyNote": "中国官网约 ¥1780 / 48ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0086；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#br-tlr242",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DIgzRJ7y1ME1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSeqvihk2f6IMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYHoVI5%2FBcEJ67WrovTyF9RAkkpi3b2G6Lyq23CXam6pgQPO7CABCVEiBhTNmGyoGUA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdd20eqo7KVvkmeSv3zjw70sC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635248@21077362_149e_1a214337d04_ae1a@01",
+      "tmallLabel": "修丽可官方/自营 242 面霜",
       "channels": [
         {
-          "href": "https://www.skinceuticals.com.cn/productdtl/productdtl-TripleLipidRestore242.html",
-          "label": "官网"
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DIgzRJ7y1ME1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSeqvihk2f6IMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYHoVI5%2FBcEJ67WrovTyF9RAkkpi3b2G6Lyq23CXam6pgQPO7CABCVEiBhTNmGyoGUA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdd20eqo7KVvkmeSv3zjw70sC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635248@21077362_149e_1a214337d04_ae1a@01",
+          "label": "修丽可官方/自营 242 面霜"
+        },
+        {
+          "href": "https://t.vip.com/redirect.php?url=eyJzY2hlbWVjb2RlIjoibWlnX2NvZGUiLCJzaGFyZUNvZGUiOiI0a2JnMTgwMDAwdWlhN3YxIiwibW9uaXRvclNwb3RDb2RlIjoiQzAxVjRrYmcxOHk4bXlkciIsIm1vbml0b3JTcG90S2V5IjoiVU5JT05fQVBJX0NIQU5ORUwiLCJhd2FrZSI6InRydWUiLCJ1Y29kZSI6ImFheXBseHFhIiwibWFyayI6IjJBcywyNVgscHpxRiIsImRlc3R1cmwiOiJodHRwczpcL1wvd3d3LnZpcC5jb21cL2RldGFpbC0wMDAwMDAwMDAwLTY5MjEzODk4NjM2Nzg2MTIyOTYuaHRtbCIsInZlbmRvckNvZGUiOiJqOWtxZmMifQ==&chanTag=default_pid&openId=917de1989ce8b8e8",
+          "label": "唯品自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -14875,25 +15084,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.skinceuticals.com.cn/productdtl/productdtl-TripleLipidRestore242.html",
-      "buyNote": "参考价约 ¥1780 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "修丽可官方/自营 242 面霜",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DIgzRJ7y1ME1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSeqvihk2f6IMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYHoVI5%2FBcEJ67WrovTyF9RAkkpi3b2G6Lyq23CXam6pgQPO7CABCVEiBhTNmGyoGUA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdd20eqo7KVvkmeSv3zjw70sC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635248@21077362_149e_1a214337d04_ae1a@01",
+      "buyNote": "参考价约 ¥1780 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0096；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#cr-tlr242",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DIgzRJ7y1ME1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSeqvihk2f6IMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYHoVI5%2FBcEJ67WrovTyF9RAkkpi3b2G6Lyq23CXam6pgQPO7CABCVEiBhTNmGyoGUA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdd20eqo7KVvkmeSv3zjw70sC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635248@21077362_149e_1a214337d04_ae1a@01",
+      "tmallLabel": "修丽可官方/自营 242 面霜",
       "channels": [
         {
-          "href": "https://www.skinceuticals.com.cn/productdtl/productdtl-TripleLipidRestore242.html",
-          "label": "官网"
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DIgzRJ7y1ME1w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSeqvihk2f6IMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qJL8TnrUE2X6HrMwml%2Bk%2FOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYHoVI5%2FBcEJ67WrovTyF9RAkkpi3b2G6Lyq23CXam6pgQPO7CABCVEiBhTNmGyoGUA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdd20eqo7KVvkmeSv3zjw70sC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635248@21077362_149e_1a214337d04_ae1a@01",
+          "label": "修丽可官方/自营 242 面霜"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=W57b4MqFot2BRbnX4kuA0IxCa-Ymv8naSB7Gp3V3kSRA&skuId=5423871677709",
+          "label": "天猫超市"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -14959,22 +15172,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.cerave.com/haircare/shampoo/anti-dandruff-hydrating-shampoo",
-      "buyNote": "洗发水页可跳转同线护发素；护发素单链待补 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "洗发水页可跳转同线护发素；护发素单链待补 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cd-cerave",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASsJK1olWAQKUF9VDE0fBl8IGloWXgcKUlZfAU0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUAG4AHVMXVAAdDRsBVXtgS3VNSSZjD2ZBKh4eewofaCtPQghTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsXVgOXUlABGpbGA9GWFFRU25dCXtFbbaOgo-G71RDFm5cOEsRC2sPGV4QXwIKVVZtCEMTM7ihtY2Z-9K7_onvinsnM2w4K2sVbQUyCjBcD08VU20KSTVJG0BaAR5eDiUQA2cNHV4RXzYAVV9fCnsnM2lhfgdLBF9GLwMfXRJjX2tKWQhQCF8GHQ4ETTZLZgEKQAEdXUVrUgIYfxJeagQIXlMlXTYCU1hZCXsWMw",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.cerave.com/haircare/shampoo/anti-dandruff-hydrating-shampoo",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASsJK1olWAQKUF9VDE0fBl8IGloWXgcKUlZfAU0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUAG4AHVMXVAAdDRsBVXtgS3VNSSZjD2ZBKh4eewofaCtPQghTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsXVgOXUlABGpbGA9GWFFRU25dCXtFbbaOgo-G71RDFm5cOEsRC2sPGV4QXwIKVVZtCEMTM7ihtY2Z-9K7_onvinsnM2w4K2sVbQUyCjBcD08VU20KSTVJG0BaAR5eDiUQA2cNHV4RXzYAVV9fCnsnM2lhfgdLBF9GLwMfXRJjX2tKWQhQCF8GHQ4ETTZLZgEKQAEdXUVrUgIYfxJeagQIXlMlXTYCU1hZCXsWMw",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -15205,23 +15422,27 @@
     "buy": {
       "buyLabel": "跨境",
       "buyHref": "https://www.stylevana.com/en_US/skin1004-madagascar-centella-ampoule-100ml640.html",
-      "buyNote": "Stylevana 100ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "Stylevana 100ml · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-skin1004",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DJGfL6ut%2FMBZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfXADC66%2BJPXMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVOTKlefQ27eHBDPazAlDnvOMHuv7RoNv0Q0jFsbsQ7KWQQBqjOfH2%2BDqrlbABQMHRJ6JefAhIPMqlXOA0QJDebLHlB3PajotzdRDMinGY9h2zsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6Bp4BKdm6wtH9vtRudpfSa84%2BYBPp9m9rewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795634438@216621fd_1427_1a21427212f_71e2@01&skuId=6147039629164",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.stylevana.com/en_US/skin1004-madagascar-centella-ampoule-100ml640.html",
           "label": "跨境"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DJGfL6ut%2FMBZw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMfXADC66%2BJPXMMgx22UI05abBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVOTKlefQ27eHBDPazAlDnvOMHuv7RoNv0Q0jFsbsQ7KWQQBqjOfH2%2BDqrlbABQMHRJ6JefAhIPMqlXOA0QJDebLHlB3PajotzdRDMinGY9h2zsAzH1xYDH4%2BhBsXyWLp8qmhbZKwBzU6Bp4BKdm6wtH9vtRudpfSa84%2BYBPp9m9rewMs64pmc8rGDmntuH4VtA%3D%3D&union_lens=lensId:TAPI@1795634438@216621fd_1427_1a21427212f_71e2@01&skuId=6147039629164",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -15369,22 +15590,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kao.com/cn/products/curel/crl_facewash_00/",
-      "buyNote": "花王中国洁颜泡沫产品页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "花王中国洁颜泡沫产品页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#ba-curel-cl",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BARgJK1olXDYCVV5cDEwTAWwPH1gWXTZGCwYDV3tORipJWVALQ15HAAJCUx4IUTFUBVsUXQcGU1pfC0wTAGwIBAJQAVsyCwovawhnQS5rYlxNW3ZYARtaVFFfVWMEK18TXgAGVV9cC3sXAm4JGlIdVA4AZFpbZkp5A2YNdQgSXlMGAwxYWxsQAT9fE1MlXQcyHzBcOEonA2kAH1wXWAMAUlpbDXsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQBzsMHglGM1pEEgYISxlIbWgIE1oSXQcCZFxcCUkVM184Wi1QK3taP1g5C09fYjxAQyZpOnFSJCkJAAlwdgZmGTNxXkBxKRYDcBlsBztqeilcbQYyZF9t",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.kao.com/cn/products/curel/crl_facewash_00/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BARgJK1olXDYCVV5cDEwTAWwPH1gWXTZGCwYDV3tORipJWVALQ15HAAJCUx4IUTFUBVsUXQcGU1pfC0wTAGwIBAJQAVsyCwovawhnQS5rYlxNW3ZYARtaVFFfVWMEK18TXgAGVV9cC3sXAm4JGlIdVA4AZFpbZkp5A2YNdQgSXlMGAwxYWxsQAT9fE1MlXQcyHzBcOEonA2kAH1wXWAMAUlpbDXsXC2s4zPK7i4qkgOf33_mVM184GGslbQYyV24DZkoQBzsMHglGM1pEEgYISxlIbWgIE1oSXQcCZFxcCUkVM184Wi1QK3taP1g5C09fYjxAQyZpOnFSJCkJAAlwdgZmGTNxXkBxKRYDcBlsBztqeilcbQYyZF9t",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -15695,25 +15920,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.winona.cn/product/110009.html",
-      "buyNote": "官网标价 ¥268 / 50g · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "buyLabel": "薇诺娜官方/自营舒敏特护霜",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7aLeaT8c%2Bupw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSL12NF1%2FV6Qt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qtVipPYPJBsJTFMob%2F5k0SzRD18rVfQC6EuM7wkVK6rmlv%2BoaaNeD6%2BIkaoHGgaAjDP7aX6tgbZ5AMLgV9SrTq81Ii7%2BWbA0htRFFJw4VDIZzL2qL1cpw1tmjxKBP1%2FFeAenUVNk7WsxIjP5Uhv22Ufxq%2FL2oMDBYHxpUDBQa3SupWDv3jK62scSpj5qSCmbA%3D&union_lens=lensId:TAPI@1795635263@2121bc3b_1485_1a21433b691_6c50@01",
+      "buyNote": "官网标价 ¥268 / 50g · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0112；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#br-winona",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olWAcLUFtbDUMWBF8IGloXXAAHXFldC0knRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAmkNE1wVXgQdDRsBVXsJfSRrcxoWI2Z_AFYceBZcazx8SwllUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsAF0OWx9FBGkNSFoSDgULUW5dCXtVbbavrYKL1tKb-Yfrk5K2l7i3go-d0zYDZF5bAE8QAWoNHlodWwEyVFZZOJy-rbmEvY-s99Gw1m5tOEgnM18IK1glA2gDU1pfWEkVUAFUXR1NCENJUDBaCEMTBWsPE2sXXAcAVm5tOC1KBhd8YwdSXkVSAyY-cwloXQdYTCN2VG4CXC0hDSUVYwldQxBuDmMDHCZceBhxSG84G2sVXwYFZF9t",
+      "jdLabel": "京东自营",
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7aLeaT8c%2Bupw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSL12NF1%2FV6Qt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qtVipPYPJBsJTFMob%2F5k0SzRD18rVfQC6EuM7wkVK6rmlv%2BoaaNeD6%2BIkaoHGgaAjDP7aX6tgbZ5AMLgV9SrTq81Ii7%2BWbA0htRFFJw4VDIZzL2qL1cpw1tmjxKBP1%2FFeAenUVNk7WsxIjP5Uhv22Ufxq%2FL2oMDBYHxpUDBQa3SupWDv3jK62scSpj5qSCmbA%3D&union_lens=lensId:TAPI@1795635263@2121bc3b_1485_1a21433b691_6c50@01",
+      "tmallLabel": "薇诺娜官方/自营舒敏特护霜",
       "channels": [
         {
-          "href": "https://www.winona.cn/product/110009.html",
-          "label": "官网"
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7aLeaT8c%2Bupw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSL12NF1%2FV6Qt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qtVipPYPJBsJTFMob%2F5k0SzRD18rVfQC6EuM7wkVK6rmlv%2BoaaNeD6%2BIkaoHGgaAjDP7aX6tgbZ5AMLgV9SrTq81Ii7%2BWbA0htRFFJw4VDIZzL2qL1cpw1tmjxKBP1%2FFeAenUVNk7WsxIjP5Uhv22Ufxq%2FL2oMDBYHxpUDBQa3SupWDv3jK62scSpj5qSCmbA%3D&union_lens=lensId:TAPI@1795635263@2121bc3b_1485_1a21433b691_6c50@01",
+          "label": "薇诺娜官方/自营舒敏特护霜"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olWAcLUFtbDUMWBF8IGloXXAAHXFldC0knRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAmkNE1wVXgQdDRsBVXsJfSRrcxoWI2Z_AFYceBZcazx8SwllUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsAF0OWx9FBGkNSFoSDgULUW5dCXtVbbavrYKL1tKb-Yfrk5K2l7i3go-d0zYDZF5bAE8QAWoNHlodWwEyVFZZOJy-rbmEvY-s99Gw1m5tOEgnM18IK1glA2gDU1pfWEkVUAFUXR1NCENJUDBaCEMTBWsPE2sXXAcAVm5tOC1KBhd8YwdSXkVSAyY-cwloXQdYTCN2VG4CXC0hDSUVYwldQxBuDmMDHCZceBhxSG84G2sVXwYFZF9t",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
-      "has_tmall": false,
-      "has_both_jd_tmall": false,
+      "has_jd": true,
+      "has_tmall": true,
+      "has_both_jd_tmall": true,
       "has_buyHref": true,
-      "missing_jd": true,
-      "missing_tmall": true
+      "missing_jd": false,
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -15777,25 +16006,25 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.winona.cn/product/110009.html",
-      "buyNote": "参考价约 ¥268 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "薇诺娜官方/自营舒敏特护霜",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7aLeaT8c%2Bupw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSL12NF1%2FV6Qt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qtVipPYPJBsJTFMob%2F5k0SzRD18rVfQC6EuM7wkVK6rmlv%2BoaaNeD6%2BIkaoHGgaAjDP7aX6tgbZ5AMLgV9SrTq81Ii7%2BWbA0htRFFJw4VDIZzL2qL1cpw1tmjxKBP1%2FFeAenUVNk7WsxIjP5Uhv22Ufxq%2FL2oMDBYHxpUDBQa3SupWDv3jK62scSpj5qSCmbA%3D&union_lens=lensId:TAPI@1795635263@2121bc3b_1485_1a21433b691_6c50@01",
+      "buyNote": "参考价约 ¥268 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0126",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7aLeaT8c%2Bupw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSL12NF1%2FV6Qt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qtVipPYPJBsJTFMob%2F5k0SzRD18rVfQC6EuM7wkVK6rmlv%2BoaaNeD6%2BIkaoHGgaAjDP7aX6tgbZ5AMLgV9SrTq81Ii7%2BWbA0htRFFJw4VDIZzL2qL1cpw1tmjxKBP1%2FFeAenUVNk7WsxIjP5Uhv22Ufxq%2FL2oMDBYHxpUDBQa3SupWDv3jK62scSpj5qSCmbA%3D&union_lens=lensId:TAPI@1795635263@2121bc3b_1485_1a21433b691_6c50@01",
+      "tmallLabel": "薇诺娜官方/自营舒敏特护霜",
       "channels": [
         {
-          "href": "https://www.winona.cn/product/110009.html",
-          "label": "官网"
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7aLeaT8c%2Bupw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMSL12NF1%2FV6Qt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qtVipPYPJBsJTFMob%2F5k0SzRD18rVfQC6EuM7wkVK6rmlv%2BoaaNeD6%2BIkaoHGgaAjDP7aX6tgbZ5AMLgV9SrTq81Ii7%2BWbA0htRFFJw4VDIZzL2qL1cpw1tmjxKBP1%2FFeAenUVNk7WsxIjP5Uhv22Ufxq%2FL2oMDBYHxpUDBQa3SupWDv3jK62scSpj5qSCmbA%3D&union_lens=lensId:TAPI@1795635263@2121bc3b_1485_1a21433b691_6c50@01",
+          "label": "薇诺娜官方/自营舒敏特护霜"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -16105,20 +16334,25 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "待补",
-      "buyHref": null,
-      "buyNote": "天猫修丽可官方旗舰有舒缓泡沫洁面；暂无稳定单品链 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "天猫旗舰",
+      "buyHref": "https://uland.taobao.com/item/edetail?id=qkZ75xD2C2t4OvZd6zqteKFJC0-3yPAb4fX6A2yJ9dsRy&skuId=6306422026695",
+      "buyNote": "天猫修丽可官方旗舰有舒缓泡沫洁面；暂无稳定单品链 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已提升为主购买链，证据 verification/fill-link-evidence.jsonl#ba-sc-foam",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
-      "channels": [],
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=qkZ75xD2C2t4OvZd6zqteKFJC0-3yPAb4fX6A2yJ9dsRy&skuId=6306422026695",
+      "tmallLabel": "天猫旗舰",
+      "channels": [
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=qkZ75xD2C2t4OvZd6zqteKFJC0-3yPAb4fX6A2yJ9dsRy&skuId=6306422026695",
+          "label": "天猫旗舰"
+        }
+      ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
-      "has_buyHref": false,
+      "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -16182,25 +16416,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.skii.com.cn/product/facial-treatment-essence",
-      "buyNote": "SK-II 中国官网神仙水页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "buyLabel": "SK-II 官方/自营护肤精华露",
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BARQJK1olXDYCVV9cDk4WAWoIHVolGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWwMDVltdDkoIWipURmtoI3lkJzwCAC5DU2pSGgxxDn5fFSwtBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55UTtaEwgVVVIKVlxbXxkRUF8IGmteMwcyVW5dDkMTBG0MGF0QWgUBZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlbCxtFUD9mRx1TBUFDXV8zD0gWAW0NE10lXwcDVlxtOHtydAhBYAVVBlNXJxxVDD9Dd25QblkSBHMEPxg9aCUVWjQKTTpLWlN1JFZbSRheBjU4G2slXDY",
+      "buyNote": "SK-II 中国官网神仙水页 · 2026-11-02；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0143；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#ba-skii",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BARQJK1olXDYCVV9cDk4WAWoIHVolGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWwMDVltdDkoIWipURmtoI3lkJzwCAC5DU2pSGgxxDn5fFSwtBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55UTtaEwgVVVIKVlxbXxkRUF8IGmteMwcyVW5dDkMTBG0MGF0QWgUBZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlbCxtFUD9mRx1TBUFDXV8zD0gWAW0NE10lXwcDVlxtOHtydAhBYAVVBlNXJxxVDD9Dd25QblkSBHMEPxg9aCUVWjQKTTpLWlN1JFZbSRheBjU4G2slXDY",
+      "jdLabel": "SK-II 官方/自营护肤精华露",
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=4vxxYxrcgtNRjvwj2di9eFQCg-AomQzDTD7Z4D0kRHY",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
-          "href": "https://www.skii.com.cn/product/facial-treatment-essence",
-          "label": "官网"
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BARQJK1olXDYCVV9cDk4WAWoIHVolGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWwMDVltdDkoIWipURmtoI3lkJzwCAC5DU2pSGgxxDn5fFSwtBEcnB2kLHV8UXAcBZF5cCUoWCmcBE1klWQBsVTBdAU55UTtaEwgVVVIKVlxbXxkRUF8IGmteMwcyVW5dDkMTBG0MGF0QWgUBZF5VDHvAqsHel_3B5KzV5txtOHsUM184G2sWbVhsVVlbCxtFUD9mRx1TBUFDXV8zD0gWAW0NE10lXwcDVlxtOHtydAhBYAVVBlNXJxxVDD9Dd25QblkSBHMEPxg9aCUVWjQKTTpLWlN1JFZbSRheBjU4G2slXDY",
+          "label": "SK-II 官方/自营护肤精华露"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=4vxxYxrcgtNRjvwj2di9eFQCg-AomQzDTD7Z4D0kRHY",
+          "label": "天猫国际自营"
         }
       ],
-      "has_jd": false,
-      "has_tmall": false,
-      "has_both_jd_tmall": false,
+      "has_jd": true,
+      "has_tmall": true,
+      "has_both_jd_tmall": true,
       "has_buyHref": true,
-      "missing_jd": true,
-      "missing_tmall": true
+      "missing_jd": false,
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -17248,20 +17486,25 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "待补",
-      "buyHref": null,
-      "buyNote": "跨境 SKU 不稳定；优先国行海飞丝 1%/希尔生 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "天猫旗舰",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dve7bCEm1irpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUM38BpQcdoklovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4q4cwH%2B61zAvMsKbTs0B%2BBgzRD18rVfQC6EuM7wkVK6rhATF8xTvJYOdaX21RjRLbHspVkKt9jNPkX2sEO1SVoCy26QGqdQg2F1qpEI9LkrAk3sG52i%2BPLO9B4Cl9Ji43Y%2B2t3tb8DziIdfn9d%2FEbW4bPQ3JE%2BR1Z3hs35OOmsVmz7a3e1vwPOIDJbuZDCrHt4%3D&union_lens=lensId:TAPI@1795634447@0b830dfc_1402_1a214274676_b9c2@01&skuId=5734105824623",
+      "buyNote": "跨境 SKU 不稳定；优先国行海飞丝 1%/希尔生 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已提升为主购买链，证据 verification/fill-link-evidence.jsonl#sh-selsun",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
-      "channels": [],
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dve7bCEm1irpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUM38BpQcdoklovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4q4cwH%2B61zAvMsKbTs0B%2BBgzRD18rVfQC6EuM7wkVK6rhATF8xTvJYOdaX21RjRLbHspVkKt9jNPkX2sEO1SVoCy26QGqdQg2F1qpEI9LkrAk3sG52i%2BPLO9B4Cl9Ji43Y%2B2t3tb8DziIdfn9d%2FEbW4bPQ3JE%2BR1Z3hs35OOmsVmz7a3e1vwPOIDJbuZDCrHt4%3D&union_lens=lensId:TAPI@1795634447@0b830dfc_1402_1a214274676_b9c2@01&skuId=5734105824623",
+      "tmallLabel": "天猫旗舰",
+      "channels": [
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dve7bCEm1irpw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUM38BpQcdoklovu%2FCElQOubBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4q4cwH%2B61zAvMsKbTs0B%2BBgzRD18rVfQC6EuM7wkVK6rhATF8xTvJYOdaX21RjRLbHspVkKt9jNPkX2sEO1SVoCy26QGqdQg2F1qpEI9LkrAk3sG52i%2BPLO9B4Cl9Ji43Y%2B2t3tb8DziIdfn9d%2FEbW4bPQ3JE%2BR1Z3hs35OOmsVmz7a3e1vwPOIDJbuZDCrHt4%3D&union_lens=lensId:TAPI@1795634447@0b830dfc_1402_1a214274676_b9c2@01&skuId=5734105824623",
+          "label": "天猫旗舰"
+        }
+      ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
-      "has_buyHref": false,
+      "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -17499,23 +17742,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.cerave.com/",
-      "buyNote": "CeraVe 官网搜 PM facial moisturizing lotion · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "CeraVe 官网搜 PM facial moisturizing lotion · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#br-cerave-pm",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=N8bzXNqI5tG6eMDNAVsv7sjCB-wJ0pVPUMXQGeMQxSd",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.cerave.com/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=N8bzXNqI5tG6eMDNAVsv7sjCB-wJ0pVPUMXQGeMQxSd",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -17993,22 +18240,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.winona.cn/",
-      "buyNote": "官网/旗舰搜柔润保湿洁面 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网/旗舰搜柔润保湿洁面 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#ba-winona-cl",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASkJK1olWw4AUVdaD0gfM28JGlIUWA8DUl9fDEgXMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWCm4NEloTXAQGV15CUQ5LXl9jQixJIX4HND0_SBh0V2cMEwlQP1RyWFJtDE0UBWsJGloWbQYDVV9cAUMeC204H117XGgCXVszAEgWA2kAGltHCg4GAF5ZC3sXAl9JdVgXVQQHZF9tCE0fB2gKHVsTWAQHVW5dAE8n1Mamzdezib-og-zfOHsnAF84K1slXjZcOl9aDElAAW0MdQdTG1wDA14ZZkwUA28PHlMdbQQDVVxfOHsnSg5oXA1SGmZpVTgUTz1SBQ1zbl1cGnBQN1Yfazx3bW11cDtyCVZ9DwUeVT5nQyt3W2sVbQYAVFltCXs",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.winona.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASkJK1olWw4AUVdaD0gfM28JGlIUWA8DUl9fDEgXMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWCm4NEloTXAQGV15CUQ5LXl9jQixJIX4HND0_SBh0V2cMEwlQP1RyWFJtDE0UBWsJGloWbQYDVV9cAUMeC204H117XGgCXVszAEgWA2kAGltHCg4GAF5ZC3sXAl9JdVgXVQQHZF9tCE0fB2gKHVsTWAQHVW5dAE8n1Mamzdezib-og-zfOHsnAF84K1slXjZcOl9aDElAAW0MdQdTG1wDA14ZZkwUA28PHlMdbQQDVVxfOHsnSg5oXA1SGmZpVTgUTz1SBQ1zbl1cGnBQN1Yfazx3bW11cDtyCVZ9DwUeVT5nQyt3W2sVbQYAVFltCXs",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -19973,22 +20224,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.binsis.cn/portal/list/index/id/10.html",
-      "buyNote": "冰溪修护系列页；京东搜冰溪屏障修护霜 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "冰溪修护系列页；京东搜冰溪屏障修护霜 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-binsis",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASUJK1olXwQAVFZeDEgeA18LGVkWVAcBVl5fCHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSl1fCkgeAmwKG1kVQl9HCANtTzJ3WBtNfFx3LkZRUDhUDxt1fiRwTVcZbQIEV1hZCUoWAF8IGloUXA8KXVZfOE8RbW5mG1IQMwYEU1wJWhwfVD0KS1MSDgQyVF9tSSURBmcIE1klXDYCUlZZD0kSBmsIElkQbQYKUG6KoeXBj8ncovHC74QyZG5eOHsnA18LKwV7XAEEVwxYAEJ5XylOQw8WD1hsU15VAUoeBW04GVoUXwQyZG4dSU5-SyoNRwFjNW5HFy4mCz5pCgdNWC1iBGZgB1szCjBtYQpWbD5WAFRQJ1tYUj9pM284G1kVWjYDZA",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.binsis.cn/portal/list/index/id/10.html",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASUJK1olXwQAVFZeDEgeA18LGVkWVAcBVl5fCHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSl1fCkgeAmwKG1kVQl9HCANtTzJ3WBtNfFx3LkZRUDhUDxt1fiRwTVcZbQIEV1hZCUoWAF8IGloUXA8KXVZfOE8RbW5mG1IQMwYEU1wJWhwfVD0KS1MSDgQyVF9tSSURBmcIE1klXDYCUlZZD0kSBmsIElkQbQYKUG6KoeXBj8ncovHC74QyZG5eOHsnA18LKwV7XAEEVwxYAEJ5XylOQw8WD1hsU15VAUoeBW04GVoUXwQyZG4dSU5-SyoNRwFjNW5HFy4mCz5pCgdNWC1iBGZgB1szCjBtYQpWbD5WAFRQJ1tYUj9pM284G1kVWjYDZA",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -20631,22 +20886,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.winona.cn/",
-      "buyNote": "官网搜柔润保湿爽肤水 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "官网搜柔润保湿爽肤水 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#ba-winona-toner",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olXDYCVV9eCkoUBWgKElMlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWXwcBUllfAUMIWipURlVRAl5cCyIJXRNHZj9eF1h7XGgCZD4LCjVodThte18PInF_VRgOVE9eWB8EF2sRWwUEUF9cCUgnA24JGlocVQ8KVm5ZDiUWbW8BHjVHXAUEBw1dX0ofC21YHw5GbQYDZAgzCEoWAmoBH10dWjYDZF5bAE8QAWoNH1kQWAUyVFZZOJy-rbmEvY-s99Gw1m5tOEgnM18IK1glA2gDUw4JDEsQBwFUXR1NCQRfBjBaCEMWBW4KGmsXXAcAVm5tOD9rZht-eyJFCUZcHT5fCUx8fwwOUjsdK3J8PVYhbSUVBm5XRV11Pn5qEj4vcDxjezw4G2sVXwYFZF9t",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.winona.cn/",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BATYJK1olXDYCVV9eCkoUBWgKElMlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloWXwcBUllfAUMIWipURlVRAl5cCyIJXRNHZj9eF1h7XGgCZD4LCjVodThte18PInF_VRgOVE9eWB8EF2sRWwUEUF9cCUgnA24JGlocVQ8KVm5ZDiUWbW8BHjVHXAUEBw1dX0ofC21YHw5GbQYDZAgzCEoWAmoBH10dWjYDZF5bAE8QAWoNH1kQWAUyVFZZOJy-rbmEvY-s99Gw1m5tOEgnM18IK1glA2gDUw4JDEsQBwFUXR1NCQRfBjBaCEMWBW4KGmsXXAcAVm5tOD9rZht-eyJFCUZcHT5fCUx8fwwOUjsdK3J8PVYhbSUVBm5XRV11Pn5qEj4vcDxjezw4G2sVXwYFZF9t",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -23835,24 +24094,28 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://juyou.zhanyan.com.cn/product.html",
-      "buyNote": "绽妍修护系列页搜 B5 精华 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyLabel": "绽妍官方/自营 B5 精华",
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXwMGUFxZDE4TBF8IGloWVAAGUF1UAUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUCmkMH1gcVAQdDRsBVXtkUGl-QSRNHWNQAAhdbC1ndjBSXxtlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsA1paWkkRC2pdHQ4UXwNVXW5dCXtVbbmCl4-C4dOJ9InbvnsWM28OE18SXwIBUldZD08nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtcH15HVWheEhgFTwkfVgEPG1MSWAEKU25fCUoVAV84Ky9oCnxrMi5faQxQAQlBc1hDOUVVVjhZbQtBdQh1fjUXXA5fFQIqdjdHQwlAZwlOK3wyVG5dCksQM244",
+      "buyNote": "绽妍修护系列页搜 B5 精华 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0148；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#sr-zhanyan-b5",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXwMGUFxZDE4TBF8IGloWVAAGUF1UAUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUCmkMH1gcVAQdDRsBVXtkUGl-QSRNHWNQAAhdbC1ndjBSXxtlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsA1paWkkRC2pdHQ4UXwNVXW5dCXtVbbmCl4-C4dOJ9InbvnsWM28OE18SXwIBUldZD08nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtcH15HVWheEhgFTwkfVgEPG1MSWAEKU25fCUoVAV84Ky9oCnxrMi5faQxQAQlBc1hDOUVVVjhZbQtBdQh1fjUXXA5fFQIqdjdHQwlAZwlOK3wyVG5dCksQM244",
+      "jdLabel": "绽妍官方/自营 B5 精华",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
-          "href": "https://juyou.zhanyan.com.cn/product.html",
-          "label": "官网"
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXwMGUFxZDE4TBF8IGloWVAAGUF1UAUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUCmkMH1gcVAQdDRsBVXtkUGl-QSRNHWNQAAhdbC1ndjBSXxtlUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsA1paWkkRC2pdHQ4UXwNVXW5dCXtVbbmCl4-C4dOJ9InbvnsWM28OE18SXwIBUldZD08nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGtcH15HVWheEhgFTwkfVgEPG1MSWAEKU25fCUoVAV84Ky9oCnxrMi5faQxQAQlBc1hDOUVVVjhZbQtBdQh1fjUXXA5fFQIqdjdHQwlAZwlOK3wyVG5dCksQM244",
+          "label": "绽妍官方/自营 B5 精华"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS0JK1olXwMGUFxZDE4TBF8IGloWVAAGUF1UAUknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoUCmkMH1gcVAQdDRsBVXt_YBB7ZS1sXWMBCAk5fhhPeSwOeStTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsA1paWkkRC2pdHQ4UXwNVXW5dCXtVbbmCl4-C4dOJ9InbvnsWM28OE18SXwMHUFlfD04nA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGsKTFkXWWheEhgFXE9TXgEPG1MQWgcAUm5fCUoVAV84Ky9oCnxrMi5faQxQAQlBcz9IB1pKVjhZbQtBdQh1fjUXXA5fFQIqdjdHQwlAZwlOK3wyVG5dCksQM244",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -24003,19 +24266,24 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "待补",
-      "buyHref": null,
-      "buyNote": "淘宝有医度森线索；未采稳定京东自营单链 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyLabel": "京东旗舰",
+      "buyHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXwMGUVdfAEsRCl8IGlsSXQIHVl5dAE4SBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2gIH14XXQYKUVtbFxJSXzI4BT5WGkVdHT4-Qx8RXhdrZCBUOXlCElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZksfUD0KSQsUXAcEUg1ZCUMnA244WjUVXw4KVl9UD3sWM28OE18SXwMHUFhVD0snA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGsKTFkXWmheEhgFXE0UXQEPG1MQXg4GUW5fCUoVAV84KyBBLQZlHCNVQDkWfQ1aaFtgFk1UECEhfDRHQAkNdVlcD11BUB0YYzBlZ28NZQRFKDYCZFZdAEgnAl8",
+      "buyNote": "淘宝有医度森线索；未采稳定京东自营单链 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已提升为主购买链，证据 verification/fill-link-evidence.jsonl#cd-yidusen-scalp",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXwMGUVdfAEsRCl8IGlsSXQIHVl5dAE4SBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2gIH14XXQYKUVtbFxJSXzI4BT5WGkVdHT4-Qx8RXhdrZCBUOXlCElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZksfUD0KSQsUXAcEUg1ZCUMnA244WjUVXw4KVl9UD3sWM28OE18SXwMHUFhVD0snA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGsKTFkXWmheEhgFXE0UXQEPG1MQXg4GUW5fCUoVAV84KyBBLQZlHCNVQDkWfQ1aaFtgFk1UECEhfDRHQAkNdVlcD11BUB0YYzBlZ28NZQRFKDYCZFZdAEgnAl8",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
-      "channels": [],
-      "has_jd": false,
+      "channels": [
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BASwJK1olXwMGUVdfAEsRCl8IGlsSXQIHVl5dAE4SBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2gIH14XXQYKUVtbFxJSXzI4BT5WGkVdHT4-Qx8RXhdrZCBUOXlCElJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZksfUD0KSQsUXAcEUg1ZCUMnA244WjUVXw4KVl9UD3sWM28OE18SXwMHUFhVD0snA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBGsKTFkXWmheEhgFXE0UXQEPG1MQXg4GUW5fCUoVAV84KyBBLQZlHCNVQDkWfQ1aaFtgFk1UECEhfDRHQAkNdVlcD11BUB0YYzBlZ28NZQRFKDYCZFZdAEgnAl8",
+          "label": "京东旗舰"
+        }
+      ],
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
-      "has_buyHref": false,
-      "missing_jd": true,
+      "has_buyHref": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -24500,23 +24768,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kao.com/cn/products/curel/crl_bodywash_00/",
-      "buyNote": "近亲 bw-curel · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "近亲 bw-curel · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#bw-curel-extra",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DPl%2BpwRZ1aRlw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZEcl4sloOOZ79%2FTFaMDK6SbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4oIwUeunIaF%2F7AqK%2B%2BkmeyDFdySDq37c85M03Htlxlxi0jG%2BxWwBPC4sU6VYqkPChuL3ODeRoqq5po2FOwcHuI%2FAxntc%2FVeF6jqVg794yutrP7nyHmkoZi722fnEb2Xy%2BCZkSeZ1DD2XVnXNw4RoQJURfoP8u5NmIXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1795634459@21075374_13a0_1a214277307_d778@01",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.kao.com/cn/products/curel/crl_bodywash_00/",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DPl%2BpwRZ1aRlw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZEcl4sloOOZ79%2FTFaMDK6SbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4oIwUeunIaF%2F7AqK%2B%2BkmeyDFdySDq37c85M03Htlxlxi0jG%2BxWwBPC4sU6VYqkPChuL3ODeRoqq5po2FOwcHuI%2FAxntc%2FVeF6jqVg794yutrP7nyHmkoZi722fnEb2Xy%2BCZkSeZ1DD2XVnXNw4RoQJURfoP8u5NmIXGJe8N%2FwNpGw%3D%3D&union_lens=lensId:TAPI@1795634459@21075374_13a0_1a214277307_d778@01",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -25168,25 +25440,29 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://juyou.zhanyan.com.cn/product.html",
-      "buyNote": "绽妍产品页搜洁面 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "绽妍官方/自营氨基酸洁面",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D31ESWgZZRZJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUkbuvGhf6rqt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4r6lE9N%2ByxDaQd8u2u0g4pOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYJPFmc3rjnzuCTlyhkycQVGES%2BtOMOqQePXl%2B1nr7i5nDRQPopsPw%2BBFBntEUr9ndA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdAlt8C7flexWwd%2FvMD5VJJcC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635293@2166e49c_141c_1a214342d4d_dedb@01",
+      "buyNote": "绽妍产品页搜洁面 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0165；补链候选与失效链替换不同，按 dead-link 优先作主链，fill 证据链保留为额外渠道，证据 verification/fill-link-evidence.jsonl#ba-zhanyan-cl",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D31ESWgZZRZJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUkbuvGhf6rqt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4r6lE9N%2ByxDaQd8u2u0g4pOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYJPFmc3rjnzuCTlyhkycQVGES%2BtOMOqQePXl%2B1nr7i5nDRQPopsPw%2BBFBntEUr9ndA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdAlt8C7flexWwd%2FvMD5VJJcC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635293@2166e49c_141c_1a214342d4d_dedb@01",
+      "tmallLabel": "绽妍官方/自营氨基酸洁面",
       "channels": [
         {
-          "href": "https://juyou.zhanyan.com.cn/product.html",
-          "label": "官网"
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3D31ESWgZZRZJw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMUkbuvGhf6rqt4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4r6lE9N%2ByxDaQd8u2u0g4pOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYJPFmc3rjnzuCTlyhkycQVGES%2BtOMOqQePXl%2B1nr7i5nDRQPopsPw%2BBFBntEUr9ndA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdAlt8C7flexWwd%2FvMD5VJJcC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795635293@2166e49c_141c_1a214342d4d_dedb@01",
+          "label": "绽妍官方/自营氨基酸洁面"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DGURmongJJudw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMVwW%2BosSXqJt8sviUM61dt2bBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4r6lE9N%2ByxDaQd8u2u0g4pOOemaFM5tHHYxZyjQcbVDheesoYp3R6EYB745lUf0oFrktvwjtt%2BkN03nuOmZ3VYSqgsWp63zvm4ru0J10ExIoKP2F8j%2BL3TCBW5yyBx7HAmq9cGXHsX5nz1LtHJQ2VdeOm9ZwNuk17ulGj91p7H1zhTAoyy9aPtpE4aERQYdZnw%3D&union_lens=lensId:TAPI@1795634462@212aa574_13fb_1a214277e64_cbde@01",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -28767,23 +29043,18 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "官网",
-      "buyHref": "https://www.aveeno.com/products/eczema-therapy-moisturizing-cream",
-      "buyNote": "Aveeno 美官网 Eczema Therapy Cream；跨境价波动 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyLabel": "已失效/下架，待人工复核",
+      "buyHref": null,
+      "buyNote": "Aveeno 美官网 Eczema Therapy Cream；跨境价波动 · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：原主链已失效/下架且未核到可靠替代，已从公开购买渠道移除，待人工复核；2026-11-26 v3定向复核（复核时间 2026-11-26T04:05:12Z）：证据不足，未恢复公开购买链；原因：可见官方/自营行多为婴儿润肤、普通燕麦保湿或非霜类；夜间/宝宝湿疹线索既可能是另一规格也多为第三方，不能替代成人 Eczema Therapy Daily Moisturizing Cream 1% 胶体燕麦 OTC 条；最接近拒绝候选为“AVEENO 多效修护宝宝湿疹四季儿童保湿面霜141g 舒缓红痒安抚敏感”，店铺 唯品自营（自营），拒绝原因：命中排除/近亲变体词：宝宝。",
       "jdHref": null,
       "jdLabel": null,
       "tmallHref": null,
       "tmallLabel": null,
-      "channels": [
-        {
-          "href": "https://www.aveeno.com/products/eczema-therapy-moisturizing-cream",
-          "label": "官网"
-        }
-      ],
+      "channels": [],
       "has_jd": false,
       "has_tmall": false,
       "has_both_jd_tmall": false,
-      "has_buyHref": true,
+      "has_buyHref": false,
       "missing_jd": true,
       "missing_tmall": true
     },
@@ -29179,23 +29450,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.cerave.com/",
-      "buyNote": "CeraVe 官网搜 Healing Ointment · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "CeraVe 官网搜 Healing Ointment · 2026-11-05；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-cerave-ointment",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=AvqW0a4Uzt4XymJQXzSy7SoCn-DKaBQDcPgMnKvd3T5&skuId=5532497015150",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.cerave.com/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=AvqW0a4Uzt4XymJQXzSy7SoCn-DKaBQDcPgMnKvd3T5&skuId=5532497015150",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -30821,22 +31096,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.aesop.com/hand-body/body-cleansers-scrubs/geranium-leaf-body-cleanser/BT11.html",
-      "buyNote": "Aesop 官网 Geranium Leaf Body Cleanser · 2026-11-08；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "Aesop 官网 Geranium Leaf Body Cleanser · 2026-11-08；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#bw-aesop-geranium",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olXw4DXV9cAEkRAl8IGlsVWg8CVVlVCk0WC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28PElsUWg4AUl9VFxJSXzI4SS1FX0dxPyo4Dg9pVDp7WywQC0J9JFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkIeVz1bGlpHVVIEVVhfCUsnA244WjUVXwQBVVtVC3sWM28OE18SXwMHUlxeD0snA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9cGAlBXWheEhgFXBNQXQEPG1MQWwcEVW5fCUoVAV84Ky9hNHp_NSkHTjJOeQ5beVNOPwADLj8AeyISXhZucjUXNWIBEi0gQBVvUW0LYz5vK08yVG5dD00TAl8JKw",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.aesop.com/hand-body/body-cleansers-scrubs/geranium-leaf-body-cleanser/BT11.html",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olXw4DXV9cAEkRAl8IGlsVWg8CVVlVCk0WC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28PElsUWg4AUl9VFxJSXzI4SS1FX0dxPyo4Dg9pVDp7WywQC0J9JFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkIeVz1bGlpHVVIEVVhfCUsnA244WjUVXwQBVVtVC3sWM28OE18SXwMHUlxeD0snA2cMK4y889CO8orkopylgV84K1glbTYCZF1tViUWBD9cGAlBXWheEhgFXBNQXQEPG1MQWwcEVW5fCUoVAV84Ky9hNHp_NSkHTjJOeQ5beVNOPwADLj8AeyISXhZucjUXNWIBEi0gQBVvUW0LYz5vK08yVG5dD00TAl8JKw",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -31559,23 +31838,27 @@
     "buy": {
       "buyLabel": "SMZDM线索",
       "buyHref": "https://www.smzdm.com/p/79765154/",
-      "buyNote": "什么值得买公开好价→核京东自营清痘水杨酸沐浴露 400ml · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "什么值得买公开好价→核京东自营清痘水杨酸沐浴露 400ml · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#bw-lrp-effaclar-sa",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=Rr3PYV4uZtjJmkYO2DFpduWC6-4qMW5mF9n4jmAmJS2&skuId=5966647592115",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.smzdm.com/p/79765154/",
           "label": "SMZDM线索"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=Rr3PYV4uZtjJmkYO2DFpduWC6-4qMW5mF9n4jmAmJS2&skuId=5966647592115",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -31723,23 +32006,27 @@
     "buy": {
       "buyLabel": "京东",
       "buyHref": "https://www.smzdm.com/ju/spvmvx7/",
-      "buyNote": "什么值得买润肤油／可悠然公开榜→核京东可悠然大黄瓶 · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "什么值得买润肤油／可悠然公开榜→核京东可悠然大黄瓶 · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#bw-kuyura",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=0R5gKpGt7t8bg56P0ztvBhZC6-WgvWyauQr8293RguZ&skuId=6060848208227",
+      "tmallLabel": "天猫超市",
       "channels": [
         {
           "href": "https://www.smzdm.com/ju/spvmvx7/",
           "label": "京东"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=0R5gKpGt7t8bg56P0ztvBhZC6-WgvWyauQr8293RguZ&skuId=6060848208227",
+          "label": "天猫超市"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -31969,22 +32256,26 @@
     "buy": {
       "buyLabel": "旗舰",
       "buyHref": "https://www.smzdm.com/",
-      "buyNote": "什么值得买／京东搜「松达 山茶油 沐浴露」核旗舰 · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "什么值得买／京东搜「松达 山茶油 沐浴露」核旗舰 · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#bw-songda-camellia",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olWAcBUV5UC0MeAl8IGlgVWwAAUVhZCUofAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG8OHVkQWwIDVVZcFxJSXzI4ZQAWI29lKgk-Cx9UCmh8QFxvIlhhNFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkMeBmZdSwxACQ8AUQlZDU8nA244WjUVVQEEV1xUCUonAl8IHVMRWgQHUVhUDUsfM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmhYT18VWlVsCBgbUB9LRGhmHFsdXQUBXFhtCkoWAW04K2thCQN_UAAAVThzVTZWUDNjH1gHAwcDQRN8Yi51E157X0NKIz4lU0tRSw4KSVJzBWBkZF5tCEkXC18JKw",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.smzdm.com/",
           "label": "旗舰"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olWAcBUV5UC0MeAl8IGlgVWwAAUVhZCUofAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG8OHVkQWwIDVVZcFxJSXzI4ZQAWI29lKgk-Cx9UCmh8QFxvIlhhNFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkMeBmZdSwxACQ8AUQlZDU8nA244WjUVVQEEV1xUCUonAl8IHVMRWgQHUVhUDUsfM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmhYT18VWlVsCBgbUB9LRGhmHFsdXQUBXFhtCkoWAW04K2thCQN_UAAAVThzVTZWUDNjH1gHAwcDQRN8Yi51E157X0NKIz4lU0tRSw4KSVJzBWBkZF5tCEkXC18JKw",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -32051,22 +32342,26 @@
     "buy": {
       "buyLabel": "SMZDM线索",
       "buyHref": "https://www.smzdm.com/ju/spvmvx7/",
-      "buyNote": "什么值得买润肤油榜→核京东独特艾琳沐浴油旗舰 · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "什么值得买润肤油榜→核京东独特艾琳沐浴油旗舰 · 2026-11-09；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#bw-dear-lrean-oil",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS8JK1olWAcCUFtfDU4RB18IGlgXWwIAU19VDUMSB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG0OH1kSXA4HXFtZFxJSXzI4QAEXBAcDBwA-cxtNdBxaaAgVNH4BNFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZh8VAWkLGA8UCANQAw5aAEgnA244WjUWWwACUVhdCk0nAl8IHVMRWgQHUVddCksXM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmgOG15BDgJsCBgbUB9WATdmHFgUXwUHVldtCkoWAW04K2sTNGNbCgcETDBKQTpRbwcRHk9jLQsEfApJazMMfz57X11YXF4eYU1LRjBveSFOGg8KZF5tCEwRB244Gms",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.smzdm.com/ju/spvmvx7/",
           "label": "SMZDM线索"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS8JK1olWAcCUFtfDU4RB18IGlgXWwIAU19VDUMSB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAG0OH1kSXA4HXFtZFxJSXzI4QAEXBAcDBwA-cxtNdBxaaAgVNH4BNFJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZh8VAWkLGA8UCANQAw5aAEgnA244WjUWWwACUVhdCk0nAl8IHVMRWgQHUVddCksXM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmgOG15BDgJsCBgbUB9WATdmHFgUXwUHVldtCkoWAW04K2sTNGNbCgcETDBKQTpRbwcRHk9jLQsEfApJazMMfz57X11YXF4eYU1LRjBveSFOGg8KZF5tCEwRB244Gms",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -34509,25 +34804,25 @@
       "d_tier_canvas": null
     },
     "buy": {
-      "buyLabel": "京东自营",
-      "buyHref": "https://rnw.jd.com/",
-      "buyNote": "haina 京东自营双支约¥79.9线索；店内搜氨基酸洁面核规格 · 2026-11-09 Asia/Shanghai；本轮未核到天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": "https://rnw.jd.com/",
-      "jdLabel": "京东自营",
-      "tmallHref": null,
-      "tmallLabel": null,
+      "buyLabel": "RNW 官方/自营氨基酸洁面",
+      "buyHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DtWtGonSJyv9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMeGPzP8N8V0ht4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVCBwVgRkuBSKvM1SVPGStQCMHuv7RoNv0Q0jFsbsQ7KWFwfZLNiuVXXchNiK3qENytUHHbv7JlfkU6u6yotQ2X5DJtU598WadKbKE%2BAVrfnT%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlO3hnPqWVTpTJ9rDM3WbA9QDqwDkTcCtaAz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795635303@2104ad37_13eb_1a21434552b_5891@01",
+      "buyNote": "haina 京东自营双支约¥79.9线索；店内搜氨基酸洁面核规格 · 2026-11-09 Asia/Shanghai；本轮未核到天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：失效主链已按 verification/dead-link-actions.jsonl 替换，证据 DLE-0178",
+      "jdHref": null,
+      "jdLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DtWtGonSJyv9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMeGPzP8N8V0ht4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVCBwVgRkuBSKvM1SVPGStQCMHuv7RoNv0Q0jFsbsQ7KWFwfZLNiuVXXchNiK3qENytUHHbv7JlfkU6u6yotQ2X5DJtU598WadKbKE%2BAVrfnT%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlO3hnPqWVTpTJ9rDM3WbA9QDqwDkTcCtaAz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795635303@2104ad37_13eb_1a21434552b_5891@01",
+      "tmallLabel": "RNW 官方/自营氨基酸洁面",
       "channels": [
         {
-          "href": "https://rnw.jd.com/",
-          "label": "京东自营"
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DtWtGonSJyv9w4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMeGPzP8N8V0ht4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4rQ5thPdhAOVCBwVgRkuBSKvM1SVPGStQCMHuv7RoNv0Q0jFsbsQ7KWFwfZLNiuVXXchNiK3qENytUHHbv7JlfkU6u6yotQ2X5DJtU598WadKbKE%2BAVrfnT%2FufIeaShmLtX8odRoZDLJj%2BOtV81bjlO3hnPqWVTpTJ9rDM3WbA9QDqwDkTcCtaAz7kIoLgQmZQhhQs2DjqgEA%3D%3D&union_lens=lensId:TAPI@1795635303@2104ad37_13eb_1a21434552b_5891@01",
+          "label": "RNW 官方/自营氨基酸洁面"
         }
       ],
-      "has_jd": true,
-      "has_tmall": false,
+      "has_jd": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": false,
-      "missing_tmall": true
+      "missing_jd": true,
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -35577,23 +35872,27 @@
     "buy": {
       "buyLabel": "检索",
       "buyHref": "https://www.yesstyle.com/",
-      "buyNote": "YesStyle／Olive Young 搜 Torriden DIVE-IN cream · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "YesStyle／Olive Young 搜 Torriden DIVE-IN cream · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-torriden-divein",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=Md4ZqAkTKtXe2wjyDYuxqH7CA-MMvKADTVP6ZYnbYTZ",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://www.yesstyle.com/",
           "label": "检索"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=Md4ZqAkTKtXe2wjyDYuxqH7CA-MMvKADTVP6ZYnbYTZ",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -35823,23 +36122,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.kao.com/cn/products/curel/",
-      "buyNote": "花王中国 Curél；店内搜润浸保湿身体乳 · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "花王中国 Curél；店内搜润浸保湿身体乳 · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#cr-curel-body-milk",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3DSbn7bPodqntw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMW4OwMekWCFh5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4oIwUeunIaF%2F7AqK%2B%2BkmeyDOemaFM5tHHZIVEiHQ62N5LVgCn4cffwi2c9lclobwgONr2rYp1DF%2BbA8wfJFAEx3PUuvGeXJBE%2BO9NUBRPg8N5qHBDoR65eMcV7L6TlM7SL06ZUwfAlYFA6jil%2FEfrmTbkoc5A4PXY7xPvqix%2F6uiLKYWi6jjgBPgHp1FTZO1rPGDF1NzTQoPw%3D%3D&union_lens=lensId:TAPI@1795634485@212cb236_14b4_1a21427d847_d493@01",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.kao.com/cn/products/curel/",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3DSbn7bPodqntw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMW4OwMekWCFh5x%2BIUlGKNpWbBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4oIwUeunIaF%2F7AqK%2B%2BkmeyDOemaFM5tHHZIVEiHQ62N5LVgCn4cffwi2c9lclobwgONr2rYp1DF%2BbA8wfJFAEx3PUuvGeXJBE%2BO9NUBRPg8N5qHBDoR65eMcV7L6TlM7SL06ZUwfAlYFA6jil%2FEfrmTbkoc5A4PXY7xPvqix%2F6uiLKYWi6jjgBPgHp1FTZO1rPGDF1NzTQoPw%3D%3D&union_lens=lensId:TAPI@1795634485@212cb236_14b4_1a21427d847_d493@01",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -36901,22 +37204,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.neutrogena.com.tw/products/facial-creams/hydro-boost-water-gel",
-      "buyNote": "台湾官网水活保湿凝露；国内旗舰搜水活保湿／盈透凝露 50g 核升级款 · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "台湾官网水活保湿凝露；国内旗舰搜水活保湿／盈透凝露 50g 核升级款 · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#cr-neutrogena-hbwg",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olWAYFV1tZAUgXAF8IGlgWWAEAUVheAEgQBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAGwNHFkQWwUKV1lYFxJSXzI4Tx0XJVFHHVo4TgtnQRZ1cCcLVUAFAlJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkgWBGcNG15AXgILA15VDBknA244WjUVVQIAXFtfAUwnAl8IHVMRWgQHUVdVCkIQM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmgMGQwXXwJsCBgbUB9QUCpmHFsdWA8AVFxtCkoWAW04K2tuLmZVJCIWbzhjBi90fVtcP1hkIh4hfz1Jc29xezt7XwEHEQRUDx9tZAdoUi0cI3lYZF5tCEkXBF8JKw",
+      "jdLabel": "京东旗舰",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://www.neutrogena.com.tw/products/facial-creams/hydro-boost-water-gel",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BAS4JK1olWAYFV1tZAUgXAF8IGlgWWAEAUVheAEgQBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAGwNHFkQWwUKV1lYFxJSXzI4Tx0XJVFHHVo4TgtnQRZ1cCcLVUAFAlJROE8RAGkMGloUXjYCVV9cCUIfCmcKK18TMwdsVFdYZkgWBGcNG15AXgILA15VDBknA244WjUVVQIAXFtfAUwnAl8IHVMRWgQHUVdVCkIQM28AH2vC9KjU2PiJseHAse04K2sWbTYyVG5eOBV5AmgMGQwXXwJsCBgbUB9QUCpmHFsdWA8AVFxtCkoWAW04K2tuLmZVJCIWbzhjBi90fVtcP1hkIh4hfz1Jc29xezt7XwEHEQRUDx9tZAdoUi0cI3lYZF5tCEkXBF8JKw",
+          "label": "京东旗舰"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -37065,23 +37372,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.daiichisankyo-hc.co.jp/cn/products/details/minon-aminomoist_lotion/",
-      "buyNote": "第一三共中国站化妆水Ⅰ 150mL；亦可核Ⅱ更滋润型 · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "第一三共中国站化妆水Ⅰ 150mL；亦可核Ⅱ更滋润型 · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ba-minon-lotion",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=mP2RRkKeCktJ7m9p3qASvZtQC3-K7vDpzuj4mJdRx4sP&skuId=4935733165046",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.daiichisankyo-hc.co.jp/cn/products/details/minon-aminomoist_lotion/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=mP2RRkKeCktJ7m9p3qASvZtQC3-K7vDpzuj4mJdRx4sP&skuId=4935733165046",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -37147,23 +37458,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://www.daiichisankyo-hc.co.jp/cn/products/details/minon-aminomoist_milk/",
-      "buyNote": "第一三共中国站长效保湿乳液 100g · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "第一三共中国站长效保湿乳液 100g · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ba-minon-milk",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7U1hGwxHWsBw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZ1Q%2FO%2FQ5eG4t4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qU4UvmTtMCYE9Il3dJS0CVOemaFM5tHHYxZyjQcbVDheesoYp3R6EYpr8VTtjwe8ZRtlVKdpv9VmlOoToTBaxGO2EPciggVeAl0%2F78kDASJiUtKswF1qUvA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdqqL%2FjKv8OlZbJrEohy2XdcC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795634493@0b830dfc_1402_1a21427f668_c064@01&skuId=6213875939424",
+      "tmallLabel": "天猫旗舰",
       "channels": [
         {
           "href": "https://www.daiichisankyo-hc.co.jp/cn/products/details/minon-aminomoist_milk/",
           "label": "官网"
+        },
+        {
+          "href": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7U1hGwxHWsBw4vFB6t2Z2ueEDrYVVa64yK8Cckff7TVRAdhuF14FMZ1Q%2FO%2FQ5eG4t4hWD5k2kjObBjBh3LodcDtMDMUFdHxs9v39cUD26lHuh7mWVLR%2B8oVwhIsr1DlAgb9ZeSZXs4qU4UvmTtMCYE9Il3dJS0CVOemaFM5tHHYxZyjQcbVDheesoYp3R6EYpr8VTtjwe8ZRtlVKdpv9VmlOoToTBaxGO2EPciggVeAl0%2F78kDASJiUtKswF1qUvA5aT98QfFAD06ZUwfAlYFPGsrCeoiRzdqqL%2FjKv8OlZbJrEohy2XdcC%2F%2BVjCkqPmI8NV2WmC1OuiZ%2BQMlGz6FQ%3D%3D&union_lens=lensId:TAPI@1795634493@0b830dfc_1402_1a21427f668_c064@01&skuId=6213875939424",
+          "label": "天猫旗舰"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -37229,22 +37544,26 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://theordinary.com/en-us/squalane-face-cleanser-100446.html",
-      "buyNote": "DECIEM 官网角鲨烷洁面膏；核 50ml／150ml · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
-      "jdHref": null,
-      "jdLabel": null,
+      "buyNote": "DECIEM 官网角鲨烷洁面膏；核 50ml／150ml · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入京东渠道，证据 verification/fill-link-evidence.jsonl#ba-to-squalane-cl",
+      "jdHref": "https://union-click.jd.com/jdc?e=&p=JF8BATAJK1olWAMDU1xdDkgSBV8IGloUXgMCVF9eDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGoIG1oWWw8dDRsBVXtkAgtNSC1cNmVnLgQPbg9SeyZ0WwFTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsXFcKDU5ECmwIGl5CDwYEA25dCXtVbTRddRheClFdBw0cWAtQXF8JK1sTVQIFVltYAEkXC2o4G1MRbdGr-ojRrp-uqbi6mWslbQUyZG5dOEgnXQEJHAtAVQABATABTg1PVycAQDUSXQ4HXFpZCnsVAm4KGWslbQFLAidUchVEeSpwSCF0CwRqXRwlWzF_ACdSUhlvNGgACh8oVBhNWzZ2cyFCFmJLCRltCHsXAW8PK1ol",
+      "jdLabel": "京东自营",
       "tmallHref": null,
       "tmallLabel": null,
       "channels": [
         {
           "href": "https://theordinary.com/en-us/squalane-face-cleanser-100446.html",
           "label": "官网"
+        },
+        {
+          "href": "https://union-click.jd.com/jdc?e=&p=JF8BATAJK1olWAMDU1xdDkgSBV8IGloUXgMCVF9eDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGoIG1oWWw8dDRsBVXtkAgtNSC1cNmVnLgQPbg9SeyZ0WwFTUQoyUFheDk8WAm4LK1sUXAcDXVZUAEknB2lmGjUVVANsXFcKDU5ECmwIGl5CDwYEA25dCXtVbTRddRheClFdBw0cWAtQXF8JK1sTVQIFVltYAEkXC2o4G1MRbdGr-ojRrp-uqbi6mWslbQUyZG5dOEgnXQEJHAtAVQABATABTg1PVycAQDUSXQ4HXFpZCnsVAm4KGWslbQFLAidUchVEeSpwSCF0CwRqXRwlWzF_ACdSUhlvNGgACh8oVBhNWzZ2cyFCFmJLCRltCHsXAW8PK1ol",
+          "label": "京东自营"
         }
       ],
-      "has_jd": false,
+      "has_jd": true,
       "has_tmall": false,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
-      "missing_jd": true,
+      "missing_jd": false,
       "missing_tmall": true
     },
     "source": {
@@ -37311,23 +37630,27 @@
     "buy": {
       "buyLabel": "官网",
       "buyHref": "https://jp.rohto.com/ch/melanocc/",
-      "buyNote": "乐敦 Melano CC 官方线；国内可到乐敦京东自营旗舰核 20ml · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "乐敦 Melano CC 官方线；国内可到乐敦京东自营旗舰核 20ml · 2026-11-09 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#sr-melano-cc",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=NXZZ48aT5tG6eMAoaYuM8cjCB-7O0bPDIOGJJA8JRSQ",
+      "tmallLabel": "天猫国际自营",
       "channels": [
         {
           "href": "https://jp.rohto.com/ch/melanocc/",
           "label": "官网"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=NXZZ48aT5tG6eMAoaYuM8cjCB-7O0bPDIOGJJA8JRSQ",
+          "label": "天猫国际自营"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -37393,23 +37716,27 @@
     "buy": {
       "buyLabel": "检索旗舰",
       "buyHref": "https://www.smzdm.com/",
-      "buyNote": "本轮haina仅见第三方约¥31；请到瑷尔博士官方旗舰核洁颜蜜正装 · 2026-11-10 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "本轮haina仅见第三方约¥31；请到瑷尔博士官方旗舰核洁颜蜜正装 · 2026-11-10 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ba-alva-cl",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=nkeQ73jTMt3jxQyDAyUMXhyCP-dJvQngUnWzNY6ypS3",
+      "tmallLabel": "天猫超市",
       "channels": [
         {
           "href": "https://www.smzdm.com/",
           "label": "检索旗舰"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=nkeQ73jTMt3jxQyDAyUMXhyCP-dJvQngUnWzNY6ypS3",
+          "label": "天猫超市"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,
@@ -37647,23 +37974,27 @@
     "buy": {
       "buyLabel": "检索旗舰",
       "buyHref": "https://www.smzdm.com/",
-      "buyNote": "本轮haina未见官方旗舰直链，市场约¥16–30；请到半亩花田官方旗舰核正装 · 2026-11-10 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai",
+      "buyNote": "本轮haina未见官方旗舰直链，市场约¥16–30；请到半亩花田官方旗舰核正装 · 2026-11-10 Asia/Shanghai；本轮未核到京东／天猫 · 2026-11-10 Asia/Shanghai；2026-11-26 购买链证据更新：补链候选已加入天猫渠道，证据 verification/fill-link-evidence.jsonl#ba-banmu-cl",
       "jdHref": null,
       "jdLabel": null,
-      "tmallHref": null,
-      "tmallLabel": null,
+      "tmallHref": "https://uland.taobao.com/item/edetail?id=04pJwRoS7t8D26bvvgsRYFZC6-DKaBQDcPVQkmq4Ri6q&skuId=5695477443533",
+      "tmallLabel": "天猫超市",
       "channels": [
         {
           "href": "https://www.smzdm.com/",
           "label": "检索旗舰"
+        },
+        {
+          "href": "https://uland.taobao.com/item/edetail?id=04pJwRoS7t8D26bvvgsRYFZC6-DKaBQDcPVQkmq4Ri6q&skuId=5695477443533",
+          "label": "天猫超市"
         }
       ],
       "has_jd": false,
-      "has_tmall": false,
+      "has_tmall": true,
       "has_both_jd_tmall": false,
       "has_buyHref": true,
       "missing_jd": true,
-      "missing_tmall": true
+      "missing_tmall": false
     },
     "source": {
       "in_r29_data": false,

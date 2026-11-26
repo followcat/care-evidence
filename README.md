@@ -49,8 +49,8 @@ python3 site/verify.py                      # 抽查详情页与数据一致性
 已发布的 care-evidence 仓库由 studio 工作区用脚本装配，内容可复现：
 
 ```bash
-bash deploy/assemble.sh    # 在 studio 工作区根执行，产物在 deploy/care-evidence/
+bash deploy/prepare-local-repo.sh    # 在 studio 工作区根执行，产物在 deploy/care-evidence/
 ```
 
-它把 `site/data/products.json` 拷到根 `data/`（并生成 `.jsonl`），连同 `site/` 源码、`.github/workflows/pages.yml`、`docs/`、`tools/`、本 README 与 `.gitignore` 一起装配成一个干净、无讨论包、无 `.env` 的仓库。装配后即可按 `docs/publish-runbook.md` 推送。
+它把 `site/data/products.json` 拷到根 `data/`（并生成 `.jsonl`），连同 `site/` 源码、`.github/workflows/pages.yml`、`docs/`、`tools/`、本 README 与 `.gitignore` 一起装配成一个干净、无讨论包、无 `.env` 的仓库；随后构建、验证并准备好 `main` 分支本地提交（不配置 remote、不 push）。默认只读拉取公开仓库当前 `main` 作为父级，以便用户推送时 fast-forward；之后即可按 `docs/publish-runbook.md` 推送。
 
